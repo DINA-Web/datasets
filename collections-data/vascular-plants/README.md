@@ -8,13 +8,70 @@ The following files are included:
 specimens.csv
 -------------
 
+* CatalogNumber
+* CatalogedDate
+* CatalogedBy
+* AccessionNumber
+* PreparationType
+* StorageLocation
+* FiledAs
+* MountedWith
+* Collectors
+* CollectorsNumber
+* CollectingStartYear
+* CollectingStartMonth
+* CollectingStartDay
+* CollectingEndYear
+* CollectingEndMonth
+* CollectingEndDay
+* CollectingDateVerbatim
+* LocalityVerbatim
+* DescriptionInFieldVerbatim
+* HabitatVerbatim
+* EstablishmentMeans
+* MinimumElevationOriginalValue
+* MaximumElevationOriginalValue
+* ElevationOriginalUnit
+* ElevationVerbatim
+* PublicRemarks
+* InternalRemarks
+* ObjectCondition
 
-determinations.csv
+
+identifications.csv
 ------------------
+
+* IdentifiedAsVerbatim
+* IdentifiedByVerbatim
+* IdentifiedYear
+* IdentifiedMonth
+* IdentifiedDay
+* IdentifiedDateVerbatim
+* IdentifiedAsInterpretedName
+* IsUncertain
+* IsCurrent
+* IsOriginal
+* IdentificationRemarks
+
+
+typestatus.csv
+--------------
+
+* Basionym
+* TypeStatus
+* TypeStatusReference
+* TypeStatusRemarks
+* IsCurrent
 
 
 geography.csv
 -------------
 
+Data originally compiled by Håkan Wittzell in Lund.
 
+* Continent
+* Country
+* State
+* County
+* Remarks
 

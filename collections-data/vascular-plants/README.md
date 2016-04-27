@@ -64,14 +64,8 @@ typestatus.csv
 * IsCurrent
 
 
-geography.csv
+preptypes.csv
 -------------
+* PreptypeName
 
-Data originally compiled by Håkan Wittzell in Lund.
-
-* Continent
-* Country
-* State
-* County
-* Remarks
 

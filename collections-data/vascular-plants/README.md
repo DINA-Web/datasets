@@ -14,7 +14,6 @@ specimens.csv
 * AccessionNumber
 * PreparationType
 * StorageLocation
-* FiledAs
 * MountedWith
 * Collectors
 * CollectorsNumber

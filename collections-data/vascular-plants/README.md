@@ -48,6 +48,7 @@ identifications.csv
 * IdentifiedDay
 * IdentifiedDateVerbatim
 * IdentifiedAsInterpretedName
+* SequentialNumber
 * IsUncertain
 * IsCurrent
 * IsOriginal
@@ -86,6 +87,4 @@ typestatusevents.csv
 Value lists
 -----------
 * preptypes.csv
-* type
-
-
+* typestatus.csv

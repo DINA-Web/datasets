@@ -72,18 +72,20 @@ TDWG_geo2.csv
 * Category
 
 
-typestatus.csv
---------------
+typestatusevents.csv
+--------------------
 
 * Basionym
 * TypeStatus
+* IsTypeFragment
 * TypeStatusReference
 * TypeStatusRemarks
 * IsCurrent
 
 
-preptypes.csv
--------------
-* PreptypeName
+Value lists
+-----------
+* preptypes.csv
+* type
 
 

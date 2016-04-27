@@ -1,0 +1,1040 @@
+L1 continent,L2 region,L3 area,L4 country,code,ISOcode,Ed2status,Notes,Category
+Europe,,,,1,,,,L1 continent
+Africa,,,,2,,,,L1 continent
+Asia-Temperate,,,,3,,,,L1 continent
+Asia-Tropical,,,,4,,,,L1 continent
+Australasia,,,,5,,,,L1 continent
+Pacific,,,,6,,,,L1 continent
+Northern America,,,,7,,,,L1 continent
+Southern America,,,,8,,,,L1 continent
+Antarctic,,,,9,,,,L1 continent
+Europe,Northern Europe,,,10,,,,L2 region
+Europe,Middle Europe,,,11,,,,L2 region
+Europe,Southwestern Europe,,,12,,,,L2 region
+Europe,Southeastern Europe,,,13,,,,L2 region
+Europe,Eastern Europe,,,14,,,,L2 region
+Africa,Northern Africa,,,20,,,,L2 region
+Africa,Macaronesia,,,21,,,,L2 region
+Africa,West Tropical Africa,,,22,,,,L2 region
+Africa,West-Central Tropical Africa,,,23,,,,L2 region
+Africa,Northeast Tropical Africa,,,24,,,,L2 region
+Africa,East Tropical Africa,,,25,,,,L2 region
+Africa,South Tropical Africa,,,26,,,,L2 region
+Africa,Southern Africa,,,27,,,,L2 region
+Africa,Middle Atlantic Ocean,,,28,,,,L2 region
+Africa,Western Indian Ocean,,,29,,,,L2 region
+Asia-Temperate,Siberia,,,30,,,,L2 region
+Asia-Temperate,Russian Far East,,,31,,,,L2 region
+Asia-Temperate,Middle Asia,,,32,,,,L2 region
+Asia-Temperate,Caucasus,,,33,,,,L2 region
+Asia-Temperate,Western Asia,,,34,,,,L2 region
+Asia-Temperate,Arabian Peninsula,,,35,,,,L2 region
+Asia-Temperate,China,,,36,,,,L2 region
+Asia-Temperate,Mongolia,,,37,,,,L2 region
+Asia-Temperate,Eastern Asia,,,38,,,,L2 region
+Asia-Tropical,Indian Subcontinent,,,40,,,,L2 region
+Asia-Tropical,Indo-China,,,41,,,,L2 region
+Asia-Tropical,Malesia,,,42,,,,L2 region
+Asia-Tropical,Papuasia,,,43,,,,L2 region
+Australasia,Australia,,,50,,,,L2 region
+Australasia,New Zealand,,,51,,,,L2 region
+Pacific,Southwestern Pacific,,,60,,,,L2 region
+Pacific,South-Central Pacific,,,61,,,,L2 region
+Pacific,Northwestern Pacific,,,62,,,,L2 region
+Pacific,North-Central Pacific,,,63,,,,L2 region
+Northern America,Subarctic America,,,70,,,,L2 region
+Northern America,Western Canada,,,71,,,,L2 region
+Northern America,Eastern Canada,,,72,,,,L2 region
+Northern America,Northwestern U.S.A.,,,73,,,,L2 region
+Northern America,North-Central U.S.A.,,,74,,,,L2 region
+Northern America,Northeastern U.S.A.,,,75,,,,L2 region
+Northern America,Southwestern U.S.A.,,,76,,,,L2 region
+Northern America,South-Central U.S.A.,,,77,,,,L2 region
+Northern America,Southeastern U.S.A.,,,78,,,,L2 region
+Northern America,Mexico,,,79,,,,L2 region
+Southern America,Central America,,,80,,,,L2 region
+Southern America,Caribbean,,,81,,,,L2 region
+Southern America,Northern South America,,,82,,,,L2 region
+Southern America,Western South America,,,83,,,,L2 region
+Southern America,Brazil,,,84,,,,L2 region
+Southern America,Southern South America,,,85,,,,L2 region
+Antarctic,Subantarctic Islands,,,90,,,,L2 region
+Antarctic,Antarctic Continent,,,91,,,,L2 region
+Northern America,Western Canada,Alberta,,ABT,CA,,,L3 area
+Asia-Temperate,Western Asia,Afghanistan,,AFG,AF,,,L3 area
+Southern America,Southern South America,Argentina Northeast,,AGE,AR,,,L3 area
+Southern America,Southern South America,Argentina South,,AGS,AR,,,L3 area
+Southern America,Southern South America,Argentina Northwest,,AGW,AR,,,L3 area
+Northern America,Southeastern U.S.A.,Alabama,,ALA,US,,,L3 area
+Europe,Southeastern Europe,Albania,,ALB,AL,,,L3 area
+Africa,Western Indian Ocean,Aldabra,,ALD,SC,,,L3 area
+Africa,Northern Africa,Algeria,,ALG,DZ,,,L3 area
+Asia-Temperate,Siberia,Altay,,ALT,RU,,,L3 area
+Northern America,Subarctic America,Aleutian Is.,,ALU,US,,,L3 area
+Asia-Temperate,Russian Far East,Amur,,AMU,RU,,,L3 area
+Asia-Tropical,Indo-China,Andaman Is.,,AND,,,,L3 area
+Africa,South Tropical Africa,Angola,,ANG,AO,,,L3 area
+Antarctic,Antarctic Continent,Antarctica,,ANT,AQ,,,L3 area
+Northern America,Southwestern U.S.A.,Arizona,,ARI,US,,,L3 area
+Northern America,Southeastern U.S.A.,Arkansas,,ARK,US,,,L3 area
+Southern America,Caribbean,Aruba,,ARU,AW,,,L3 area
+Africa,Middle Atlantic Ocean,Ascension,,ASC,SH,,,L3 area
+Northern America,Subarctic America,Alaska,,ASK,US,,,L3 area
+Antarctic,Subantarctic Islands,Amsterdam-St.Paul Is.,,ASP,TF,,,L3 area
+Asia-Tropical,Indian Subcontinent,Assam,,ASS,IN,,,L3 area
+Australasia,New Zealand,Antipodean Is.,,ATP,NZ,,,L3 area
+Europe,Middle Europe,Austria,,AUT,,,,L3 area
+Africa,Macaronesia,Azores,,AZO,PT,,,L3 area
+Southern America,Caribbean,Bahamas,,BAH,BS,,,L3 area
+Europe,Southwestern Europe,Baleares,,BAL,ES,,,L3 area
+Asia-Tropical,Indian Subcontinent,Bangladesh,,BAN,BD,,,L3 area
+Africa,West Tropical Africa,Benin,,BEN,BJ,,,L3 area
+Southern America,Caribbean,Bermuda,,BER,BM,,,L3 area
+Europe,Middle Europe,Belgium,,BGM,,,,L3 area
+Asia-Tropical,Papuasia,Bismarck Archipelago,,BIS,PG,,,L3 area
+Africa,West Tropical Africa,Burkina,,BKN,BF,,,L3 area
+Europe,Eastern Europe,Belarus,,BLR,RU,,,L3 area
+Europe,Eastern Europe,Baltic States,,BLT,,,,L3 area
+Southern America,Central America,Belize,,BLZ,BZ,,,L3 area
+Southern America,Western South America,Bolivia,,BOL,BO,,,L3 area
+Asia-Tropical,Malesia,Borneo,,BOR,,,,L3 area
+Africa,Southern Africa,Botswana,,BOT,BW,,,L3 area
+Antarctic,Subantarctic Islands,Bouvet I.,,BOU,BV,,,L3 area
+Northern America,Western Canada,British Columbia,,BRC,CA,,,L3 area
+Asia-Temperate,Siberia,Buryatiya,,BRY,RU,,,L3 area
+Europe,Southeastern Europe,Bulgaria,,BUL,BG,,,L3 area
+Africa,West-Central Tropical Africa,Burundi,,BUR,BI,,,L3 area
+Southern America,Brazil,Brazil West-Central,,BZC,BR,,,L3 area
+Southern America,Brazil,Brazil Northeast,,BZE,BR,,,L3 area
+Southern America,Brazil,Brazil Southeast,,BZL,BR,,,L3 area
+Southern America,Brazil,Brazil North,,BZN,BR,,,L3 area
+Southern America,Brazil,Brazil South,,BZS,BR,,,L3 area
+Africa,West-Central Tropical Africa,Cabinda,,CAB,AO,,,L3 area
+Africa,West-Central Tropical Africa,Central African Republic,,CAF,CF,,,L3 area
+Northern America,Southwestern U.S.A.,California,,CAL,US,,,L3 area
+Southern America,Caribbean,Cayman Is.,,CAY,KY,,,L3 area
+Asia-Tropical,Indo-China,Cambodia,,CBD,KH,,,L3 area
+Africa,Western Indian Ocean,Chagos Archipelago,,CGS,IO,,,L3 area
+Africa,Northeast Tropical Africa,Chad,,CHA,TD,,,L3 area
+Asia-Temperate,China,China South-Central,,CHC,CN,,,L3 area
+Asia-Temperate,China,Hainan,,CHH,CN,,,L3 area
+Asia-Temperate,China,Inner Mongolia,,CHI,CN,,,L3 area
+Asia-Temperate,China,Manchuria,,CHM,CN,,,L3 area
+Asia-Temperate,China,China North-Central,,CHN,CN,,,L3 area
+Asia-Temperate,China,Qinghai,,CHQ,CN,,,L3 area
+Asia-Temperate,China,China Southeast,,CHS,,,,L3 area
+Asia-Temperate,China,Tibet,,CHT,CN,,,L3 area
+Asia-Temperate,China,Xinjiang,,CHX,CN,,,L3 area
+Asia-Tropical,Malesia,Cocos (Keeling) Is.,,CKI,CC,,,L3 area
+Southern America,Southern South America,Chile Central,,CLC,CL,,,L3 area
+Southern America,Western South America,Colombia,,CLM,CO,,,L3 area
+Southern America,Southern South America,Chile North,,CLN,CL,,,L3 area
+Southern America,Southern South America,Chile South,,CLS,CL,,,L3 area
+Africa,West-Central Tropical Africa,Cameroon,,CMN,CM,,,L3 area
+Northern America,Northeastern U.S.A.,Connecticut,,CNT,US,,,L3 area
+Africa,Macaronesia,Canary Is.,,CNY,ES,,,L3 area
+Northern America,Northwestern U.S.A.,Colorado,,COL,US,,,L3 area
+Africa,Western Indian Ocean,Comoros,,COM,,,,L3 area
+Africa,West-Central Tropical Africa,Congo,,CON,CG,,,L3 area
+Pacific,South-Central Pacific,Cook Is.,,COO,CK,,,L3 area
+Europe,Southwestern Europe,Corse,,COR,FR,,,L3 area
+Southern America,Central America,Costa Rica,,COS,CR,,,L3 area
+Southern America,Central America,Central American Pacific Is.,,CPI,,,,L3 area
+Africa,Southern Africa,Cape Provinces,,CPP,ZA,,,L3 area
+Africa,Southern Africa,Caprivi Strip,,CPV,,,,L3 area
+Pacific,Northwestern Pacific,Caroline Is.,,CRL,,,,L3 area
+Antarctic,Subantarctic Islands,Crozet Is.,,CRZ,TF,,,L3 area
+Asia-Temperate,Siberia,Chita,,CTA,RU,,,L3 area
+Australasia,New Zealand,Chatham Is.,,CTM,NZ,,,L3 area
+Southern America,Caribbean,Cuba,,CUB,CU,,,L3 area
+Africa,Macaronesia,Cape Verde,,CVI,CV,,,L3 area
+Asia-Temperate,Western Asia,Cyprus,,CYP,CY,,,L3 area
+Europe,Middle Europe,Czechoslovakia,,CZE,CS,,,L3 area
+Northern America,Southeastern U.S.A.,Delaware,,DEL,US,,,L3 area
+Europe,Northern Europe,Denmark,,DEN,DK,,,L3 area
+Africa,Northeast Tropical Africa,Djibouti,,DJI,DJ,,,L3 area
+Southern America,Caribbean,Dominican Republic,,DOM,DO,,,L3 area
+Southern America,Southern South America,Desventurados Is.,,DSV,CL,,,L3 area
+Asia-Temperate,Western Asia,East Aegean Is.,,EAI,GR,,,L3 area
+Pacific,South-Central Pacific,Easter Is.,,EAS,CL,,,L3 area
+Southern America,Western South America,Ecuador,,ECU,EC,,,L3 area
+Africa,Northern Africa,Egypt,,EGY,EG,,,L3 area
+Asia-Tropical,Indian Subcontinent,East Himalaya,,EHM,,,,L3 area
+Southern America,Central America,El Salvador,,ELS,SV,,,L3 area
+Africa,West-Central Tropical Africa,Equatorial Guinea,,EQG,GQ,,,L3 area
+Africa,Northeast Tropical Africa,Eritrea,,ERI,ER,,,L3 area
+Africa,Northeast Tropical Africa,Ethiopia,,ETH,ET,,,L3 area
+Antarctic,Subantarctic Islands,Falkland Is.,,FAL,FK,,,L3 area
+Pacific,Southwestern Pacific,Fiji,,FIJ,FJ,,,L3 area
+Europe,Northern Europe,Finland,,FIN,FI,,,L3 area
+Northern America,Southeastern U.S.A.,Florida,,FLA,US,,,L3 area
+Europe,Northern Europe,Føroyar,,FOR,FO,,,L3 area
+Europe,Southwestern Europe,France,,FRA,,,,L3 area
+Southern America,Northern South America,French Guiana,,FRG,GF,,,L3 area
+Africa,West-Central Tropical Africa,Gabon,,GAB,GA,,,L3 area
+Southern America,Western South America,Galápagos,,GAL,EC,,,L3 area
+Africa,West Tropical Africa,"Gambia, The",,GAM,GM,,,L3 area
+Northern America,Southeastern U.S.A.,Georgia,,GEO,US,,,L3 area
+Europe,Middle Europe,Germany,,GER,DE,,,L3 area
+Africa,West-Central Tropical Africa,Gulf of Guinea Is.,,GGI,,,,L3 area
+Africa,West Tropical Africa,Ghana,,GHA,GH,,,L3 area
+Pacific,Southwestern Pacific,Gilbert Is.,,GIL,KI,,,L3 area
+Africa,West Tropical Africa,Guinea-Bissau,,GNB,GW,,,L3 area
+Northern America,Subarctic America,Greenland,,GNL,GL,,,L3 area
+Europe,Northern Europe,Great Britain,,GRB,UK,,,L3 area
+Europe,Southeastern Europe,Greece,,GRC,GR,,,L3 area
+Asia-Temperate,Arabian Peninsula,Gulf States,,GST,,,,L3 area
+Southern America,Central America,Guatemala,,GUA,GT,,,L3 area
+Africa,West Tropical Africa,Guinea,,GUI,GN,,,L3 area
+Southern America,Northern South America,Guyana,,GUY,GY,,,L3 area
+Southern America,Caribbean,Haiti,,HAI,,,,L3 area
+Pacific,North-Central Pacific,Hawaii,,HAW,,,,L3 area
+Pacific,Southwestern Pacific,Howland-Baker Is.,,HBI,UM,,,L3 area
+Antarctic,Subantarctic Islands,Heard-McDonald Is.,,HMD,HM,,,L3 area
+Southern America,Central America,Honduras,,HON,HN,,,L3 area
+Europe,Middle Europe,Hungary,,HUN,HU,,,L3 area
+Europe,Northern Europe,Iceland,,ICE,IS,,,L3 area
+Northern America,Northwestern U.S.A.,Idaho,,IDA,US,,,L3 area
+Northern America,North-Central U.S.A.,Illinois,,ILL,US,,,L3 area
+Asia-Tropical,Indian Subcontinent,India,,IND,IN,,,L3 area
+Northern America,Northeastern U.S.A.,Indiana,,INI,US,,,L3 area
+Northern America,North-Central U.S.A.,Iowa,,IOW,US,,,L3 area
+Europe,Northern Europe,Ireland,,IRE,,,,L3 area
+Asia-Temperate,Siberia,Irkutsk,,IRK,RU,,,L3 area
+Asia-Temperate,Western Asia,Iran,,IRN,IR,,,L3 area
+Asia-Temperate,Western Asia,Iraq,,IRQ,IQ,,,L3 area
+Europe,Southeastern Europe,Italy,,ITA,,,,L3 area
+Africa,West Tropical Africa,Ivory Coast,,IVO,CI,,,L3 area
+Southern America,Caribbean,Jamaica,,JAM,JM,,,L3 area
+Asia-Temperate,Eastern Asia,Japan,,JAP,JP,,,L3 area
+Asia-Tropical,Malesia,Jawa,,JAW,ID,,,L3 area
+Southern America,Southern South America,Juan Fernández Is.,,JNF,CL,,,L3 area
+Asia-Temperate,Russian Far East,Kamchatka,,KAM,RU,,,L3 area
+Northern America,North-Central U.S.A.,Kansas,,KAN,US,,,L3 area
+Asia-Temperate,Middle Asia,Kazakhstan,,KAZ,KZ,,,L3 area
+Antarctic,Subantarctic Islands,Kerguelen,,KEG,TF,,,L3 area
+Africa,East Tropical Africa,Kenya,,KEN,KE,,,L3 area
+Australasia,New Zealand,Kermadec Is.,,KER,NZ,,,L3 area
+Asia-Temperate,Middle Asia,Kirgizistan,,KGZ,KG,,,L3 area
+Asia-Temperate,Russian Far East,Khabarovsk,,KHA,RU,,,L3 area
+Asia-Temperate,Eastern Asia,Korea,,KOR,,,,L3 area
+Asia-Temperate,Siberia,Krasnoyarsk,,KRA,RU,,,L3 area
+Europe,Southeastern Europe,Kriti,,KRI,GR,,,L3 area
+Europe,Eastern Europe,Krym,,KRY,UA,,,L3 area
+Northern America,Southeastern U.S.A.,Kentucky,,KTY,US,,,L3 area
+Asia-Temperate,Russian Far East,Kuril Is.,,KUR,RU,,,L3 area
+Asia-Temperate,Arabian Peninsula,Kuwait,,KUW,KW,,,L3 area
+Asia-Temperate,Eastern Asia,Kazan-retto,,KZN,JP,,,L3 area
+Northern America,Eastern Canada,Labrador,,LAB,CA,,,L3 area
+Asia-Tropical,Indo-China,Laos,,LAO,LA,,,L3 area
+Africa,West Tropical Africa,Liberia,,LBR,LR,,,L3 area
+Asia-Temperate,Western Asia,Lebanon-Syria,,LBS,,,,L3 area
+Africa,Northern Africa,Libya,,LBY,LY,,,L3 area
+Asia-Tropical,Indian Subcontinent,Laccadive Is.,,LDV,IN,,,L3 area
+Southern America,Caribbean,Leeward Is.,,LEE,,,,L3 area
+Africa,Southern Africa,Lesotho,,LES,LS,,,L3 area
+Pacific,South-Central Pacific,Line Is.,,LIN,,,,L3 area
+Northern America,Southeastern U.S.A.,Louisiana,,LOU,US,,,L3 area
+Asia-Tropical,Malesia,Lesser Sunda Is.,,LSI,,,,L3 area
+Asia-Temperate,Russian Far East,Magadan,,MAG,RU,,,L3 area
+Northern America,Northeastern U.S.A.,Maine,,MAI,US,,,L3 area
+Northern America,Western Canada,Manitoba,,MAN,CA,,,L3 area
+Antarctic,Subantarctic Islands,Macquarie Is.,,MAQ,AU,,,L3 area
+Northern America,Northeastern U.S.A.,Masachusettes,,MAS,US,,,L3 area
+Africa,Western Indian Ocean,Mauritius,,MAU,MU,,,L3 area
+Africa,Western Indian Ocean,Mozambique Channel Is.,,MCI,RE,,,L3 area
+Pacific,Northwestern Pacific,Marcus I.,,MCS,JP,,,L3 area
+Africa,Western Indian Ocean,Madagascar,,MDG,MG,,,L3 area
+Africa,Macaronesia,Madeira,,MDR,PT,,,L3 area
+Asia-Tropical,Indian Subcontinent,Maldives,,MDV,MV,,,L3 area
+Northern America,Northeastern U.S.A.,Michigan,,MIC,US,,,L3 area
+Northern America,North-Central U.S.A.,Minnesota,,MIN,US,,,L3 area
+Africa,West Tropical Africa,Mali,,MLI,ML,,,L3 area
+Africa,South Tropical Africa,Malawi,,MLW,MW,,,L3 area
+Asia-Tropical,Malesia,Malaya,,MLY,,,,L3 area
+Northern America,Northwestern U.S.A.,Montana,,MNT,US,,,L3 area
+Asia-Tropical,Malesia,Maluku,,MOL,ID,,,L3 area
+Asia-Temperate,Mongolia,Mongolia,,MON,MN,,,L3 area
+Africa,Northern Africa,Morocco,,MOR,,,,L3 area
+Africa,South Tropical Africa,Mozambique,,MOZ,MZ,,,L3 area
+Antarctic,Subantarctic Islands,Marion-Prince Edward Is.,,MPE,ZA,,,L3 area
+Pacific,Northwestern Pacific,Marianas,,MRN,,,,L3 area
+Pacific,South-Central Pacific,Marquesas,,MRQ,PF,,,L3 area
+Pacific,Northwestern Pacific,Marshall Is.,,MRS,MH,,,L3 area
+Northern America,Southeastern U.S.A.,Maryland,,MRY,US,,,L3 area
+Northern America,Southeastern U.S.A.,Mississippi,,MSI,US,,,L3 area
+Northern America,North-Central U.S.A.,Missouri,,MSO,US,,,L3 area
+Africa,West Tropical Africa,Mauritania,,MTN,MR,,,L3 area
+Northern America,Mexico,Mexico Central,,MXC,MX,,,L3 area
+Northern America,Mexico,Mexico Northeast,,MXE,MX,,,L3 area
+Northern America,Mexico,Mexico Gulf,,MXG,MX,,,L3 area
+Northern America,Mexico,Mexican Pacific Is.,,MXI,MX,,,L3 area
+Northern America,Mexico,Mexico Northwest,,MXN,MX,,,L3 area
+Northern America,Mexico,Mexico Southwest,,MXS,MX,,,L3 area
+Northern America,Mexico,Mexico Southeast,,MXT,MX,,,L3 area
+Asia-Tropical,Indo-China,Myanmar,,MYA,MM,,,L3 area
+Africa,Southern Africa,Namibia,,NAM,ZA,,,L3 area
+Africa,Southern Africa,KwaZulu-Natal,,NAT,ZA,,,L3 area
+Northern America,Eastern Canada,New Brunswick,,NBR,CA,,,L3 area
+Northern America,Southeastern U.S.A.,North Carolina,,NCA,US,,,L3 area
+Asia-Tropical,Indo-China,Nicobar Is.,,NCB,IN,,,L3 area
+Asia-Temperate,Caucasus,North Caucasus,,NCS,RU,,,L3 area
+Northern America,North-Central U.S.A.,North Dakota,,NDA,US,,,L3 area
+Northern America,North-Central U.S.A.,Nebraska,,NEB,US,,,L3 area
+Asia-Tropical,Indian Subcontinent,Nepal,,NEP,NP,,,L3 area
+Europe,Middle Europe,Netherlands,,NET,NL,,,L3 area
+Northern America,Southwestern U.S.A.,Nevada,,NEV,US,,,L3 area
+Australasia,Australia,Norfolk Is.,,NFK,,,,L3 area
+Northern America,Eastern Canada,Newfoundland,,NFL,,,,L3 area
+Africa,West Tropical Africa,Nigeria,,NGA,NG,,,L3 area
+Africa,West Tropical Africa,Niger,,NGR,NE,,,L3 area
+Southern America,Central America,Nicaragua,,NIC,NI,,,L3 area
+Southern America,Caribbean,Netherlands Antilles,,NLA,AN,,,L3 area
+Asia-Temperate,Eastern Asia,Nansei-shoto,,NNS,JP,,,L3 area
+Europe,Northern Europe,Norway,,NOR,NO,,,L3 area
+Pacific,Southwestern Pacific,Nauru,,NRU,NR,,,L3 area
+Northern America,Eastern Canada,Nova Scotia,,NSC,CA,,,L3 area
+Australasia,Australia,New South Wales,,NSW,AU,,,L3 area
+Australasia,Australia,Northern Territory,,NTA,AU,,,L3 area
+Pacific,Southwestern Pacific,Niue,,NUE,NU,,,L3 area
+Northern America,Subarctic America,Nunavut,,NUN,CA,,,L3 area
+Pacific,Southwestern Pacific,New Caledonia,,NWC,NC,,,L3 area
+Asia-Tropical,Papuasia,New Guinea,,NWG,,,,L3 area
+Northern America,Northeastern U.S.A.,New Hampshire,,NWH,US,,,L3 area
+Northern America,Northeastern U.S.A.,New Jersey,,NWJ,US,,,L3 area
+Northern America,South-Central U.S.A.,New Mexico,,NWM,US,,,L3 area
+Northern America,Subarctic America,Northwest Territories,,NWT,CA,,,L3 area
+Northern America,Northeastern U.S.A.,New York,,NWY,US,,,L3 area
+Australasia,New Zealand,New Zealand North,,NZN,NZ,,,L3 area
+Australasia,New Zealand,New Zealand South,,NZS,NZ,,,L3 area
+Africa,Southern Africa,Free State,,OFS,ZA,,,L3 area
+Asia-Temperate,Eastern Asia,Ogasawara-shoto,,OGA,JP,,,L3 area
+Northern America,Northeastern U.S.A.,Ohio,,OHI,US,,,L3 area
+Northern America,North-Central U.S.A.,Oklahoma,,OKL,US,,,L3 area
+Asia-Temperate,Arabian Peninsula,Oman,,OMA,OM,,,L3 area
+Northern America,Eastern Canada,Ontario,,ONT,CA,,,L3 area
+Northern America,Northwestern U.S.A.,Oregon,,ORE,US,,,L3 area
+Asia-Tropical,Indian Subcontinent,Pakistan,,PAK,PK,,,L3 area
+Asia-Temperate,Western Asia,Palestine,,PAL,,,,L3 area
+Southern America,Central America,Panamá,,PAN,PA,,,L3 area
+Southern America,Southern South America,Paraguay,,PAR,PY,,,L3 area
+Northern America,Eastern Canada,Prince Edward I.,,PEI,CA,,,L3 area
+Northern America,Northeastern U.S.A.,Pennsylvania,,PEN,US,,,L3 area
+Southern America,Western South America,Peru,,PER,PE,,,L3 area
+Asia-Tropical,Malesia,Philippines,,PHI,PH,,,L3 area
+Pacific,Southwestern Pacific,Phoenix Is.,,PHX,KI,,,L3 area
+Pacific,South-Central Pacific,Pitcairn Is.,,PIT,PN,,,L3 area
+Europe,Middle Europe,Poland,,POL,PL,,,L3 area
+Europe,Southwestern Europe,Portugal,,POR,PT,,,L3 area
+Asia-Temperate,Russian Far East,Primorye,,PRM,RU,,,L3 area
+Southern America,Caribbean,Puerto Rico,,PUE,PR,,,L3 area
+Australasia,Australia,Queensland,,QLD,AU,,,L3 area
+Northern America,Eastern Canada,Québec,,QUE,CA,,,L3 area
+Africa,Western Indian Ocean,Réunion,,REU,RE,,,L3 area
+Northern America,Northeastern U.S.A.,Rhode I.,,RHO,US,,,L3 area
+Africa,Western Indian Ocean,Rodrigues,,ROD,MU,,,L3 area
+Europe,Southeastern Europe,Romania,,ROM,RO,,,L3 area
+Europe,Eastern Europe,Central European Russia,,RUC,RU,,,L3 area
+Europe,Eastern Europe,East European Russia,,RUE,RU,,,L3 area
+Europe,Eastern Europe,North European Russia,,RUN,RU,,,L3 area
+Europe,Eastern Europe,South European Russia,,RUS,,,,L3 area
+Europe,Eastern Europe,Northwest European Russia,,RUW,RU,,,L3 area
+Africa,West-Central Tropical Africa,Rwanda,,RWA,RW,,,L3 area
+Asia-Temperate,Russian Far East,Sakhalin,,SAK,RU,,,L3 area
+Pacific,Southwestern Pacific,Samoa,,SAM,,,,L3 area
+Europe,Southwestern Europe,Sardegna,,SAR,IT,,,L3 area
+Northern America,Western Canada,Saskatchewan,,SAS,CA,,,L3 area
+Asia-Temperate,Arabian Peninsula,Saudi Arabia,,SAU,SA,,,L3 area
+Northern America,Southeastern U.S.A.,South Carolina,,SCA,US,,,L3 area
+Pacific,South-Central Pacific,Society Is.,,SCI,PF,,,L3 area
+Asia-Tropical,Indo-China,South China Sea,,SCS,,,,L3 area
+Pacific,Southwestern Pacific,Santa Cruz Is.,,SCZ,SB,,,L3 area
+Northern America,North-Central U.S.A.,South Dakota,,SDA,US,,,L3 area
+Africa,Macaronesia,Selvagens,,SEL,PT,,,L3 area
+Africa,West Tropical Africa,Senegal,,SEN,SN,,,L3 area
+Africa,Western Indian Ocean,Seychelles,,SEY,SC,,,L3 area
+Antarctic,Subantarctic Islands,South Georgia,,SGE,GS,,,L3 area
+Europe,Southeastern Europe,Sicilia,,SIC,,,,L3 area
+Africa,West Tropical Africa,Sierra Leone,,SIE,SL,,,L3 area
+Asia-Temperate,Western Asia,Sinai,,SIN,EG,,,L3 area
+Australasia,Australia,South Australia,,SOA,AU,,,L3 area
+Africa,Northeast Tropical Africa,Socotra,,SOC,YE,,,L3 area
+Asia-Tropical,Papuasia,Solomon Is.,,SOL,,,,L3 area
+Africa,Northeast Tropical Africa,Somalia,,SOM,SO,,,L3 area
+Europe,Southwestern Europe,Spain,,SPA,,,,L3 area
+Asia-Tropical,Indian Subcontinent,Sri Lanka,,SRL,LK,,,L3 area
+Antarctic,Subantarctic Islands,South Sandwich Is.,,SSA,GS,,,L3 area
+Africa,Middle Atlantic Ocean,St.Helena,,STH,SH,,,L3 area
+Africa,Northeast Tropical Africa,Sudan,,SUD,SD,,,L3 area
+Asia-Tropical,Malesia,Sulawesi,,SUL,ID,,,L3 area
+Asia-Tropical,Malesia,Sumatera,,SUM,ID,,,L3 area
+Southern America,Northern South America,Suriname,,SUR,SR,,,L3 area
+Europe,Northern Europe,Svalbard,,SVA,SJ,,,L3 area
+Southern America,Caribbean,Southwest Caribbean,,SWC,,,,L3 area
+Europe,Northern Europe,Sweden,,SWE,SE,,,L3 area
+Europe,Middle Europe,Switzerland,,SWI,CH,,,L3 area
+Africa,Southern Africa,Swaziland,,SWZ,SZ,,,L3 area
+Asia-Temperate,Eastern Asia,Taiwan,,TAI,TW,,,L3 area
+Africa,East Tropical Africa,Tanzania,,TAN,TZ,,,L3 area
+Australasia,Australia,Tasmania,,TAS,AU,,,L3 area
+Southern America,Caribbean,Turks-Caicos Is.,,TCI,TC,,,L3 area
+Asia-Temperate,Caucasus,Transcaucasus,,TCS,,,,L3 area
+Antarctic,Subantarctic Islands,Tristan da Cunha,,TDC,SH,,,L3 area
+Northern America,Southeastern U.S.A.,Tennessee,,TEN,US,,,L3 area
+Northern America,South-Central U.S.A.,Texas,,TEX,US,,,L3 area
+Asia-Tropical,Indo-China,Thailand,,THA,TH,,,L3 area
+Asia-Temperate,Middle Asia,Turkmenistan,,TKM,TM,,,L3 area
+Africa,West Tropical Africa,Togo,,TOG,TG,,,L3 area
+Pacific,Southwestern Pacific,Tokelau-Manihiki,,TOK,,,,L3 area
+Pacific,Southwestern Pacific,Tonga,,TON,TO,,,L3 area
+Southern America,Caribbean,Trinidad-Tobago,,TRT,TT,,,L3 area
+Pacific,South-Central Pacific,Tuamotu,,TUA,PF,,,L3 area
+Pacific,South-Central Pacific,Tubuai Is.,,TUB,PF,,,L3 area
+Europe,Southeastern Europe,Turkey-in-Europe,,TUE,TR,,,L3 area
+Africa,Northern Africa,Tunisia,,TUN,TN,,,L3 area
+Asia-Temperate,Western Asia,Turkey,,TUR,TR,,,L3 area
+Pacific,Southwestern Pacific,Tuvalu,,TUV,TV,,,L3 area
+Asia-Temperate,Siberia,Tuva,,TVA,RU,,,L3 area
+Africa,Southern Africa,Northern Provinces,,TVL,ZA,,,L3 area
+Asia-Temperate,Middle Asia,Tadzhikistan,,TZK,TJ,,,L3 area
+Africa,East Tropical Africa,Uganda,,UGA,UG,,,L3 area
+Europe,Eastern Europe,Ukraine,,UKR,,,,L3 area
+Southern America,Southern South America,Uruguay,,URU,UY,,,L3 area
+Northern America,Southwestern U.S.A.,Utah,,UTA,US,,,L3 area
+Asia-Temperate,Middle Asia,Uzbekistan,,UZB,UZ,,,L3 area
+Pacific,Southwestern Pacific,Vanuatu,,VAN,VU,,,L3 area
+Southern America,Northern South America,Venezuela,,VEN,VE,,,L3 area
+Northern America,Northeastern U.S.A.,Vermont,,VER,US,,,L3 area
+Australasia,Australia,Victoria,,VIC,AU,,,L3 area
+Asia-Tropical,Indo-China,Vietnam,,VIE,VN,,,L3 area
+Southern America,Caribbean,Venezuelan Antilles,,VNA,VE,,,L3 area
+Northern America,Southeastern U.S.A.,Virginia,,VRG,US,,,L3 area
+Pacific,Northwestern Pacific,Wake I.,,WAK,UM,,,L3 area
+Pacific,Southwestern Pacific,Wallis-Futuna Is.,,WAL,WF,,,L3 area
+Northern America,Northwestern U.S.A.,Washington,,WAS,US,,,L3 area
+Australasia,Australia,Western Australia,,WAU,AU,,,L3 area
+Northern America,Southeastern U.S.A.,District of Columbia,,WDC,US,,,L3 area
+Asia-Tropical,Indian Subcontinent,West Himalaya,,WHM,,,,L3 area
+Southern America,Caribbean,Windward Is.,,WIN,,,,L3 area
+Northern America,North-Central U.S.A.,Wisconsin,,WIS,US,,,L3 area
+Africa,Northern Africa,Western Sahara,,WSA,EH,,,L3 area
+Asia-Temperate,Siberia,West Siberia,,WSB,RU,,,L3 area
+Northern America,Northeastern U.S.A.,West Virginia,,WVA,US,,,L3 area
+Northern America,Northwestern U.S.A.,Wyoming,,WYO,US,,,L3 area
+Asia-Tropical,Malesia,Christmas I.,,XMS,CX,,,L3 area
+Asia-Temperate,Siberia,Yakutskiya,,YAK,RU,,,L3 area
+Asia-Temperate,Arabian Peninsula,Yemen,,YEM,YE,,,L3 area
+Europe,Southeastern Europe,Yugoslavia,,YUG,YU,,,L3 area
+Northern America,Subarctic America,Yukon,,YUK,CA,,,L3 area
+Africa,West-Central Tropical Africa,Zaire,,ZAI,CD,,,L3 area
+Africa,South Tropical Africa,Zambia,,ZAM,ZM,,,L3 area
+Africa,South Tropical Africa,Zimbabwe,,ZIM,ZW,,,L3 area
+Northern America,Western Canada,Alberta,Alberta,ABT-OO,CA,,,L4 country
+Asia-Temperate,Western Asia,Afghanistan,Afghanistan,AFG-OO,AF,,,L4 country
+Southern America,Southern South America,Argentina Northeast,Buenos Aires,AGE-BA,AR,,,L4 country
+Southern America,Southern South America,Argentina Northeast,Chaco,AGE-CH,AR,,,L4 country
+Southern America,Southern South America,Argentina Northeast,Corrientes,AGE-CN,AR,,,L4 country
+Southern America,Southern South America,Argentina Northeast,Córdoba,AGE-CO,AR,,,L4 country
+Southern America,Southern South America,Argentina Northeast,Argentina Distrito Federal,AGE-DF,AR,,,L4 country
+Southern America,Southern South America,Argentina Northeast,Entre Ríos,AGE-ER,AR,,,L4 country
+Southern America,Southern South America,Argentina Northeast,Formosa,AGE-FO,AR,,,L4 country
+Southern America,Southern South America,Argentina Northeast,La Pampa,AGE-LP,AR,,,L4 country
+Southern America,Southern South America,Argentina Northeast,Misiones,AGE-MI,AR,,,L4 country
+Southern America,Southern South America,Argentina South,Chubut,AGS-CB,AR,,,L4 country
+Southern America,Southern South America,Argentina South,Neuquén,AGS-NE,AR,,,L4 country
+Southern America,Southern South America,Argentina South,Rio Negro,AGS-RN,AR,,,L4 country
+Southern America,Southern South America,Argentina South,Santa Cruz,AGS-SC,AR,,,L4 country
+Southern America,Southern South America,Argentina South,Santa Fé,AGS-SF,AR,,,L4 country
+Southern America,Southern South America,Argentina South,Tierra del Fuego (Argentina),AGS-TF,AR,,,L4 country
+Southern America,Southern South America,Argentina Northwest,Catamarca,AGW-CA,AR,,,L4 country
+Southern America,Southern South America,Argentina Northwest,Jujuy,AGW-JU,AR,,,L4 country
+Southern America,Southern South America,Argentina Northwest,La Rioja,AGW-LR,AR,,,L4 country
+Southern America,Southern South America,Argentina Northwest,Mendoza,AGW-ME,AR,,,L4 country
+Southern America,Southern South America,Argentina Northwest,Salta,AGW-SA,AR,,,L4 country
+Southern America,Southern South America,Argentina Northwest,Santiago del Estero,AGW-SE,AR,,,L4 country
+Southern America,Southern South America,Argentina Northwest,San Juan,AGW-SJ,AR,,,L4 country
+Southern America,Southern South America,Argentina Northwest,San Luis,AGW-SL,AR,,,L4 country
+Southern America,Southern South America,Argentina Northwest,Tucuman,AGW-TU,AR,,,L4 country
+Northern America,Southeastern U.S.A.,Alabama,Alabama,ALA-OO,US,,,L4 country
+Europe,Southeastern Europe,Albania,Albania,ALB-OO,AL,,,L4 country
+Africa,Western Indian Ocean,Aldabra,Aldabra,ALD-OO,SC,,,L4 country
+Africa,Northern Africa,Algeria,Algeria,ALG-OO,DZ,,,L4 country
+Asia-Temperate,Siberia,Altay,Altay,ALT-OO,RU,,,L4 country
+Northern America,Subarctic America,Aleutian Is.,Aleutian Is.,ALU-OO,US,,,L4 country
+Asia-Temperate,Russian Far East,Amur,Amur,AMU-OO,RU,,,L4 country
+Asia-Tropical,Indo-China,Andaman Is.,Andaman Is.,AND-AN,IN,,,L4 country
+Asia-Tropical,Indo-China,Andaman Is.,Coco Is.,AND-CO,BU,,,L4 country
+Africa,South Tropical Africa,Angola,Angola,ANG-OO,AO,,,L4 country
+Antarctic,Antarctic Continent,Antarctica,Antarctica,ANT-OO,AQ,,,L4 country
+Northern America,Southwestern U.S.A.,Arizona,Arizona,ARI-OO,US,,,L4 country
+Northern America,Southeastern U.S.A.,Arkansas,Arkansas,ARK-OO,US,,,L4 country
+Southern America,Caribbean,Aruba,Aruba,ARU-OO,AW,,,L4 country
+Africa,Middle Atlantic Ocean,Ascension,Ascension,ASC-OO,SH,,,L4 country
+Northern America,Subarctic America,Alaska,Alaska,ASK-OO,US,,,L4 country
+Antarctic,Subantarctic Islands,Amsterdam-St.Paul Is.,Amsterdam-St.Paul Is.,ASP-OO,TF,,,L4 country
+Asia-Tropical,Indian Subcontinent,Assam,Assam,ASS-AS,IN,,,L4 country
+Asia-Tropical,Indian Subcontinent,Assam,Manipur,ASS-MA,IN,,,L4 country
+Asia-Tropical,Indian Subcontinent,Assam,Meghalaya,ASS-ME,IN,,,L4 country
+Asia-Tropical,Indian Subcontinent,Assam,Mizoram,ASS-MI,IN,,,L4 country
+Asia-Tropical,Indian Subcontinent,Assam,Nagaland,ASS-NA,IN,,,L4 country
+Asia-Tropical,Indian Subcontinent,Assam,Tripura,ASS-TR,IN,,,L4 country
+Australasia,New Zealand,Antipodean Is.,Antipodean Is.,ATP-OO,NZ,,,L4 country
+Europe,Middle Europe,Austria,Austria,AUT-AU,AT,,,L4 country
+Europe,Middle Europe,Austria,Liechtenstein,AUT-LI,LI,,,L4 country
+Africa,Macaronesia,Azores,Açôres,AZO-OO,PT,,,L4 country
+Southern America,Caribbean,Bahamas,Bahamas,BAH-OO,BS,,,L4 country
+Europe,Southwestern Europe,Baleares,Baleares,BAL-OO,ES,,,L4 country
+Asia-Tropical,Indian Subcontinent,Bangladesh,Bangladesh,BAN-OO,BD,,,L4 country
+Africa,West Tropical Africa,Benin,Benin,BEN-OO,BJ,,,L4 country
+Southern America,Caribbean,Bermuda,Bermuda,BER-OO,BM,,,L4 country
+Europe,Middle Europe,Belgium,Belgium,BGM-BE,BE,,,L4 country
+Europe,Middle Europe,Belgium,Luxembourg,BGM-LU,LU,,,L4 country
+Asia-Tropical,Papuasia,Bismarck Archipelago,Bismarck Archipelago,BIS-OO,PG,,,L4 country
+Africa,West Tropical Africa,Burkina,Burkina,BKN-OO,BF,,,L4 country
+Europe,Eastern Europe,Belarus,Belarus,BLR-OO,RU,,,L4 country
+Europe,Eastern Europe,Baltic States,Estonia,BLT-ES,EE,,,L4 country
+Europe,Eastern Europe,Baltic States,Kaliningrad,BLT-KA,RU,,,L4 country
+Europe,Eastern Europe,Baltic States,Latvia,BLT-LA,RU,,,L4 country
+Europe,Eastern Europe,Baltic States,Lithuania,BLT-LI,LT,,,L4 country
+Southern America,Central America,Belize,Belize,BLZ-OO,BZ,,,L4 country
+Southern America,Western South America,Bolivia,Bolivia,BOL-OO,BO,,,L4 country
+Asia-Tropical,Malesia,Borneo,Brunei,BOR-BR,BN,,,L4 country
+Asia-Tropical,Malesia,Borneo,Kalimantan,BOR-KA,ID,,,L4 country
+Asia-Tropical,Malesia,Borneo,Sabah,BOR-SB,MY,,,L4 country
+Asia-Tropical,Malesia,Borneo,Sarawak,BOR-SR,MY,,,L4 country
+Africa,Southern Africa,Botswana,Botswana,BOT-OO,BW,,,L4 country
+Antarctic,Subantarctic Islands,Bouvet I.,Bouvet I.,BOU-OO,BV,,,L4 country
+Northern America,Western Canada,British Columbia,British Columbia,BRC-OO,CA,,,L4 country
+Asia-Temperate,Siberia,Buryatiya,Buryatiya,BRY-OO,RU,,,L4 country
+Europe,Southeastern Europe,Bulgaria,Bulgaria,BUL-OO,BG,,,L4 country
+Africa,West-Central Tropical Africa,Burundi,Burundi,BUR-OO,BI,,,L4 country
+Southern America,Brazil,Brazil West-Central,Brazilia Distrito Federal,BZC-DF,BR,,,L4 country
+Southern America,Brazil,Brazil West-Central,Goiás,BZC-GO,BR,,,L4 country
+Southern America,Brazil,Brazil West-Central,Mato Grosso do Sul,BZC-MS,BR,,,L4 country
+Southern America,Brazil,Brazil West-Central,Mato Grosso,BZC-MT,BR,,,L4 country
+Southern America,Brazil,Brazil Northeast,Alagoas,BZE-AL,BR,,,L4 country
+Southern America,Brazil,Brazil Northeast,Bahia,BZE-BA,BR,,,L4 country
+Southern America,Brazil,Brazil Northeast,Ceará,BZE-CE,BR,,,L4 country
+Southern America,Brazil,Brazil Northeast,Fernando de Noronha,BZE-FN,BR,,,L4 country
+Southern America,Brazil,Brazil Northeast,Maranhao,BZE-MA,BR,,,L4 country
+Southern America,Brazil,Brazil Northeast,Paraíba,BZE-PB,BR,,,L4 country
+Southern America,Brazil,Brazil Northeast,Pernambuco,BZE-PE,BR,,,L4 country
+Southern America,Brazil,Brazil Northeast,Piauí,BZE-PI,BR,,,L4 country
+Southern America,Brazil,Brazil Northeast,Rio Grande do Norte,BZE-RN,BR,,,L4 country
+Southern America,Brazil,Brazil Northeast,Sergipe,BZE-SE,BR,,,L4 country
+Southern America,Brazil,Brazil Southeast,Espirito Santo,BZL-ES,BR,,,L4 country
+Southern America,Brazil,Brazil Southeast,Minas Gerais,BZL-MG,BR,,,L4 country
+Southern America,Brazil,Brazil Southeast,Rio de Janeiro,BZL-RJ,BR,,,L4 country
+Southern America,Brazil,Brazil Southeast,São Paulo,BZL-SP,BR,,,L4 country
+Southern America,Brazil,Brazil Southeast,Trindade,BZL-TR,BR,,,L4 country
+Southern America,Brazil,Brazil North,Acre,BZN-AC,BR,,,L4 country
+Southern America,Brazil,Brazil North,Amazonas,BZN-AM,BR,,,L4 country
+Southern America,Brazil,Brazil North,Amapá,BZN-AP,BR,,,L4 country
+Southern America,Brazil,Brazil North,Pará,BZN-PA,BR,,,L4 country
+Southern America,Brazil,Brazil North,Roraima,BZN-RM,BR,,,L4 country
+Southern America,Brazil,Brazil North,Rondônia,BZN-RO,BR,,,L4 country
+Southern America,Brazil,Brazil North,Tocantins,BZN-TO,BR,,,L4 country
+Southern America,Brazil,Brazil South,Paraná,BZS-PR,BR,,,L4 country
+Southern America,Brazil,Brazil South,Rio Grande do Sul,BZS-RS,BR,,,L4 country
+Southern America,Brazil,Brazil South,Santa Catarina,BZS-SC,BR,,,L4 country
+Africa,West-Central Tropical Africa,Cabinda,Cabinda,CAB-OO,AO,,,L4 country
+Africa,West-Central Tropical Africa,Central African Republic,Central African Republic,CAF-OO,CF,,,L4 country
+Northern America,Southwestern U.S.A.,California,California,CAL-OO,US,,,L4 country
+Southern America,Caribbean,Cayman Is.,Cayman Is.,CAY-OO,KY,,,L4 country
+Asia-Tropical,Indo-China,Cambodia,Cambodia,CBD-OO,KH,,,L4 country
+Africa,Western Indian Ocean,Chagos Archipelago,Chagos Archipelago,CGS-OO,IO,,,L4 country
+Africa,Northeast Tropical Africa,Chad,Chad,CHA-OO,TD,,,L4 country
+Asia-Temperate,China,China South-Central,Guizhou,CHC-GZ,CN,,,L4 country
+Asia-Temperate,China,China South-Central,Hubei,CHC-HU,CN,,,L4 country
+Asia-Temperate,China,China South-Central,Sichuan,CHC-SC,CN,,,L4 country
+Asia-Temperate,China,China South-Central,Yunnan,CHC-YN,CN,,,L4 country
+Asia-Temperate,China,Hainan,Hainan,CHH-OO,CN,,,L4 country
+Asia-Temperate,China,Inner Mongolia,Nei Mongol,CHI-NM,CN,,,L4 country
+Asia-Temperate,China,Inner Mongolia,Ningxia,CHI-NX,CN,,,L4 country
+Asia-Temperate,China,Manchuria,Heilongjiang,CHM-HJ,CN,,,L4 country
+Asia-Temperate,China,Manchuria,Jilin,CHM-JL,CN,,,L4 country
+Asia-Temperate,China,Manchuria,Liaoning,CHM-LN,CN,,,L4 country
+Asia-Temperate,China,China North-Central,Beijing,CHN-BJ,CN,,,L4 country
+Asia-Temperate,China,China North-Central,Gansu,CHN-GS,CN,,,L4 country
+Asia-Temperate,China,China North-Central,Hebei,CHN-HB,CN,,,L4 country
+Asia-Temperate,China,China North-Central,Shaanxi,CHN-SA,CN,,,L4 country
+Asia-Temperate,China,China North-Central,Shandong,CHN-SD,CN,,,L4 country
+Asia-Temperate,China,China North-Central,Shanxi,CHN-SX,CN,,,L4 country
+Asia-Temperate,China,China North-Central,Tianjin,CHN-TJ,CN,,,L4 country
+Asia-Temperate,China,Qinghai,Qinghai,CHQ-OO,CN,,,L4 country
+Asia-Temperate,China,China Southeast,Anhui,CHS-AH,CN,,,L4 country
+Asia-Temperate,China,China Southeast,Fujian,CHS-FJ,CN,,,L4 country
+Asia-Temperate,China,China Southeast,Guangdong,CHS-GD,CN,,,L4 country
+Asia-Temperate,China,China Southeast,Guangxi,CHS-GX,CN,,,L4 country
+Asia-Temperate,China,China Southeast,Henan,CHS-HE,CN,,,L4 country
+Asia-Temperate,China,China Southeast,Hong Kong,CHS-HK,HK,,,L4 country
+Asia-Temperate,China,China Southeast,Hunan,CHS-HN,CN,,,L4 country
+Asia-Temperate,China,China Southeast,Jiangsu,CHS-JS,CN,,,L4 country
+Asia-Temperate,China,China Southeast,Jiangxi,CHS-JX,CN,,,L4 country
+Asia-Temperate,China,China Southeast,Kin-Men,CHS-KI,TW,,,L4 country
+Asia-Temperate,China,China Southeast,Macau,CHS-MA,MO,,,L4 country
+Asia-Temperate,China,China Southeast,Ma-tsu-Pai-chúan,CHS-MP,TW,,,L4 country
+Asia-Temperate,China,China Southeast,Shanghai,CHS-SH,CN,,,L4 country
+Asia-Temperate,China,China Southeast,Zhejiang,CHS-ZJ,CN,,,L4 country
+Asia-Temperate,China,Tibet,Tibet,CHT-OO,CN,,Sube del nivel 4 al nivel 3. El código en el libro es CHT-XI.,L4 country
+Asia-Temperate,China,Xinjiang,Xinjiang,CHX-OO,CN,,,L4 country
+Asia-Tropical,Malesia,Cocos (Keeling) Is.,Cocos (Keeling) Is.,CKI-OO,CC,,,L4 country
+Southern America,Southern South America,Chile Central,Biobío,CLC-BI,CL,,,L4 country
+Southern America,Southern South America,Chile Central,Coquimbo,CLC-CO,CL,,,L4 country
+Southern America,Southern South America,Chile Central,La Araucania,CLC-LA,CL,,,L4 country
+Southern America,Southern South America,Chile Central,Maule,CLC-MA,CL,,,L4 country
+Southern America,Southern South America,Chile Central,O'Higgins,CLC-OH,CL,,,L4 country
+Southern America,Southern South America,Chile Central,Santiago,CLC-SA,CL,,,L4 country
+Southern America,Southern South America,Chile Central,Valparaíso,CLC-VA,CL,,,L4 country
+Southern America,Western South America,Colombia,Colombia,CLM-OO,CO,,,L4 country
+Southern America,Southern South America,Chile North,Antofagasta,CLN-AN,CL,,,L4 country
+Southern America,Southern South America,Chile North,Atacama,CLN-AT,CL,,,L4 country
+Southern America,Southern South America,Chile North,Tarapaca,CLN-TA,CL,,,L4 country
+Southern America,Southern South America,Chile South,Aisén,CLS-AI,CL,,,L4 country
+Southern America,Southern South America,Chile South,Los Lagos,CLS-LL,CL,,,L4 country
+Southern America,Southern South America,Chile South,Magellanes,CLS-MG,CL,,,L4 country
+Africa,West-Central Tropical Africa,Cameroon,Cameroon,CMN-OO,CM,,,L4 country
+Northern America,Northeastern U.S.A.,Connecticut,Connecticut,CNT-OO,US,,,L4 country
+Africa,Macaronesia,Canary Is.,Canary Is.,CNY-OO,ES,,,L4 country
+Northern America,Northwestern U.S.A.,Colorado,Colorado,COL-OO,US,,,L4 country
+Africa,Western Indian Ocean,Comoros,Comoros,COM-CO,KM,,,L4 country
+Africa,Western Indian Ocean,Comoros,Mayotte,COM-MA,YT,,,L4 country
+Africa,West-Central Tropical Africa,Congo,Congo,CON-OO,CG,,,L4 country
+Pacific,South-Central Pacific,Cook Is.,Cook Is.,COO-OO,CK,,,L4 country
+Europe,Southwestern Europe,Corse,Corse,COR-OO,FR,,,L4 country
+Southern America,Central America,Costa Rica,Costa Rica,COS-OO,CR,,,L4 country
+Southern America,Central America,Central American Pacific Is.,Clipperton I.,CPI-CL,PF,,,L4 country
+Southern America,Central America,Central American Pacific Is.,Cocos I.,CPI-CO,CR,,,L4 country
+Southern America,Central America,Central American Pacific Is.,Malpelo I.,CPI-MA,CO,,,L4 country
+Africa,Southern Africa,Cape Provinces,Eastern Cape Province,CPP-EC,ZA,,,L4 country
+Africa,Southern Africa,Cape Provinces,Northern Cape Province,CPP-NC,ZA,,,L4 country
+Africa,Southern Africa,Cape Provinces,Western Cape Province,CPP-WC,ZA,,,L4 country
+Africa,Southern Africa,Caprivi Strip,Caprivi Strip,CPV-OO,,,,L4 country
+Pacific,Northwestern Pacific,Caroline Is.,Micronesia Federated States,CRL-MF,FM,,,L4 country
+Pacific,Northwestern Pacific,Caroline Is.,Palau,CRL-PA,PW,,,L4 country
+Antarctic,Subantarctic Islands,Crozet Is.,Crozet Is.,CRZ-OO,TF,,,L4 country
+Asia-Temperate,Siberia,Chita,Chita,CTA-OO,RU,,,L4 country
+Australasia,New Zealand,Chatham Is.,Chatham Is.,CTM-OO,NZ,,,L4 country
+Southern America,Caribbean,Cuba,Cuba,CUB-OO,CU,,,L4 country
+Africa,Macaronesia,Cape Verde,Cape Verde,CVI-OO,CV,,,L4 country
+Asia-Temperate,Western Asia,Cyprus,Cyprus,CYP-OO,CY,,,L4 country
+Europe,Middle Europe,Czechoslovakia,Czech Republic,CZE-CZ,SK,,,L4 country
+Europe,Middle Europe,Czechoslovakia,Slovakia,CZE-SK,CZ,,,L4 country
+Northern America,Southeastern U.S.A.,Delaware,Delaware,DEL-OO,US,,,L4 country
+Europe,Northern Europe,Denmark,Denmark,DEN-OO,DK,,,L4 country
+Africa,Northeast Tropical Africa,Djibouti,Djibouti,DJI-OO,DJ,,,L4 country
+Southern America,Caribbean,Dominican Republic,Dominican Republic,DOM-OO,DO,,,L4 country
+Southern America,Southern South America,Desventurados Is.,Desventurados Is.,DSV-OO,CL,,,L4 country
+Asia-Temperate,Western Asia,East Aegean Is.,East Aegean Is.,EAI-OO,GR,,,L4 country
+Pacific,South-Central Pacific,Easter Is.,Easter Is.,EAS-OO,CL,,,L4 country
+Southern America,Western South America,Ecuador,Ecuador,ECU-OO,EC,,,L4 country
+Africa,Northern Africa,Egypt,Egypt,EGY-OO,EG,,,L4 country
+Asia-Tropical,Indian Subcontinent,East Himalaya,Arunachal Pradesh,EHM-AP,IN,,,L4 country
+Asia-Tropical,Indian Subcontinent,East Himalaya,Bhutan,EHM-BH,BT,,,L4 country
+Asia-Tropical,Indian Subcontinent,East Himalaya,Darjiling,EHM-DJ,IN,,,L4 country
+Asia-Tropical,Indian Subcontinent,East Himalaya,Sikkim,EHM-SI,IN,,,L4 country
+Southern America,Central America,El Salvador,El Salvador,ELS-OO,SV,,,L4 country
+Africa,West-Central Tropical Africa,Equatorial Guinea,Equatorial Guinea,EQG-OO,GQ,,,L4 country
+Africa,Northeast Tropical Africa,Eritrea,Eritrea,ERI-OO,ER,,,L4 country
+Africa,Northeast Tropical Africa,Ethiopia,Ethiopia,ETH-OO,ET,,,L4 country
+Antarctic,Subantarctic Islands,Falkland Is.,Falkland Is.,FAL-OO,FK,,,L4 country
+Pacific,Southwestern Pacific,Fiji,Fiji,FIJ-OO,FJ,,,L4 country
+Europe,Northern Europe,Finland,Finland,FIN-OO,FI,,,L4 country
+Northern America,Southeastern U.S.A.,Florida,Florida,FLA-OO,US,,,L4 country
+Europe,Northern Europe,Føroyar,Føroyar,FOR-OO,FO,,,L4 country
+Europe,Southwestern Europe,France,Channel Is.,FRA-CI,UK,,,L4 country
+Europe,Southwestern Europe,France,France,FRA-FR,FR,,,L4 country
+Europe,Southwestern Europe,France,Monaco,FRA-MO,MC,,,L4 country
+Southern America,Northern South America,French Guiana,French Guiana,FRG-OO,GF,,,L4 country
+Africa,West-Central Tropical Africa,Gabon,Gabon,GAB-OO,GA,,,L4 country
+Southern America,Western South America,Galápagos,Galápagos,GAL-OO,EC,,,L4 country
+Africa,West Tropical Africa,"Gambia, The","Gambia, The",GAM-OO,GM,,,L4 country
+Northern America,Southeastern U.S.A.,Georgia,Georgia,GEO-OO,US,,,L4 country
+Europe,Middle Europe,Germany,Germany,GER-OO,DE,,,L4 country
+Africa,West-Central Tropical Africa,Gulf of Guinea Is.,Annobón,GGI-AN,GQ,,,L4 country
+Africa,West-Central Tropical Africa,Gulf of Guinea Is.,Bioko,GGI-BI,GQ,,,L4 country
+Africa,West-Central Tropical Africa,Gulf of Guinea Is.,Principe,GGI-PR,ST,,,L4 country
+Africa,West-Central Tropical Africa,Gulf of Guinea Is.,São Tomé,GGI-ST,ST,,,L4 country
+Africa,West Tropical Africa,Ghana,Ghana,GHA-OO,GH,,,L4 country
+Pacific,Southwestern Pacific,Gilbert Is.,Gilbert Is.,GIL-OO,KI,,,L4 country
+Africa,West Tropical Africa,Guinea-Bissau,Guinea-Bissau,GNB-OO,GW,,,L4 country
+Northern America,Subarctic America,Greenland,Greenland,GNL-OO,GL,,,L4 country
+Europe,Northern Europe,Great Britain,Great Britain,GRB-OO,UK,,,L4 country
+Europe,Southeastern Europe,Greece,Greece,GRC-OO,GR,,,L4 country
+Asia-Temperate,Arabian Peninsula,Gulf States,Bahrain,GST-BA,BH,,,L4 country
+Asia-Temperate,Arabian Peninsula,Gulf States,Qatar,GST-QA,QA,,,L4 country
+Asia-Temperate,Arabian Peninsula,Gulf States,United Arab Emirates,GST-UA,AE,,,L4 country
+Southern America,Central America,Guatemala,Guatemala,GUA-OO,GT,,,L4 country
+Africa,West Tropical Africa,Guinea,Guinea,GUI-OO,GN,,,L4 country
+Southern America,Northern South America,Guyana,Guyana,GUY-OO,GY,,,L4 country
+Southern America,Caribbean,Haiti,Haiti,HAI-HA,HT,,,L4 country
+Southern America,Caribbean,Haiti,Navassa I.,HAI-NI,PR,,,L4 country
+Pacific,North-Central Pacific,Hawaii,Hawaiian Is.,HAW-HI,US,,,L4 country
+Pacific,North-Central Pacific,Hawaii,Johnston I.,HAW-JI,UM,,,L4 country
+Pacific,North-Central Pacific,Hawaii,Midway Is.,HAW-MI,UM,,,L4 country
+Pacific,Southwestern Pacific,Howland-Baker Is.,Howland-Baker Is.,HBI-OO,UM,,,L4 country
+Antarctic,Subantarctic Islands,Heard-McDonald Is.,Heard-McDonald Is.,HMD-OO,HM,,,L4 country
+Southern America,Central America,Honduras,Honduras,HON-OO,HN,,,L4 country
+Europe,Middle Europe,Hungary,Hungary,HUN-OO,HU,,,L4 country
+Europe,Northern Europe,Iceland,Iceland,ICE-OO,IS,,,L4 country
+Northern America,Northwestern U.S.A.,Idaho,Idaho,IDA-OO,US,,,L4 country
+Northern America,North-Central U.S.A.,Illinois,Illinois,ILL-OO,US,,,L4 country
+Asia-Tropical,Indian Subcontinent,India,Andhra Pradesh,IND-AP,IN,,,L4 country
+Asia-Tropical,Indian Subcontinent,India,Bihar,IND-BI,IN,,,L4 country
+Asia-Tropical,Indian Subcontinent,India,Chandigarh,IND-CH,IN,,,L4 country
+Asia-Tropical,Indian Subcontinent,India,Dadra-Nagar-Haveli,IND-DD,IN,,,L4 country
+Asia-Tropical,Indian Subcontinent,India,Delhi,IND-DE,IN,,,L4 country
+Asia-Tropical,Indian Subcontinent,India,Diu,IND-DI,IN,,,L4 country
+Asia-Tropical,Indian Subcontinent,India,Daman,IND-DM,IN,,,L4 country
+Asia-Tropical,Indian Subcontinent,India,Goa,IND-GO,IN,,,L4 country
+Asia-Tropical,Indian Subcontinent,India,Gujarat,IND-GU,IN,,,L4 country
+Asia-Tropical,Indian Subcontinent,India,Haryana,IND-HA,IN,,,L4 country
+Asia-Tropical,Indian Subcontinent,India,Kerala,IND-KE,IN,,,L4 country
+Asia-Tropical,Indian Subcontinent,India,Karaikal,IND-KL,IN,,,L4 country
+Asia-Tropical,Indian Subcontinent,India,Karnataka,IND-KT,IN,,,L4 country
+Asia-Tropical,Indian Subcontinent,India,Mahé,IND-MH,IN,,,L4 country
+Asia-Tropical,Indian Subcontinent,India,Madhya Pradesh,IND-MP,IN,,,L4 country
+Asia-Tropical,Indian Subcontinent,India,Maharashtra,IND-MR,IN,,,L4 country
+Asia-Tropical,Indian Subcontinent,India,Orissa,IND-OR,IN,,,L4 country
+Asia-Tropical,Indian Subcontinent,India,Pondicherry,IND-PO,IN,,,L4 country
+Asia-Tropical,Indian Subcontinent,India,Punjab,IND-PU,IN,,,L4 country
+Asia-Tropical,Indian Subcontinent,India,Rajasthan,IND-RA,IN,,,L4 country
+Asia-Tropical,Indian Subcontinent,India,Tamil Nadu,IND-TN,IN,,,L4 country
+Asia-Tropical,Indian Subcontinent,India,Uttar Pradesh,IND-UP,IN,,,L4 country
+Asia-Tropical,Indian Subcontinent,India,West Bengal,IND-WB,IN,,,L4 country
+Asia-Tropical,Indian Subcontinent,India,Yanam,IND-YA,IN,,,L4 country
+Northern America,Northeastern U.S.A.,Indiana,Indiana,INI-OO,US,,,L4 country
+Northern America,North-Central U.S.A.,Iowa,Iowa,IOW-OO,US,,,L4 country
+Europe,Northern Europe,Ireland,Ireland,IRE-IR,IE,,,L4 country
+Europe,Northern Europe,Ireland,Northern Ireland,IRE-NI,UK,,,L4 country
+Asia-Temperate,Siberia,Irkutsk,Irkutsk,IRK-OO,RU,,,L4 country
+Asia-Temperate,Western Asia,Iran,Iran,IRN-OO,IR,,,L4 country
+Asia-Temperate,Western Asia,Iraq,Iraq,IRQ-OO,IQ,,,L4 country
+Europe,Southeastern Europe,Italy,Italy,ITA-IT,IT,,,L4 country
+Europe,Southeastern Europe,Italy,San Marino,ITA-SM,SM,,,L4 country
+Europe,Southeastern Europe,Italy,Vatican City,ITA-VC,VA,,,L4 country
+Africa,West Tropical Africa,Ivory Coast,Ivory Coast,IVO-OO,CI,,,L4 country
+Southern America,Caribbean,Jamaica,Jamaica,JAM-OO,JM,,,L4 country
+Asia-Temperate,Eastern Asia,Japan,Hokkaido,JAP-HK,JP,,,L4 country
+Asia-Temperate,Eastern Asia,Japan,Honshu,JAP-HN,JP,,,L4 country
+Asia-Temperate,Eastern Asia,Japan,Kyushu,JAP-KY,JP,,,L4 country
+Asia-Temperate,Eastern Asia,Japan,Shikoku,JAP-SH,JP,,,L4 country
+Asia-Tropical,Malesia,Jawa,Jawa,JAW-OO,ID,,,L4 country
+Southern America,Southern South America,Juan Fernández Is.,Juan Fernández Is.,JNF-OO,CL,,,L4 country
+Asia-Temperate,Russian Far East,Kamchatka,Kamchatka,KAM-OO,RU,,,L4 country
+Northern America,North-Central U.S.A.,Kansas,Kansas,KAN-OO,US,,,L4 country
+Asia-Temperate,Middle Asia,Kazakhstan,Kazakhstan,KAZ-OO,KZ,,,L4 country
+Antarctic,Subantarctic Islands,Kerguelen,Kerguelen,KEG-OO,TF,,,L4 country
+Africa,East Tropical Africa,Kenya,Kenya,KEN-OO,KE,,,L4 country
+Australasia,New Zealand,Kermadec Is.,Kermadec Is.,KER-OO,NZ,,,L4 country
+Asia-Temperate,Middle Asia,Kirgizistan,Kirgizistan,KGZ-OO,KG,,,L4 country
+Asia-Temperate,Russian Far East,Khabarovsk,Khabarovsk,KHA-OO,RU,,,L4 country
+Asia-Temperate,Eastern Asia,Korea,North Korea,KOR-NK,KP,,,L4 country
+Asia-Temperate,Eastern Asia,Korea,South Korea,KOR-SK,KR,,,L4 country
+Asia-Temperate,Siberia,Krasnoyarsk,Krasnoyarsk,KRA-OO,RU,,,L4 country
+Europe,Southeastern Europe,Kriti,Kriti,KRI-OO,GR,,,L4 country
+Europe,Eastern Europe,Krym,Krym,KRY-OO,UA,,,L4 country
+Northern America,Southeastern U.S.A.,Kentucky,Kentucky,KTY-OO,US,,,L4 country
+Asia-Temperate,Russian Far East,Kuril Is.,Kuril Is.,KUR-OO,RU,,,L4 country
+Asia-Temperate,Arabian Peninsula,Kuwait,Kuwait,KUW-OO,KW,,,L4 country
+Asia-Temperate,Eastern Asia,Kazan-retto,Kazan-retto,KZN-OO,JP,,,L4 country
+Northern America,Eastern Canada,Labrador,Labrador,LAB-OO,CA,,,L4 country
+Asia-Tropical,Indo-China,Laos,Laos,LAO-OO,LA,,,L4 country
+Africa,West Tropical Africa,Liberia,Liberia,LBR-OO,LR,,,L4 country
+Asia-Temperate,Western Asia,Lebanon-Syria,Lebanon,LBS-LB,LB,,,L4 country
+Asia-Temperate,Western Asia,Lebanon-Syria,Syria,LBS-SY,SY,,,L4 country
+Africa,Northern Africa,Libya,Libya,LBY-OO,LY,,,L4 country
+Asia-Tropical,Indian Subcontinent,Laccadive Is.,Laccadive Is.,LDV-OO,IN,,,L4 country
+Southern America,Caribbean,Leeward Is.,Antigua-Barbuda,LEE-AB,AG,,,L4 country
+Southern America,Caribbean,Leeward Is.,Anguilla,LEE-AG,AI,,,L4 country
+Southern America,Caribbean,Leeward Is.,Aves I.,LEE-AV,VE,,,L4 country
+Southern America,Caribbean,Leeward Is.,British Virgin Is.,LEE-BV,VG,,,L4 country
+Southern America,Caribbean,Leeward Is.,Guadeloupe,LEE-GU,GP,,,L4 country
+Southern America,Caribbean,Leeward Is.,Montserrat,LEE-MO,MS,,,L4 country
+Southern America,Caribbean,Leeward Is.,Netherlands Leeward Is.,LEE-NL,AN,,,L4 country
+Southern America,Caribbean,Leeward Is.,St.Kitts-Nevis,LEE-SK,KN,,,L4 country
+Southern America,Caribbean,Leeward Is.,St.Martin-St.Barthélémy,LEE-SM,GP,,,L4 country
+Southern America,Caribbean,Leeward Is.,Virgin Is.,LEE-VI,VI,,,L4 country
+Africa,Southern Africa,Lesotho,Lesotho,LES-OO,LS,,,L4 country
+Pacific,South-Central Pacific,Line Is.,Kiribati Line Is.,LIN-KI,KI,,,L4 country
+Pacific,South-Central Pacific,Line Is.,U.S. Line Is.,LIN-US,UM,,,L4 country
+Northern America,Southeastern U.S.A.,Louisiana,Louisiana,LOU-OO,US,,,L4 country
+Asia-Tropical,Malesia,Lesser Sunda Is.,Bali,LSI-BA,ID,,,L4 country
+Asia-Tropical,Malesia,Lesser Sunda Is.,East Timor,LSI-ET,TP,,,L4 country
+Asia-Tropical,Malesia,Lesser Sunda Is.,Lesser Sunda Is.,LSI-LS,ID,,,L4 country
+Asia-Temperate,Russian Far East,Magadan,Magadan,MAG-OO,RU,,,L4 country
+Northern America,Northeastern U.S.A.,Maine,Maine,MAI-OO,US,,,L4 country
+Northern America,Western Canada,Manitoba,Manitoba,MAN-OO,CA,,,L4 country
+Antarctic,Subantarctic Islands,Macquarie Is.,Macquarie Is.,MAQ-OO,AU,,,L4 country
+Northern America,Northeastern U.S.A.,Masachusettes,Masachusettes,MAS-OO,US,,,L4 country
+Africa,Western Indian Ocean,Mauritius,Mauritius,MAU-OO,MU,,,L4 country
+Africa,Western Indian Ocean,Mozambique Channel Is.,Mozambique Channel Is.,MCI-OO,RE,,,L4 country
+Pacific,Northwestern Pacific,Marcus I.,Marcus I.,MCS-OO,JP,,,L4 country
+Africa,Western Indian Ocean,Madagascar,Madagascar,MDG-OO,MG,,,L4 country
+Africa,Macaronesia,Madeira,Madeira,MDR-OO,PT,,,L4 country
+Asia-Tropical,Indian Subcontinent,Maldives,Maldives,MDV-OO,MV,,,L4 country
+Northern America,Northeastern U.S.A.,Michigan,Michigan,MIC-OO,US,,,L4 country
+Northern America,North-Central U.S.A.,Minnesota,Minnesota,MIN-OO,US,,,L4 country
+Africa,West Tropical Africa,Mali,Mali,MLI-OO,ML,,,L4 country
+Africa,South Tropical Africa,Malawi,Malawi,MLW-OO,MW,,,L4 country
+Asia-Tropical,Malesia,Malaya,Peninsular Malaysia,MLY-PM,MY,,,L4 country
+Asia-Tropical,Malesia,Malaya,Singapore,MLY-SI,SG,,,L4 country
+Northern America,Northwestern U.S.A.,Montana,Montana,MNT-OO,US,,,L4 country
+Asia-Tropical,Malesia,Maluku,Maluku,MOL-OO,ID,,,L4 country
+Asia-Temperate,Mongolia,Mongolia,Mongolia,MON-OO,MN,,,L4 country
+Africa,Northern Africa,Morocco,Morocco,MOR-MO,MA,,,L4 country
+Africa,Northern Africa,Morocco,Spanish North African Territories,MOR-SP,ES,,,L4 country
+Africa,South Tropical Africa,Mozambique,Mozambique,MOZ-OO,MZ,,,L4 country
+Antarctic,Subantarctic Islands,Marion-Prince Edward Is.,Marion-Prince Edward Is.,MPE-OO,ZA,,,L4 country
+Pacific,Northwestern Pacific,Marianas,Guam,MRN-GU,GU,,,L4 country
+Pacific,Northwestern Pacific,Marianas,Northern Marianas,MRN-NM,MP,,,L4 country
+Pacific,South-Central Pacific,Marquesas,Marquesas,MRQ-OO,PF,,,L4 country
+Pacific,Northwestern Pacific,Marshall Is.,Marshall Is.,MRS-OO,MH,,,L4 country
+Northern America,Southeastern U.S.A.,Maryland,Maryland,MRY-OO,US,,,L4 country
+Northern America,Southeastern U.S.A.,Mississippi,Mississippi,MSI-OO,US,,,L4 country
+Northern America,North-Central U.S.A.,Missouri,Missouri,MSO-OO,US,,,L4 country
+Africa,West Tropical Africa,Mauritania,Mauritania,MTN-OO,MR,,,L4 country
+Northern America,Mexico,Mexico Central,Mexico Distrito Federal,MXC-DF,MX,,,L4 country
+Northern America,Mexico,Mexico Central,México State,MXC-ME,MX,,,L4 country
+Northern America,Mexico,Mexico Central,Morelos,MXC-MO,MX,,,L4 country
+Northern America,Mexico,Mexico Central,Puebla,MXC-PU,MX,,,L4 country
+Northern America,Mexico,Mexico Central,Tlaxcala,MXC-TL,MX,,,L4 country
+Northern America,Mexico,Mexico Northeast,Aguascalientes,MXE-AG,MX,,,L4 country
+Northern America,Mexico,Mexico Northeast,Coahuila,MXE-CO,MX,,,L4 country
+Northern America,Mexico,Mexico Northeast,Chihuahua,MXE-CU,MX,,,L4 country
+Northern America,Mexico,Mexico Northeast,Durango,MXE-DU,MX,,,L4 country
+Northern America,Mexico,Mexico Northeast,Guanajuato,MXE-GU,MX,,,L4 country
+Northern America,Mexico,Mexico Northeast,Hidalgo,MXE-HI,MX,,,L4 country
+Northern America,Mexico,Mexico Northeast,Nuevo León,MXE-NL,MX,,,L4 country
+Northern America,Mexico,Mexico Northeast,Querétaro,MXE-QU,MX,,,L4 country
+Northern America,Mexico,Mexico Northeast,San Luis Potosí,MXE-SL,MX,,,L4 country
+Northern America,Mexico,Mexico Northeast,Tamaulipas,MXE-TA,MX,,,L4 country
+Northern America,Mexico,Mexico Northeast,Zacatecas,MXE-ZA,MX,,,L4 country
+Northern America,Mexico,Mexico Gulf,Veracruz,MXG-VC,MX,,,L4 country
+Northern America,Mexico,Mexican Pacific Is.,Guadalupe I.,MXI-GU,MX,,,L4 country
+Northern America,Mexico,Mexican Pacific Is.,Rocas Alijos,MXI-RA,MX,,,L4 country
+Northern America,Mexico,Mexican Pacific Is.,Revillagigedo Is.,MXI-RG,MX,,,L4 country
+Northern America,Mexico,Mexico Northwest,Baja California,MXN-BC,MX,,,L4 country
+Northern America,Mexico,Mexico Northwest,Baja California Sur,MXN-BS,MX,,,L4 country
+Northern America,Mexico,Mexico Northwest,Sinaloa,MXN-SI,MX,,,L4 country
+Northern America,Mexico,Mexico Northwest,Sonora,MXN-SO,MX,,,L4 country
+Northern America,Mexico,Mexico Southwest,Colima,MXS-CL,MX,,,L4 country
+Northern America,Mexico,Mexico Southwest,Guerrero,MXS-GR,MX,,,L4 country
+Northern America,Mexico,Mexico Southwest,Jalisco,MXS-JA,MX,,,L4 country
+Northern America,Mexico,Mexico Southwest,Michoacán,MXS-MI,MX,,,L4 country
+Northern America,Mexico,Mexico Southwest,Nayarit,MXS-NA,MX,,,L4 country
+Northern America,Mexico,Mexico Southwest,Oaxaca,MXS-OA,MX,,,L4 country
+Northern America,Mexico,Mexico Southeast,Campeche,MXT-CA,MX,,,L4 country
+Northern America,Mexico,Mexico Southeast,Chiapas,MXT-CI,MX,,,L4 country
+Northern America,Mexico,Mexico Southeast,Quintana Roo,MXT-QR,MX,,,L4 country
+Northern America,Mexico,Mexico Southeast,Tabasco,MXT-TB,MX,,,L4 country
+Northern America,Mexico,Mexico Southeast,Yucatán,MXT-YU,MX,,,L4 country
+Asia-Tropical,Indo-China,Myanmar,Myanmar,MYA-OO,MM,,,L4 country
+Africa,Southern Africa,Namibia,Namibia,NAM-OO,ZA,,,L4 country
+Africa,Southern Africa,KwaZulu-Natal,KwaZulu-Natal,NAT-OO,ZA,,,L4 country
+Northern America,Eastern Canada,New Brunswick,New Brunswick,NBR-OO,CA,,,L4 country
+Northern America,Southeastern U.S.A.,North Carolina,North Carolina,NCA-OO,US,,,L4 country
+Asia-Tropical,Indo-China,Nicobar Is.,Nicobar Is.,NCB-OO,IN,,,L4 country
+Asia-Temperate,Caucasus,North Caucasus,Dagestan,NCS-DA,RU,,,L4 country
+Asia-Temperate,Caucasus,North Caucasus,Kabardino-Balkariya,NCS-KB,RU,,,L4 country
+Asia-Temperate,Caucasus,North Caucasus,Karacheyevo-Cherkessiya,NCS-KC,RU,,,L4 country
+Asia-Temperate,Caucasus,North Caucasus,Krasnodar,NCS-KR,RU,,,L4 country
+Asia-Temperate,Caucasus,North Caucasus,Severo-Osetiya,NCS-SO,RU,,,L4 country
+Asia-Temperate,Caucasus,North Caucasus,Stavropol,NCS-ST,RU,,,L4 country
+Northern America,North-Central U.S.A.,North Dakota,North Dakota,NDA-OO,US,,,L4 country
+Northern America,North-Central U.S.A.,Nebraska,Nebraska,NEB-OO,US,,,L4 country
+Asia-Tropical,Indian Subcontinent,Nepal,Nepal,NEP-OO,NP,,,L4 country
+Europe,Middle Europe,Netherlands,Netherlands,NET-OO,NL,,,L4 country
+Northern America,Southwestern U.S.A.,Nevada,Nevada,NEV-OO,US,,,L4 country
+Australasia,Australia,Norfolk Is.,Lord Howe I.,NFK-LH,AU,,,L4 country
+Australasia,Australia,Norfolk Is.,Norfolk I.,NFK-NI,NF,,,L4 country
+Northern America,Eastern Canada,Newfoundland,Newfoundland,NFL-NE,CA,,,L4 country
+Northern America,Eastern Canada,Newfoundland,St.Pierre-Miquelon,NFL-SP,PM,,,L4 country
+Africa,West Tropical Africa,Nigeria,Nigeria,NGA-OO,NG,,,L4 country
+Africa,West Tropical Africa,Niger,Niger,NGR-OO,NE,,,L4 country
+Southern America,Central America,Nicaragua,Nicaragua,NIC-OO,NI,,,L4 country
+Southern America,Caribbean,Netherlands Antilles,Bonaire,NLA-BO,AN,,,L4 country
+Southern America,Caribbean,Netherlands Antilles,Curaçao,NLA-CU,AN,,,L4 country
+Asia-Temperate,Eastern Asia,Nansei-shoto,Nansei-shoto,NNS-OO,JP,,,L4 country
+Europe,Northern Europe,Norway,Norway,NOR-OO,NO,,,L4 country
+Pacific,Southwestern Pacific,Nauru,Nauru,NRU-OO,NR,,,L4 country
+Northern America,Eastern Canada,Nova Scotia,Nova Scotia,NSC-OO,CA,,,L4 country
+Australasia,Australia,New South Wales,Australian Capital Territory,NSW-CT,AU,,,L4 country
+Australasia,Australia,New South Wales,New South Wales,NSW-NS,AU,,,L4 country
+Australasia,Australia,Northern Territory,Northern Territory,NTA-OO,AU,,,L4 country
+Pacific,Southwestern Pacific,Niue,Niue,NUE-OO,NU,,,L4 country
+Northern America,Subarctic America,Nunavut,Nunavut,NUN-OO,CA,,,L4 country
+Pacific,Southwestern Pacific,New Caledonia,New Caledonia,NWC-OO,NC,,,L4 country
+Asia-Tropical,Papuasia,New Guinea,Irian Jaya,NWG-IJ,ID,,,L4 country
+Asia-Tropical,Papuasia,New Guinea,Papua New Guinea,NWG-PN,PG,,,L4 country
+Northern America,Northeastern U.S.A.,New Hampshire,New Hampshire,NWH-OO,US,,,L4 country
+Northern America,Northeastern U.S.A.,New Jersey,New Jersey,NWJ-OO,US,,,L4 country
+Northern America,South-Central U.S.A.,New Mexico,New Mexico,NWM-OO,US,,,L4 country
+Northern America,Subarctic America,Northwest Territories,Northwest Territories,NWT-OO,CA,,,L4 country
+Northern America,Northeastern U.S.A.,New York,New York,NWY-OO,US,,,L4 country
+Australasia,New Zealand,New Zealand North,New Zealand North,NZN-OO,NZ,,,L4 country
+Australasia,New Zealand,New Zealand South,New Zealand South,NZS-OO,NZ,,,L4 country
+Africa,Southern Africa,Free State,Free State,OFS-OO,ZA,,,L4 country
+Asia-Temperate,Eastern Asia,Ogasawara-shoto,Ogasawara-shoto,OGA-OO,JP,,,L4 country
+Northern America,Northeastern U.S.A.,Ohio,Ohio,OHI-OO,US,,,L4 country
+Northern America,North-Central U.S.A.,Oklahoma,Oklahoma,OKL-OO,US,,,L4 country
+Asia-Temperate,Arabian Peninsula,Oman,Oman,OMA-OO,OM,,,L4 country
+Northern America,Eastern Canada,Ontario,Ontario,ONT-OO,CA,,,L4 country
+Northern America,Northwestern U.S.A.,Oregon,Oregon,ORE-OO,US,,,L4 country
+Asia-Tropical,Indian Subcontinent,Pakistan,Pakistan,PAK-OO,PK,,,L4 country
+Asia-Temperate,Western Asia,Palestine,Israel,PAL-IS,IL,,,L4 country
+Asia-Temperate,Western Asia,Palestine,Jordan,PAL-JO,JO,,,L4 country
+Southern America,Central America,Panamá,Panamá,PAN-OO,PA,,,L4 country
+Southern America,Southern South America,Paraguay,Paraguay,PAR-OO,PY,,,L4 country
+Northern America,Eastern Canada,Prince Edward I.,Prince Edward I.,PEI-OO,CA,,,L4 country
+Northern America,Northeastern U.S.A.,Pennsylvania,Pennsylvania,PEN-OO,US,,,L4 country
+Southern America,Western South America,Peru,Peru,PER-OO,PE,,,L4 country
+Asia-Tropical,Malesia,Philippines,Philippines,PHI-OO,PH,,,L4 country
+Pacific,Southwestern Pacific,Phoenix Is.,Phoenix Is.,PHX-OO,KI,,,L4 country
+Pacific,South-Central Pacific,Pitcairn Is.,Pitcairn Is.,PIT-OO,PN,,,L4 country
+Europe,Middle Europe,Poland,Poland,POL-OO,PL,,,L4 country
+Europe,Southwestern Europe,Portugal,Portugal,POR-OO,PT,,,L4 country
+Asia-Temperate,Russian Far East,Primorye,Primorye,PRM-OO,RU,,,L4 country
+Southern America,Caribbean,Puerto Rico,Puerto Rico,PUE-OO,PR,,,L4 country
+Australasia,Australia,Queensland,Coral Sea Is. Territory,QLD-CS,AU,,,L4 country
+Australasia,Australia,Queensland,Queensland,QLD-QU,AU,,,L4 country
+Northern America,Eastern Canada,Québec,Québec,QUE-OO,CA,,,L4 country
+Africa,Western Indian Ocean,Réunion,Réunion,REU-OO,RE,,,L4 country
+Northern America,Northeastern U.S.A.,Rhode I.,Rhode I.,RHO-OO,US,,,L4 country
+Africa,Western Indian Ocean,Rodrigues,Rodrigues,ROD-OO,MU,,,L4 country
+Europe,Southeastern Europe,Romania,Romania,ROM-OO,RO,,,L4 country
+Europe,Eastern Europe,Central European Russia,Central European Russia,RUC-OO,RU,,,L4 country
+Europe,Eastern Europe,East European Russia,East European Russia,RUE-OO,RU,,,L4 country
+Europe,Eastern Europe,North European Russia,North European Russia,RUN-OO,RU,,,L4 country
+Europe,Eastern Europe,South European Russia,South European Russia,RUS-OO,RU,,,L4 country
+Europe,Eastern Europe,Northwest European Russia,Northwest European Russia,RUW-OO,RU,,,L4 country
+Africa,West-Central Tropical Africa,Rwanda,Rwanda,RWA-OO,RW,,,L4 country
+Asia-Temperate,Russian Far East,Sakhalin,Sakhalin,SAK-OO,RU,,,L4 country
+Pacific,Southwestern Pacific,Samoa,American Samoa,SAM-AS,AS,,,L4 country
+Pacific,Southwestern Pacific,Samoa,Samoa,SAM-WS,WS,N,Western Samoa,L4 country
+Europe,Southwestern Europe,Sardegna,Sardegna,SAR-OO,IT,,,L4 country
+Northern America,Western Canada,Saskatchewan,Saskatchewan,SAS-OO,CA,,,L4 country
+Asia-Temperate,Arabian Peninsula,Saudi Arabia,Saudi Arabia,SAU-OO,SA,,,L4 country
+Northern America,Southeastern U.S.A.,South Carolina,South Carolina,SCA-OO,US,,,L4 country
+Pacific,South-Central Pacific,Society Is.,Society Is.,SCI-OO,PF,,,L4 country
+Asia-Tropical,Indo-China,South China Sea,Paracel Is.,SCS-PI,PI,,,L4 country
+Asia-Tropical,Indo-China,South China Sea,Spratly Is.,SCS-SI,SI,,,L4 country
+Pacific,Southwestern Pacific,Santa Cruz Is.,Santa Cruz Is.,SCZ-OO,SB,,,L4 country
+Northern America,North-Central U.S.A.,South Dakota,South Dakota,SDA-OO,US,,,L4 country
+Africa,Macaronesia,Selvagens,Selvagens,SEL-OO,PT,,,L4 country
+Africa,West Tropical Africa,Senegal,Senegal,SEN-OO,SN,,,L4 country
+Africa,Western Indian Ocean,Seychelles,Seychelles,SEY-OO,SC,,,L4 country
+Antarctic,Subantarctic Islands,South Georgia,South Georgia,SGE-OO,GS,,,L4 country
+Europe,Southeastern Europe,Sicilia,Malta,SIC-MA,MT,,,L4 country
+Europe,Southeastern Europe,Sicilia,Sicilia,SIC-SI,IT,,,L4 country
+Africa,West Tropical Africa,Sierra Leone,Sierra Leone,SIE-OO,SL,,,L4 country
+Asia-Temperate,Western Asia,Sinai,Sinai,SIN-OO,EG,,,L4 country
+Australasia,Australia,South Australia,South Australia,SOA-OO,AU,,,L4 country
+Africa,Northeast Tropical Africa,Socotra,Socotra,SOC-OO,YE,,,L4 country
+Asia-Tropical,Papuasia,Solomon Is.,North Solomons,SOL-NO,PG,,,L4 country
+Asia-Tropical,Papuasia,Solomon Is.,South Solomons,SOL-SO,SB,,,L4 country
+Africa,Northeast Tropical Africa,Somalia,Somalia,SOM-OO,SO,,,L4 country
+Europe,Southwestern Europe,Spain,Andorra,SPA-AN,AD,,,L4 country
+Europe,Southwestern Europe,Spain,Gilbraltar,SPA-GI,GI,,,L4 country
+Europe,Southwestern Europe,Spain,Spain,SPA-SP,ES,,,L4 country
+Asia-Tropical,Indian Subcontinent,Sri Lanka,Sri Lanka,SRL-OO,LK,,,L4 country
+Antarctic,Subantarctic Islands,South Sandwich Is.,South Sandwich Is.,SSA-OO,GS,,,L4 country
+Africa,Middle Atlantic Ocean,St.Helena,St.Helena,STH-OO,SH,,,L4 country
+Africa,Northeast Tropical Africa,Sudan,Sudan,SUD-OO,SD,,,L4 country
+Asia-Tropical,Malesia,Sulawesi,Sulawesi,SUL-OO,ID,,,L4 country
+Asia-Tropical,Malesia,Sumatera,Sumatera,SUM-OO,ID,,,L4 country
+Southern America,Northern South America,Suriname,Surinam,SUR-OO,SR,,,L4 country
+Europe,Northern Europe,Svalbard,Svalbard,SVA-OO,SJ,,,L4 country
+Southern America,Caribbean,Southwest Caribbean,Colombian Caribbean Is.,SWC-CC,CO,,,L4 country
+Southern America,Caribbean,Southwest Caribbean,Honduran Caribbean Is.,SWC-HC,HN,,,L4 country
+Southern America,Caribbean,Southwest Caribbean,Nicaraguan Caribbean Is.,SWC-NC,NI,,,L4 country
+Europe,Northern Europe,Sweden,Sweden,SWE-OO,SE,,,L4 country
+Europe,Middle Europe,Switzerland,Switzerland,SWI-OO,CH,,,L4 country
+Africa,Southern Africa,Swaziland,Swaziland,SWZ-OO,SZ,,,L4 country
+Asia-Temperate,Eastern Asia,Taiwan,Taiwan,TAI-OO,TW,,,L4 country
+Africa,East Tropical Africa,Tanzania,Tanzania,TAN-OO,TZ,,,L4 country
+Australasia,Australia,Tasmania,Tasmania,TAS-OO,AU,,,L4 country
+Southern America,Caribbean,Turks-Caicos Is.,Turks-Caicos Is.,TCI-OO,TC,,,L4 country
+Asia-Temperate,Caucasus,Transcaucasus,Abkhaziya,TCS-AB,GE,,,L4 country
+Asia-Temperate,Caucasus,Transcaucasus,Adzhariya,TCS-AD,GE,,,L4 country
+Asia-Temperate,Caucasus,Transcaucasus,Armenia,TCS-AR,AM,,,L4 country
+Asia-Temperate,Caucasus,Transcaucasus,Azerbaijan,TCS-AZ,AZ,,,L4 country
+Asia-Temperate,Caucasus,Transcaucasus,Georgia,TCS-GR,GE,,,L4 country
+Asia-Temperate,Caucasus,Transcaucasus,Nakhichevan,TCS-NA,AZ,,,L4 country
+Asia-Temperate,Caucasus,Transcaucasus,Nagorno Karabakh,TCS-NK,AZ,,,L4 country
+Antarctic,Subantarctic Islands,Tristan da Cunha,Tristan da Cunha,TDC-OO,SH,,,L4 country
+Northern America,Southeastern U.S.A.,Tennessee,Tennessee,TEN-OO,US,,,L4 country
+Northern America,South-Central U.S.A.,Texas,Texas,TEX-OO,US,,,L4 country
+Asia-Tropical,Indo-China,Thailand,Thailand,THA-OO,TH,,,L4 country
+Asia-Temperate,Middle Asia,Turkmenistan,Turkmenistan,TKM-OO,TM,,,L4 country
+Africa,West Tropical Africa,Togo,Togo,TOG-OO,TG,,,L4 country
+Pacific,Southwestern Pacific,Tokelau-Manihiki,Manihiki Is.,TOK-MA,CK,,,L4 country
+Pacific,Southwestern Pacific,Tokelau-Manihiki,Swains I.,TOK-SW,AS,,,L4 country
+Pacific,Southwestern Pacific,Tokelau-Manihiki,Tokelau,TOK-TO,TK,,,L4 country
+Pacific,Southwestern Pacific,Tonga,Tonga,TON-OO,TO,,,L4 country
+Southern America,Caribbean,Trinidad-Tobago,Trinidad-Tobago,TRT-OO,TT,,,L4 country
+Pacific,South-Central Pacific,Tuamotu,Tuamotu,TUA-OO,PF,,,L4 country
+Pacific,South-Central Pacific,Tubuai Is.,Tubuai Is.,TUB-OO,PF,,,L4 country
+Europe,Southeastern Europe,Turkey-in-Europe,Turkey-in-Europe,TUE-OO,TR,,,L4 country
+Africa,Northern Africa,Tunisia,Tunisia,TUN-OO,TN,,,L4 country
+Asia-Temperate,Western Asia,Turkey,Turkey,TUR-OO,TR,,,L4 country
+Pacific,Southwestern Pacific,Tuvalu,Tuvalu,TUV-OO,TV,,,L4 country
+Asia-Temperate,Siberia,Tuva,Tuva,TVA-OO,RU,,,L4 country
+Africa,Southern Africa,Northern Provinces,Gauteng,TVL-GA,ZA,,,L4 country
+Africa,Southern Africa,Northern Provinces,Mpumalanga,TVL-MP,ZA,,,L4 country
+Africa,Southern Africa,Northern Provinces,Northern Province,TVL-NP,ZA,,,L4 country
+Africa,Southern Africa,Northern Provinces,North-West Province,TVL-NW,ZA,,,L4 country
+Asia-Temperate,Middle Asia,Tadzhikistan,Tadzhikistan,TZK-OO,TJ,,,L4 country
+Africa,East Tropical Africa,Uganda,Uganda,UGA-OO,UG,,,L4 country
+Europe,Eastern Europe,Ukraine,Moldova,UKR-MO,MD,,,L4 country
+Europe,Eastern Europe,Ukraine,Ukraine,UKR-UK,UA,,,L4 country
+Southern America,Southern South America,Uruguay,Uruguay,URU-OO,UY,,,L4 country
+Northern America,Southwestern U.S.A.,Utah,Utah,UTA-OO,US,,,L4 country
+Asia-Temperate,Middle Asia,Uzbekistan,Uzbekistan,UZB-OO,UZ,,,L4 country
+Pacific,Southwestern Pacific,Vanuatu,Vanuatu,VAN-OO,VU,,,L4 country
+Southern America,Northern South America,Venezuela,Venezuela,VEN-OO,VE,,,L4 country
+Northern America,Northeastern U.S.A.,Vermont,Vermont,VER-OO,US,,,L4 country
+Australasia,Australia,Victoria,Victoria,VIC-OO,AU,,,L4 country
+Asia-Tropical,Indo-China,Vietnam,Vietnam,VIE-OO,VN,,,L4 country
+Southern America,Caribbean,Venezuelan Antilles,Venezuelan Antilles,VNA-OO,VE,,,L4 country
+Northern America,Southeastern U.S.A.,Virginia,Virginia,VRG-OO,US,,,L4 country
+Pacific,Northwestern Pacific,Wake I.,Wake I.,WAK-OO,UM,,,L4 country
+Pacific,Southwestern Pacific,Wallis-Futuna Is.,Wallis-Futuna Is.,WAL-OO,WF,,,L4 country
+Northern America,Northwestern U.S.A.,Washington,Washington,WAS-OO,US,,,L4 country
+Australasia,Australia,Western Australia,Ashmore-Cartier Is.,WAU-AC,AU,,,L4 country
+Australasia,Australia,Western Australia,Western Australia,WAU-WA,AU,,,L4 country
+Northern America,Southeastern U.S.A.,District of Columbia,District of Columbia,WDC-OO,US,,,L4 country
+Asia-Tropical,Indian Subcontinent,West Himalaya,Himachal Pradesh,WHM-HP,IN,,,L4 country
+Asia-Tropical,Indian Subcontinent,West Himalaya,Jammu-Kashmir,WHM-JK,IN,,,L4 country
+Asia-Tropical,Indian Subcontinent,West Himalaya,Uttaranchal,WHM-UT,IN,,,L4 country
+Southern America,Caribbean,Windward Is.,Barbados,WIN-BA,BB,,,L4 country
+Southern America,Caribbean,Windward Is.,Dominica,WIN-DO,DM,,,L4 country
+Southern America,Caribbean,Windward Is.,Grenada,WIN-GR,GD,,,L4 country
+Southern America,Caribbean,Windward Is.,Martinique,WIN-MA,MQ,,,L4 country
+Southern America,Caribbean,Windward Is.,St.Lucia,WIN-SL,LC,,,L4 country
+Southern America,Caribbean,Windward Is.,St.Vincent,WIN-SV,VC,,,L4 country
+Northern America,North-Central U.S.A.,Wisconsin,Wisconsin,WIS-OO,US,,,L4 country
+Africa,Northern Africa,Western Sahara,Western Sahara,WSA-OO,EH,,,L4 country
+Asia-Temperate,Siberia,West Siberia,West Siberia,WSB-OO,RU,,,L4 country
+Northern America,Northeastern U.S.A.,West Virginia,West Virginia,WVA-OO,US,,,L4 country
+Northern America,Northwestern U.S.A.,Wyoming,Wyoming,WYO-OO,US,,,L4 country
+Asia-Tropical,Malesia,Christmas I.,Christmas I.,XMS-OO,CX,,,L4 country
+Asia-Temperate,Siberia,Yakutskiya,Yakutskiya,YAK-OO,RU,,,L4 country
+Asia-Temperate,Arabian Peninsula,Yemen,North Yemen,YEM-NY,YE,,,L4 country
+Asia-Temperate,Arabian Peninsula,Yemen,South Yemen,YEM-SY,YE,,,L4 country
+Europe,Southeastern Europe,Yugoslavia,Bosnia-Herzegovina,YUG-BH,YU,,,L4 country
+Europe,Southeastern Europe,Yugoslavia,Croatia,YUG-CR,HR,,,L4 country
+Europe,Southeastern Europe,Yugoslavia,Kosovo,YUG-KO,YU,,,L4 country
+Europe,Southeastern Europe,Yugoslavia,Macedonia,YUG-MA,MK,,,L4 country
+Europe,Southeastern Europe,Yugoslavia,Montenegro,YUG-MN,YU,,,L4 country
+Europe,Southeastern Europe,Yugoslavia,Serbia,YUG-SE,YU,,,L4 country
+Europe,Southeastern Europe,Yugoslavia,Slovenia,YUG-SL,SL,,,L4 country
+Northern America,Subarctic America,Yukon,Yukon,YUK-OO,CA,,,L4 country
+Africa,West-Central Tropical Africa,Zaire,Zaire,ZAI-OO,CD,,,L4 country
+Africa,South Tropical Africa,Zambia,Zambia,ZAM-OO,ZM,,,L4 country
+Africa,South Tropical Africa,Zimbabwe,Zimbabwe,ZIM-OO,ZW,,,L4 country
+Asia-Tropical,Indian Subcontinent,India,Jharkhand,IND-JK,IN,,,L4 country
+Asia-Tropical,Indian Subcontinent,India,Chattisgarh,IND-CT,IN,,,L4 country
+Asia-Temperate,Caucasus,North Caucasus,Chechnya,NCS-CH,RU,A,Una de las partes en que se divide Checheno-Ingushetiya,L4 country
+Asia-Temperate,Caucasus,North Caucasus,Ingushetiya,NCS-IN,RU,A,Una de las partes en que se divide Checheno-Ingushetiya,L4 country
+Asia-Temperate,China,China South-Central,Chongqing,CHC-CQ,CN,A,Anteriormente parte de Sichuan,L4 country

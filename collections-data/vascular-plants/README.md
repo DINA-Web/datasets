@@ -15,7 +15,7 @@ specimens.csv
 * PreparationType
 * StorageLocation
 * MountedWith
-* Collectors
+* CollectorsVerbatim
 * CollectorsNumber
 * CollectingStartYear
 * CollectingStartMonth
@@ -82,8 +82,14 @@ typestatusevents.csv
 * TypeStatusRemarks
 * IsCurrent
 
+accessions.csv
+--------------
+* AccessionNumber
+
+
 
 Value lists
 -----------
 * preptypes.csv
 * typestatus.csv
+

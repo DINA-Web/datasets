@@ -78,7 +78,7 @@ typestatusevents.csv
 * Basionym
 * TypeStatus
 * IsTypeFragment
-* TypeStatusReference
+* TypeStatusReferenceVerbatim
 * TypeStatusRemarks
 * IsCurrent
 

@@ -12,8 +12,9 @@ specimens.csv
 * CatalogedDate
 * CatalogedBy
 * AccessionNumber
+* Subcollection
 * PreparationType
-* StorageLocation
+* NormalLocation
 * MountedWith
 * CollectorsVerbatim
 * CollectorsNumber
@@ -34,7 +35,6 @@ specimens.csv
 * ElevationVerbatim
 * PublicRemarks
 * InternalRemarks
-* ObjectCondition
 
 
 identifications.csv
@@ -72,24 +72,25 @@ TDWG_geo2.csv
 * Category
 
 
-typestatusevents.csv
---------------------
+typestatusdesignations.csv
+--------------------------
 
 * Basionym
 * TypeStatus
 * IsTypeFragment
+* IsCurrent
 * TypeStatusReferenceVerbatim
 * TypeStatusRemarks
-* IsCurrent
+
 
 accessions.csv
 --------------
 * AccessionNumber
 
 
-
 Value lists
 -----------
 * preptypes.csv
 * typestatus.csv
+* establishmentmeans.csv
 

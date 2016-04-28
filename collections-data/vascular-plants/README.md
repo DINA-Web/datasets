@@ -52,6 +52,7 @@ identifications.csv
 * IsCurrent
 * IsOriginal
 * IdentificationRemarks
+* CatalogNumber
 
 
 TDWG_geo2.csv

@@ -81,6 +81,7 @@ typestatusdesignations.csv
 * IsCurrent
 * TypeStatusReferenceVerbatim
 * TypeStatusRemarks
+* CatalogNumber
 
 
 accessions.csv

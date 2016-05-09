@@ -97,6 +97,18 @@ Geography for Finland. Modified from source dataset originally compiled by Håka
 * Category
 
 
+geography_norway.csv
+--------------------
+Geography for Norway. Modified from source dataset originally compiled by Håkan Wittzell in Lund, Sweden.
+
+* L4 country
+* L5 province
+* L6 district
+* Abbreviation
+* ISOcode
+* Category
+
+
 geography_sweden.csv
 --------------------
 Geography for Sweden. Modified from source dataset originally compiled by Håkan Wittzell in Lund, Sweden.

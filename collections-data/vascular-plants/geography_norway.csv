@@ -1,0 +1,455 @@
+L4 country,L5 province,L6 district,Abbreviation,ISOcode,Category
+Norway,,,,NO,L4 country
+Norway,Akershus/Oslo,,Ak,NO,L5 province
+Norway,Akershus/Oslo,Asker,,NO,L6 district
+Norway,Akershus/Oslo,Aurskog-Høland,,NO,L6 district
+Norway,Akershus/Oslo,Bærum,,NO,L6 district
+Norway,Akershus/Oslo,Eidsvoll,,NO,L6 district
+Norway,Akershus/Oslo,Enebakk,,NO,L6 district
+Norway,Akershus/Oslo,Fet,,NO,L6 district
+Norway,Akershus/Oslo,Frogn,,NO,L6 district
+Norway,Akershus/Oslo,Gjerdrum,,NO,L6 district
+Norway,Akershus/Oslo,Hurdal,,NO,L6 district
+Norway,Akershus/Oslo,Lørenskog,,NO,L6 district
+Norway,Akershus/Oslo,Nannestad,,NO,L6 district
+Norway,Akershus/Oslo,Nes,,NO,L6 district
+Norway,Akershus/Oslo,Nesodden,,NO,L6 district
+Norway,Akershus/Oslo,Nittedal,,NO,L6 district
+Norway,Akershus/Oslo,Oppegård,,NO,L6 district
+Norway,Akershus/Oslo,Oslo,,NO,L6 district
+Norway,Akershus/Oslo,Rælingen,,NO,L6 district
+Norway,Akershus/Oslo,Skedsmo,,NO,L6 district
+Norway,Akershus/Oslo,Ski,,NO,L6 district
+Norway,Akershus/Oslo,Sørum,,NO,L6 district
+Norway,Akershus/Oslo,Ullensaker,,NO,L6 district
+Norway,Akershus/Oslo,Vestby,,NO,L6 district
+Norway,Akershus/Oslo,Ås,,NO,L6 district
+Norway,Aust-Agder,,AA,NO,L5 province
+Norway,Aust-Agder,Arendal,,NO,L6 district
+Norway,Aust-Agder,Birkenes,,NO,L6 district
+Norway,Aust-Agder,Bygland,,NO,L6 district
+Norway,Aust-Agder,Bykle,,NO,L6 district
+Norway,Aust-Agder,Evje og Hornnes,,NO,L6 district
+Norway,Aust-Agder,Froland,,NO,L6 district
+Norway,Aust-Agder,Gjerstad,,NO,L6 district
+Norway,Aust-Agder,Grimstad,,NO,L6 district
+Norway,Aust-Agder,Iveland,,NO,L6 district
+Norway,Aust-Agder,Lillesand,,NO,L6 district
+Norway,Aust-Agder,Risør,,NO,L6 district
+Norway,Aust-Agder,Tvedestrand,,NO,L6 district
+Norway,Aust-Agder,Valle,,NO,L6 district
+Norway,Aust-Agder,Vegårshei,,NO,L6 district
+Norway,Aust-Agder,Åmli,,NO,L6 district
+Norway,Buskerud,,Bu,NO,L5 province
+Norway,Buskerud,Drammen,,NO,L6 district
+Norway,Buskerud,Flesberg,,NO,L6 district
+Norway,Buskerud,Flå,,NO,L6 district
+Norway,Buskerud,Gol,,NO,L6 district
+Norway,Buskerud,Hemsedal,,NO,L6 district
+Norway,Buskerud,Hol,,NO,L6 district
+Norway,Buskerud,Hole,,NO,L6 district
+Norway,Buskerud,Hurum,,NO,L6 district
+Norway,Buskerud,Kongsberg,,NO,L6 district
+Norway,Buskerud,Krødsherad,,NO,L6 district
+Norway,Buskerud,Lier,,NO,L6 district
+Norway,Buskerud,Modum,,NO,L6 district
+Norway,Buskerud,Nedre Eiker,,NO,L6 district
+Norway,Buskerud,Nes,,NO,L6 district
+Norway,Buskerud,Nore og Uvdal,,NO,L6 district
+Norway,Buskerud,Ringerike,,NO,L6 district
+Norway,Buskerud,Rollag,,NO,L6 district
+Norway,Buskerud,Røyken,,NO,L6 district
+Norway,Buskerud,Sigdal,,NO,L6 district
+Norway,Buskerud,Ål,,NO,L6 district
+Norway,Buskerud,Øvre Eiker,,NO,L6 district
+Norway,Finnmark,,,NO,L5 province
+Norway,Finnmark,Alta,,NO,L6 district
+Norway,Finnmark,Berlevåg,,NO,L6 district
+Norway,Finnmark,Båtsfjord,,NO,L6 district
+Norway,Finnmark,Gamvik,,NO,L6 district
+Norway,Finnmark,Hammerfest,,NO,L6 district
+Norway,Finnmark,Hasvik,,NO,L6 district
+Norway,Finnmark,Karasjok,,NO,L6 district
+Norway,Finnmark,Kautokeino,,NO,L6 district
+Norway,Finnmark,Kvalsund,,NO,L6 district
+Norway,Finnmark,Lebesby,,NO,L6 district
+Norway,Finnmark,Loppa,,NO,L6 district
+Norway,Finnmark,Måsøy,,NO,L6 district
+Norway,Finnmark,Nesseby,,NO,L6 district
+Norway,Finnmark,Nordkapp,,NO,L6 district
+Norway,Finnmark,Porsanger,,NO,L6 district
+Norway,Finnmark,Sør-Varanger,,NO,L6 district
+Norway,Finnmark,Sørøysund,,NO,L6 district
+Norway,Finnmark,Tana,,NO,L6 district
+Norway,Finnmark,Vadsø,,NO,L6 district
+Norway,Finnmark,Vardø,,NO,L6 district
+Norway,Hedmark,,He,NO,L5 province
+Norway,Hedmark,Alvdal,,NO,L6 district
+Norway,Hedmark,Eidskog,,NO,L6 district
+Norway,Hedmark,Elverum,,NO,L6 district
+Norway,Hedmark,Engerdal,,NO,L6 district
+Norway,Hedmark,Folldal,,NO,L6 district
+Norway,Hedmark,Grue,,NO,L6 district
+Norway,Hedmark,Hamar,,NO,L6 district
+Norway,Hedmark,Kongsvinger,,NO,L6 district
+Norway,Hedmark,Løten,,NO,L6 district
+Norway,Hedmark,Nord-Odal,,NO,L6 district
+Norway,Hedmark,Os,,NO,L6 district
+Norway,Hedmark,Rendalen,,NO,L6 district
+Norway,Hedmark,Ringsaker,,NO,L6 district
+Norway,Hedmark,Stange,,NO,L6 district
+Norway,Hedmark,Stor-Elvdal,,NO,L6 district
+Norway,Hedmark,Sør-Odal,,NO,L6 district
+Norway,Hedmark,Tolga,,NO,L6 district
+Norway,Hedmark,Trysil,,NO,L6 district
+Norway,Hedmark,Tynset,,NO,L6 district
+Norway,Hedmark,Våler,,NO,L6 district
+Norway,Hedmark,Åmot,,NO,L6 district
+Norway,Hedmark,Åsnes,,NO,L6 district
+Norway,Hordaland,,Ho,NO,L5 province
+Norway,Hordaland,Askøy,,NO,L6 district
+Norway,Hordaland,Austevoll,,NO,L6 district
+Norway,Hordaland,Austrheim,,NO,L6 district
+Norway,Hordaland,Bergen,,NO,L6 district
+Norway,Hordaland,Bømlo,,NO,L6 district
+Norway,Hordaland,Eidfjord,,NO,L6 district
+Norway,Hordaland,Etne,,NO,L6 district
+Norway,Hordaland,Fedje,,NO,L6 district
+Norway,Hordaland,Fitjar,,NO,L6 district
+Norway,Hordaland,Fjell,,NO,L6 district
+Norway,Hordaland,Fusa,,NO,L6 district
+Norway,Hordaland,Granvin,,NO,L6 district
+Norway,Hordaland,Jondal,,NO,L6 district
+Norway,Hordaland,Kvam,,NO,L6 district
+Norway,Hordaland,Kvinnherad,,NO,L6 district
+Norway,Hordaland,Lindås,,NO,L6 district
+Norway,Hordaland,Masfjorden,,NO,L6 district
+Norway,Hordaland,Meland,,NO,L6 district
+Norway,Hordaland,Modalen,,NO,L6 district
+Norway,Hordaland,Odda,,NO,L6 district
+Norway,Hordaland,Os,,NO,L6 district
+Norway,Hordaland,Osterøy,,NO,L6 district
+Norway,Hordaland,Radøy,,NO,L6 district
+Norway,Hordaland,Samnanger,,NO,L6 district
+Norway,Hordaland,Stord,,NO,L6 district
+Norway,Hordaland,Sund,,NO,L6 district
+Norway,Hordaland,Sveio,,NO,L6 district
+Norway,Hordaland,Tysnes,,NO,L6 district
+Norway,Hordaland,Ullensvang,,NO,L6 district
+Norway,Hordaland,Ulvik,,NO,L6 district
+Norway,Hordaland,Vaksdal,,NO,L6 district
+Norway,Hordaland,Voss,,NO,L6 district
+Norway,Hordaland,Ølen,,NO,L6 district
+Norway,Hordaland,Øygarden,,NO,L6 district
+Norway,Møre og Romsdal,,MR,NO,L5 province
+Norway,Møre og Romsdal,Aukra,,NO,L6 district
+Norway,Møre og Romsdal,Aure,,NO,L6 district
+Norway,Møre og Romsdal,Averøy,,NO,L6 district
+Norway,Møre og Romsdal,Eide,,NO,L6 district
+Norway,Møre og Romsdal,Frei,,NO,L6 district
+Norway,Møre og Romsdal,Fræna,,NO,L6 district
+Norway,Møre og Romsdal,Giske,,NO,L6 district
+Norway,Møre og Romsdal,Gjemnes,,NO,L6 district
+Norway,Møre og Romsdal,Halsa,,NO,L6 district
+Norway,Møre og Romsdal,Haram,,NO,L6 district
+Norway,Møre og Romsdal,Hareid,,NO,L6 district
+Norway,Møre og Romsdal,Herøy,,NO,L6 district
+Norway,Møre og Romsdal,Kristiansund,,NO,L6 district
+Norway,Møre og Romsdal,Midsund,,NO,L6 district
+Norway,Møre og Romsdal,Molde,,NO,L6 district
+Norway,Møre og Romsdal,Nesset,,NO,L6 district
+Norway,Møre og Romsdal,Norddal,,NO,L6 district
+Norway,Møre og Romsdal,Rauma,,NO,L6 district
+Norway,Møre og Romsdal,Rindal,,NO,L6 district
+Norway,Møre og Romsdal,Sande,,NO,L6 district
+Norway,Møre og Romsdal,Sandøy,,NO,L6 district
+Norway,Møre og Romsdal,Skodje,,NO,L6 district
+Norway,Møre og Romsdal,Smøla,,NO,L6 district
+Norway,Møre og Romsdal,Stordal,,NO,L6 district
+Norway,Møre og Romsdal,Stranda,,NO,L6 district
+Norway,Møre og Romsdal,Sula,,NO,L6 district
+Norway,Møre og Romsdal,Sunndal,,NO,L6 district
+Norway,Møre og Romsdal,Surnadal,,NO,L6 district
+Norway,Møre og Romsdal,Sykkylven,,NO,L6 district
+Norway,Møre og Romsdal,Tingvoll,,NO,L6 district
+Norway,Møre og Romsdal,Tustna,,NO,L6 district
+Norway,Møre og Romsdal,Ulstein,,NO,L6 district
+Norway,Møre og Romsdal,Vanylven,,NO,L6 district
+Norway,Møre og Romsdal,Vestnes,,NO,L6 district
+Norway,Møre og Romsdal,Volda,,NO,L6 district
+Norway,Møre og Romsdal,Ålesund,,NO,L6 district
+Norway,Møre og Romsdal,Ørskog,,NO,L6 district
+Norway,Møre og Romsdal,Ørsta,,NO,L6 district
+Norway,Nord-Trøndelag,,NT,NO,L5 province
+Norway,Nord-Trøndelag,Flatanger,,NO,L6 district
+Norway,Nord-Trøndelag,Fosnes,,NO,L6 district
+Norway,Nord-Trøndelag,Frosta,,NO,L6 district
+Norway,Nord-Trøndelag,Grong,,NO,L6 district
+Norway,Nord-Trøndelag,Høylandet,,NO,L6 district
+Norway,Nord-Trøndelag,Inderøy,,NO,L6 district
+Norway,Nord-Trøndelag,Leka,,NO,L6 district
+Norway,Nord-Trøndelag,Leksvik,,NO,L6 district
+Norway,Nord-Trøndelag,Levanger,,NO,L6 district
+Norway,Nord-Trøndelag,Lierne,,NO,L6 district
+Norway,Nord-Trøndelag,Meråker,,NO,L6 district
+Norway,Nord-Trøndelag,Mosvik,,NO,L6 district
+Norway,Nord-Trøndelag,Namdalseid,,NO,L6 district
+Norway,Nord-Trøndelag,Namsos,,NO,L6 district
+Norway,Nord-Trøndelag,Namsskogan,,NO,L6 district
+Norway,Nord-Trøndelag,Nærøy,,NO,L6 district
+Norway,Nord-Trøndelag,Overhalla,,NO,L6 district
+Norway,Nord-Trøndelag,Røyrvik,,NO,L6 district
+Norway,Nord-Trøndelag,Snåsa,,NO,L6 district
+Norway,Nord-Trøndelag,Steinkjer,,NO,L6 district
+Norway,Nord-Trøndelag,Stjørdal,,NO,L6 district
+Norway,Nord-Trøndelag,Verdal,,NO,L6 district
+Norway,Nord-Trøndelag,Verran,,NO,L6 district
+Norway,Nord-Trøndelag,Vikna,,NO,L6 district
+Norway,Nordland,,,NO,L5 province
+Norway,Nordland,Alstahaug,,NO,L6 district
+Norway,Nordland,Andøy,,NO,L6 district
+Norway,Nordland,Ballangen,,NO,L6 district
+Norway,Nordland,Beiarn,,NO,L6 district
+Norway,Nordland,Bindal,,NO,L6 district
+Norway,Nordland,Bodø,,NO,L6 district
+Norway,Nordland,Brønnøy,,NO,L6 district
+Norway,Nordland,Bø,,NO,L6 district
+Norway,Nordland,Dønna,,NO,L6 district
+Norway,Nordland,Evenes,,NO,L6 district
+Norway,Nordland,Fauske,,NO,L6 district
+Norway,Nordland,Flakstad,,NO,L6 district
+Norway,Nordland,Gildeskål,,NO,L6 district
+Norway,Nordland,Grane,,NO,L6 district
+Norway,Nordland,Hadsel,,NO,L6 district
+Norway,Nordland,Hamarøy,,NO,L6 district
+Norway,Nordland,Hattfjelldal,,NO,L6 district
+Norway,Nordland,Hemnes,,NO,L6 district
+Norway,Nordland,Herøy,,NO,L6 district
+Norway,Nordland,Leirfjord,,NO,L6 district
+Norway,Nordland,Lurøy,,NO,L6 district
+Norway,Nordland,Lødingen,,NO,L6 district
+Norway,Nordland,Meløy,,NO,L6 district
+Norway,Nordland,Moskenes,,NO,L6 district
+Norway,Nordland,Narvik,,NO,L6 district
+Norway,Nordland,Nesna,,NO,L6 district
+Norway,Nordland,Rana,,NO,L6 district
+Norway,Nordland,Rødøy,,NO,L6 district
+Norway,Nordland,Røst,,NO,L6 district
+Norway,Nordland,Saltdal,,NO,L6 district
+Norway,Nordland,Skjerstad,,NO,L6 district
+Norway,Nordland,Sortland,,NO,L6 district
+Norway,Nordland,Steigen,,NO,L6 district
+Norway,Nordland,Sømna,,NO,L6 district
+Norway,Nordland,Sørfold,,NO,L6 district
+Norway,Nordland,Tjeldsund,,NO,L6 district
+Norway,Nordland,Træna,,NO,L6 district
+Norway,Nordland,Tysfjord,,NO,L6 district
+Norway,Nordland,Vefsn,,NO,L6 district
+Norway,Nordland,Vega,,NO,L6 district
+Norway,Nordland,Vestvågøy,,NO,L6 district
+Norway,Nordland,Vevelstad,,NO,L6 district
+Norway,Nordland,Vågan,,NO,L6 district
+Norway,Nordland,Værøy,,NO,L6 district
+Norway,Nordland,Øksnes,,NO,L6 district
+Norway,Oppland,,OpN,NO,L5 province
+Norway,Oppland,Dovre,,NO,L6 district
+Norway,Oppland,Etnedal,,NO,L6 district
+Norway,Oppland,Gausdal,,NO,L6 district
+Norway,Oppland,Gjøvik,,NO,L6 district
+Norway,Oppland,Gran,,NO,L6 district
+Norway,Oppland,Jevnaker,,NO,L6 district
+Norway,Oppland,Lesja,,NO,L6 district
+Norway,Oppland,Lillehammer,,NO,L6 district
+Norway,Oppland,Lom,,NO,L6 district
+Norway,Oppland,Lunner,,NO,L6 district
+Norway,Oppland,Nord-Aurdal,,NO,L6 district
+Norway,Oppland,Nord-Fron,,NO,L6 district
+Norway,Oppland,Nordre Land,,NO,L6 district
+Norway,Oppland,Ringebu,,NO,L6 district
+Norway,Oppland,Sel,,NO,L6 district
+Norway,Oppland,Skjåk,,NO,L6 district
+Norway,Oppland,Søndre Land,,NO,L6 district
+Norway,Oppland,Sør-Aurdal,,NO,L6 district
+Norway,Oppland,Sør-Fron,,NO,L6 district
+Norway,Oppland,Vang,,NO,L6 district
+Norway,Oppland,Vestre Slidre,,NO,L6 district
+Norway,Oppland,Vestre Toten,,NO,L6 district
+Norway,Oppland,Vågå,,NO,L6 district
+Norway,Oppland,Østre Toten,,NO,L6 district
+Norway,Oppland,Øyer,,NO,L6 district
+Norway,Oppland,Øystre Slidre,,NO,L6 district
+Norway,Rogaland,,Ro,NO,L5 province
+Norway,Rogaland,Bjerkreim,,NO,L6 district
+Norway,Rogaland,Bokn,,NO,L6 district
+Norway,Rogaland,Eigersund,,NO,L6 district
+Norway,Rogaland,Finnøy,,NO,L6 district
+Norway,Rogaland,Forsand,,NO,L6 district
+Norway,Rogaland,Gjesdal,,NO,L6 district
+Norway,Rogaland,Haugesund,,NO,L6 district
+Norway,Rogaland,Hjelmeland,,NO,L6 district
+Norway,Rogaland,Hå,,NO,L6 district
+Norway,Rogaland,Karmøy,,NO,L6 district
+Norway,Rogaland,Klepp,,NO,L6 district
+Norway,Rogaland,Kvitsøy,,NO,L6 district
+Norway,Rogaland,Lund,,NO,L6 district
+Norway,Rogaland,Randaberg,,NO,L6 district
+Norway,Rogaland,Rennesøy,,NO,L6 district
+Norway,Rogaland,Sandnes,,NO,L6 district
+Norway,Rogaland,Sauda,,NO,L6 district
+Norway,Rogaland,Sokndal,,NO,L6 district
+Norway,Rogaland,Sola,,NO,L6 district
+Norway,Rogaland,Stavanger,,NO,L6 district
+Norway,Rogaland,Strand,,NO,L6 district
+Norway,Rogaland,Suldal,,NO,L6 district
+Norway,Rogaland,Time,,NO,L6 district
+Norway,Rogaland,Tysvær,,NO,L6 district
+Norway,Rogaland,Utsira,,NO,L6 district
+Norway,Rogaland,Vindafjord,,NO,L6 district
+Norway,Sogn og Fjordane,,SF,NO,L5 province
+Norway,Sogn og Fjordane,Askvoll,,NO,L6 district
+Norway,Sogn og Fjordane,Aurland,,NO,L6 district
+Norway,Sogn og Fjordane,Balestrand,,NO,L6 district
+Norway,Sogn og Fjordane,Bremanger,,NO,L6 district
+Norway,Sogn og Fjordane,Eid,,NO,L6 district
+Norway,Sogn og Fjordane,Fjaler,,NO,L6 district
+Norway,Sogn og Fjordane,Flora,,NO,L6 district
+Norway,Sogn og Fjordane,Førde,,NO,L6 district
+Norway,Sogn og Fjordane,Gaular,,NO,L6 district
+Norway,Sogn og Fjordane,Gloppen,,NO,L6 district
+Norway,Sogn og Fjordane,Gulen,,NO,L6 district
+Norway,Sogn og Fjordane,Hornindal,,NO,L6 district
+Norway,Sogn og Fjordane,Hyllestad,,NO,L6 district
+Norway,Sogn og Fjordane,Høyanger,,NO,L6 district
+Norway,Sogn og Fjordane,Jølster,,NO,L6 district
+Norway,Sogn og Fjordane,Leikanger,,NO,L6 district
+Norway,Sogn og Fjordane,Luster,,NO,L6 district
+Norway,Sogn og Fjordane,Lærdal,,NO,L6 district
+Norway,Sogn og Fjordane,Naustdal,,NO,L6 district
+Norway,Sogn og Fjordane,Selje,,NO,L6 district
+Norway,Sogn og Fjordane,Sogndal,,NO,L6 district
+Norway,Sogn og Fjordane,Solund,,NO,L6 district
+Norway,Sogn og Fjordane,Stryn,,NO,L6 district
+Norway,Sogn og Fjordane,Vik,,NO,L6 district
+Norway,Sogn og Fjordane,Vågsøy,,NO,L6 district
+Norway,Sogn og Fjordane,Årdal,,NO,L6 district
+Norway,Sør-Trøndelag,,STN,NO,L5 province
+Norway,Sør-Trøndelag,Bjugn,,NO,L6 district
+Norway,Sør-Trøndelag,Frøya,,NO,L6 district
+Norway,Sør-Trøndelag,Hemne,,NO,L6 district
+Norway,Sør-Trøndelag,Hitra,,NO,L6 district
+Norway,Sør-Trøndelag,Holtålen,,NO,L6 district
+Norway,Sør-Trøndelag,Klæbu,,NO,L6 district
+Norway,Sør-Trøndelag,Malvik,,NO,L6 district
+Norway,Sør-Trøndelag,Meldal,,NO,L6 district
+Norway,Sør-Trøndelag,Melhus,,NO,L6 district
+Norway,Sør-Trøndelag,Midtre Gauldal,,NO,L6 district
+Norway,Sør-Trøndelag,Oppdal,,NO,L6 district
+Norway,Sør-Trøndelag,Orkdal,,NO,L6 district
+Norway,Sør-Trøndelag,Osen,,NO,L6 district
+Norway,Sør-Trøndelag,Rennebu,,NO,L6 district
+Norway,Sør-Trøndelag,Rissa,,NO,L6 district
+Norway,Sør-Trøndelag,Roan,,NO,L6 district
+Norway,Sør-Trøndelag,Røros,,NO,L6 district
+Norway,Sør-Trøndelag,Selbu,,NO,L6 district
+Norway,Sør-Trøndelag,Skaun,,NO,L6 district
+Norway,Sør-Trøndelag,Snillfjord,,NO,L6 district
+Norway,Sør-Trøndelag,Trondheim,,NO,L6 district
+Norway,Sør-Trøndelag,Tydal,,NO,L6 district
+Norway,Sør-Trøndelag,Åfjord,,NO,L6 district
+Norway,Sør-Trøndelag,Ørland,,NO,L6 district
+Norway,Telemark,,Te,NO,L5 province
+Norway,Telemark,Bamble,,NO,L6 district
+Norway,Telemark,Bø,,NO,L6 district
+Norway,Telemark,Drangedal,,NO,L6 district
+Norway,Telemark,Fyresdal,,NO,L6 district
+Norway,Telemark,Hjartdal,,NO,L6 district
+Norway,Telemark,Kragerø,,NO,L6 district
+Norway,Telemark,Kvitseid,,NO,L6 district
+Norway,Telemark,Nissedal,,NO,L6 district
+Norway,Telemark,Nome,,NO,L6 district
+Norway,Telemark,Notodden,,NO,L6 district
+Norway,Telemark,Porsgrunn,,NO,L6 district
+Norway,Telemark,Sauherad,,NO,L6 district
+Norway,Telemark,Seljord,,NO,L6 district
+Norway,Telemark,Siljan,,NO,L6 district
+Norway,Telemark,Skien,,NO,L6 district
+Norway,Telemark,Tinn,,NO,L6 district
+Norway,Telemark,Tokke,,NO,L6 district
+Norway,Telemark,Vinje,,NO,L6 district
+Norway,Troms,,Tr,NO,L5 province
+Norway,Troms,Balsfjord,,NO,L6 district
+Norway,Troms,Bardu,,NO,L6 district
+Norway,Troms,Berg,,NO,L6 district
+Norway,Troms,Bjarkøy,,NO,L6 district
+Norway,Troms,Dyrøy,,NO,L6 district
+Norway,Troms,Gratangen,,NO,L6 district
+Norway,Troms,Harstad,,NO,L6 district
+Norway,Troms,Ibestad,,NO,L6 district
+Norway,Troms,Karlsøy,,NO,L6 district
+Norway,Troms,Kvæfjord,,NO,L6 district
+Norway,Troms,Kvænangen,,NO,L6 district
+Norway,Troms,Kåfjord,,NO,L6 district
+Norway,Troms,Lavangen,,NO,L6 district
+Norway,Troms,Lenvik,,NO,L6 district
+Norway,Troms,Lyngen,,NO,L6 district
+Norway,Troms,Målselv,,NO,L6 district
+Norway,Troms,Nordreisa,,NO,L6 district
+Norway,Troms,Salangen,,NO,L6 district
+Norway,Troms,Skjervøy,,NO,L6 district
+Norway,Troms,Skånland,,NO,L6 district
+Norway,Troms,Storfjord,,NO,L6 district
+Norway,Troms,Sørreisa,,NO,L6 district
+Norway,Troms,Torsken,,NO,L6 district
+Norway,Troms,Tranøy,,NO,L6 district
+Norway,Troms,Tromsø,,NO,L6 district
+Norway,Vest-Agder,,VA,NO,L5 province
+Norway,Vest-Agder,Audnedal,,NO,L6 district
+Norway,Vest-Agder,Farsund,,NO,L6 district
+Norway,Vest-Agder,Flekkefjord,,NO,L6 district
+Norway,Vest-Agder,Hægebostad,,NO,L6 district
+Norway,Vest-Agder,Kristiansand,,NO,L6 district
+Norway,Vest-Agder,Kvinesdal,,NO,L6 district
+Norway,Vest-Agder,Lindesnes,,NO,L6 district
+Norway,Vest-Agder,Lyngdal,,NO,L6 district
+Norway,Vest-Agder,Mandal,,NO,L6 district
+Norway,Vest-Agder,Marnardal,,NO,L6 district
+Norway,Vest-Agder,Sirdal,,NO,L6 district
+Norway,Vest-Agder,Songdalen,,NO,L6 district
+Norway,Vest-Agder,Søgne,,NO,L6 district
+Norway,Vest-Agder,Vennesla,,NO,L6 district
+Norway,Vest-Agder,Åseral,,NO,L6 district
+Norway,Vestfold,,Vf,NO,L5 province
+Norway,Vestfold,Andebu,,NO,L6 district
+Norway,Vestfold,Borre,,NO,L6 district
+Norway,Vestfold,Hof,,NO,L6 district
+Norway,Vestfold,Holmestrand,,NO,L6 district
+Norway,Vestfold,Lardal,,NO,L6 district
+Norway,Vestfold,Larvik,,NO,L6 district
+Norway,Vestfold,Nøtterøy,,NO,L6 district
+Norway,Vestfold,Ramnes,,NO,L6 district
+Norway,Vestfold,Sande,,NO,L6 district
+Norway,Vestfold,Sandefjord,,NO,L6 district
+Norway,Vestfold,Stokke,,NO,L6 district
+Norway,Vestfold,Svelvik,,NO,L6 district
+Norway,Vestfold,Tjøme,,NO,L6 district
+Norway,Vestfold,Tønsberg,,NO,L6 district
+Norway,Vestfold,Våle,,NO,L6 district
+Norway,Østfold,,Øf,NO,L5 province
+Norway,Østfold,Aremark,,NO,L6 district
+Norway,Østfold,Askim,,NO,L6 district
+Norway,Østfold,Eidsberg,,NO,L6 district
+Norway,Østfold,Fredrikstad,,NO,L6 district
+Norway,Østfold,Halden,,NO,L6 district
+Norway,Østfold,Hobøl,,NO,L6 district
+Norway,Østfold,Hvaler,,NO,L6 district
+Norway,Østfold,Marker,,NO,L6 district
+Norway,Østfold,Moss,,NO,L6 district
+Norway,Østfold,Rakkestad,,NO,L6 district
+Norway,Østfold,Rygge,,NO,L6 district
+Norway,Østfold,Råde,,NO,L6 district
+Norway,Østfold,Rømskog,,NO,L6 district
+Norway,Østfold,Sarpsborg,,NO,L6 district
+Norway,Østfold,Skiptvet,,NO,L6 district
+Norway,Østfold,Spydeberg,,NO,L6 district
+Norway,Østfold,Trøgstad,,NO,L6 district
+Norway,Østfold,Våler,,NO,L6 district

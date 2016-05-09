@@ -1,0 +1,68 @@
+L4 country,L5 province,L6 district,Abbreviation,ISOcode,Category
+Denmark,,,,DK,L4 country
+Denmark,Bornholm,,Brn,DK,L5 province
+Denmark,Bornholm,TBU 47,,DK,L6 district
+Denmark,Fyn/Langeland,,FyL,DK,L5 province
+Denmark,Fyn/Langeland,TBU 28,,DK,L6 district
+Denmark,Fyn/Langeland,TBU 29,,DK,L6 district
+Denmark,Fyn/Langeland,TBU 30,,DK,L6 district
+Denmark,Fyn/Langeland,TBU 31,,DK,L6 district
+Denmark,Fyn/Langeland,TBU 32,,DK,L6 district
+Denmark,Fyn/Langeland,TBU 33,,DK,L6 district
+Denmark,Fyn/Langeland,TBU 34,,DK,L6 district
+Denmark,Jylland,,,DK,L5 province
+Denmark,Lolland/Falster/Møn,,LFM,DK,L5 province
+Denmark,Lolland/Falster/Møn,TBU 35,,DK,L6 district
+Denmark,Lolland/Falster/Møn,TBU 36,,DK,L6 district
+Denmark,Lolland/Falster/Møn,TBU 37,,DK,L6 district
+Denmark,Lolland/Falster/Møn,TBU 38,,DK,L6 district
+Denmark,Nordjylland,,NJy,DK,L5 province
+Denmark,Nordjylland,TBU 1,,DK,L6 district
+Denmark,Nordjylland,TBU 10,,DK,L6 district
+Denmark,Nordjylland,TBU 11,,DK,L6 district
+Denmark,Nordjylland,TBU 2,,DK,L6 district
+Denmark,Nordjylland,TBU 3,,DK,L6 district
+Denmark,Nordjylland,TBU 4,,DK,L6 district
+Denmark,Nordjylland,TBU 5,,DK,L6 district
+Denmark,Nordjylland,TBU 6,,DK,L6 district
+Denmark,Nordjylland,TBU 7,,DK,L6 district
+Denmark,Nordjylland,TBU 8,,DK,L6 district
+Denmark,Nordjylland,TBU 9,,DK,L6 district
+Denmark,Sjælland,,Sjæ,DK,L5 province
+Denmark,Sjælland,TBU 39a,,DK,L6 district
+Denmark,Sjælland,TBU 39b,,DK,L6 district
+Denmark,Sjælland,TBU 40,,DK,L6 district
+Denmark,Sjælland,TBU 41,,DK,L6 district
+Denmark,Sjælland,TBU 42,,DK,L6 district
+Denmark,Sjælland,TBU 43,,DK,L6 district
+Denmark,Sjælland,TBU 44,,DK,L6 district
+Denmark,Sjælland,TBU 45a,,DK,L6 district
+Denmark,Sjælland,TBU 45b,,DK,L6 district
+Denmark,Sjælland,TBU 46,,DK,L6 district
+Denmark,Sydjylland,,SJy,DK,L5 province
+Denmark,Sydjylland,TBU 48,,DK,L6 district
+Denmark,Sydjylland,TBU 49,,DK,L6 district
+Denmark,Sydjylland,TBU 50,,DK,L6 district
+Denmark,Sydjylland,TBU 51,,DK,L6 district
+Denmark,Sydjylland,TBU 52,,DK,L6 district
+Denmark,Sydjylland,TBU 53,,DK,L6 district
+Denmark,Vestjylland,,VJy,DK,L5 province
+Denmark,Vestjylland,TBU 15,,DK,L6 district
+Denmark,Vestjylland,TBU 16,,DK,L6 district
+Denmark,Vestjylland,TBU 17,,DK,L6 district
+Denmark,Vestjylland,TBU 18,,DK,L6 district
+Denmark,Vestjylland,TBU 19,,DK,L6 district
+Denmark,Vestjylland,TBU 26,,DK,L6 district
+Denmark,Vestjylland,TBU 27,,DK,L6 district
+Denmark,Østjylland,,ØJy,DK,L5 province
+Denmark,Østjylland,TBU 12,,DK,L6 district
+Denmark,Østjylland,TBU 13a,,DK,L6 district
+Denmark,Østjylland,TBU 13b,,DK,L6 district
+Denmark,Østjylland,TBU 14,,DK,L6 district
+Denmark,Østjylland,TBU 20,,DK,L6 district
+Denmark,Østjylland,TBU 21,,DK,L6 district
+Denmark,Østjylland,TBU 22a,,DK,L6 district
+Denmark,Østjylland,TBU 22b,,DK,L6 district
+Denmark,Østjylland,TBU 23,,DK,L6 district
+Denmark,Østjylland,TBU 24,,DK,L6 district
+Denmark,Østjylland,TBU 25,,DK,L6 district

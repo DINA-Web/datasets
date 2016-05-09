@@ -1,0 +1,468 @@
+L4 country,L5 province,L6 district,Abbreviation,ISOcode,Category
+Finland,,,,FI,L4 country
+Finland,Enontekiön Lappi,,EnL (Le,FI,L5 province
+Finland,Enontekiön Lappi,Enontekiö,,FI,L6 district
+Finland,Etelä-Häme,,EH (Ta),FI,L5 province
+Finland,Etelä-Häme,Asikkala,,FI,L6 district
+Finland,Etelä-Häme,Forssa,,FI,L6 district
+Finland,Etelä-Häme,Hartola,,FI,L6 district
+Finland,Etelä-Häme,Hattula,,FI,L6 district
+Finland,Etelä-Häme,Hauho,,FI,L6 district
+Finland,Etelä-Häme,Hausjärvi,,FI,L6 district
+Finland,Etelä-Häme,Heinola,,FI,L6 district
+Finland,Etelä-Häme,Hollola,,FI,L6 district
+Finland,Etelä-Häme,Humppila,,FI,L6 district
+Finland,Etelä-Häme,Hämeenkoski,,FI,L6 district
+Finland,Etelä-Häme,Hämeenlinna,,FI,L6 district
+Finland,Etelä-Häme,Iitti,,FI,L6 district
+Finland,Etelä-Häme,Jaala,,FI,L6 district
+Finland,Etelä-Häme,Janakkala,,FI,L6 district
+Finland,Etelä-Häme,Jokioinen,,FI,L6 district
+Finland,Etelä-Häme,Juupajoki,,FI,L6 district
+Finland,Etelä-Häme,Jämsä,,FI,L6 district
+Finland,Etelä-Häme,Jämsänkoski,,FI,L6 district
+Finland,Etelä-Häme,Kalvola,,FI,L6 district
+Finland,Etelä-Häme,Kangasala,,FI,L6 district
+Finland,Etelä-Häme,Korpilahti,,FI,L6 district
+Finland,Etelä-Häme,Kuhmalahti,,FI,L6 district
+Finland,Etelä-Häme,Kuhmoinen,,FI,L6 district
+Finland,Etelä-Häme,Kuru,,FI,L6 district
+Finland,Etelä-Häme,Kuusankoski,,FI,L6 district
+Finland,Etelä-Häme,Kylmäkoski,,FI,L6 district
+Finland,Etelä-Häme,Kärkölä,,FI,L6 district
+Finland,Etelä-Häme,Lahti,,FI,L6 district
+Finland,Etelä-Häme,Lammi,,FI,L6 district
+Finland,Etelä-Häme,Lempäälä,,FI,L6 district
+Finland,Etelä-Häme,Loppi,,FI,L6 district
+Finland,Etelä-Häme,Luhanka,,FI,L6 district
+Finland,Etelä-Häme,Luopioinen,,FI,L6 district
+Finland,Etelä-Häme,Längelmäki,,FI,L6 district
+Finland,Etelä-Häme,Muurame,,FI,L6 district
+Finland,Etelä-Häme,Mänttä,,FI,L6 district
+Finland,Etelä-Häme,Nastola,,FI,L6 district
+Finland,Etelä-Häme,Nokia,,FI,L6 district
+Finland,Etelä-Häme,Orivesi,,FI,L6 district
+Finland,Etelä-Häme,Padasjoki,,FI,L6 district
+Finland,Etelä-Häme,Pirkkala,,FI,L6 district
+Finland,Etelä-Häme,Pälkäne,,FI,L6 district
+Finland,Etelä-Häme,Renko,,FI,L6 district
+Finland,Etelä-Häme,Riihimäki,,FI,L6 district
+Finland,Etelä-Häme,Ruovesi,,FI,L6 district
+Finland,Etelä-Häme,Sahalahti,,FI,L6 district
+Finland,Etelä-Häme,Somero,,FI,L6 district
+Finland,Etelä-Häme,Sysmä,,FI,L6 district
+Finland,Etelä-Häme,Tammela,,FI,L6 district
+Finland,Etelä-Häme,Tampere,,FI,L6 district
+Finland,Etelä-Häme,Toijala,,FI,L6 district
+Finland,Etelä-Häme,Tuulos,,FI,L6 district
+Finland,Etelä-Häme,Urjala,,FI,L6 district
+Finland,Etelä-Häme,Valkeakoski,,FI,L6 district
+Finland,Etelä-Häme,Vesilahti,,FI,L6 district
+Finland,Etelä-Häme,Viiala,,FI,L6 district
+Finland,Etelä-Häme,Vilppula,,FI,L6 district
+Finland,Etelä-Häme,Ylöjärvi,,FI,L6 district
+Finland,Etelä-Häme,Ypäjä,,FI,L6 district
+Finland,Etelä-Karjala,,EK (Ka),FI,L5 province
+Finland,Etelä-Karjala,Hamina,,FI,L6 district
+Finland,Etelä-Karjala,Kotka,,FI,L6 district
+Finland,Etelä-Karjala,Miehikkälä,,FI,L6 district
+Finland,Etelä-Karjala,Virolahti,,FI,L6 district
+Finland,Etelä-Karjala,Ylämaa,,FI,L6 district
+Finland,Etelä-Pohjanmaa,,EP (Oa),FI,L5 province
+Finland,Etelä-Pohjanmaa,Alavus,,FI,L6 district
+Finland,Etelä-Pohjanmaa,Ilmajoki,,FI,L6 district
+Finland,Etelä-Pohjanmaa,Isojoki,,FI,L6 district
+Finland,Etelä-Pohjanmaa,Isokyrö,,FI,L6 district
+Finland,Etelä-Pohjanmaa,Jalasjärvi,,FI,L6 district
+Finland,Etelä-Pohjanmaa,Jurva,,FI,L6 district
+Finland,Etelä-Pohjanmaa,Karijoki,,FI,L6 district
+Finland,Etelä-Pohjanmaa,Kaskinen,,FI,L6 district
+Finland,Etelä-Pohjanmaa,Kauhajoki,,FI,L6 district
+Finland,Etelä-Pohjanmaa,Korsnäs,,FI,L6 district
+Finland,Etelä-Pohjanmaa,Kristiinankaupunki,,FI,L6 district
+Finland,Etelä-Pohjanmaa,Kuortane,,FI,L6 district
+Finland,Etelä-Pohjanmaa,Kurikka,,FI,L6 district
+Finland,Etelä-Pohjanmaa,Laihia,,FI,L6 district
+Finland,Etelä-Pohjanmaa,Lapua,,FI,L6 district
+Finland,Etelä-Pohjanmaa,Maalahti,,FI,L6 district
+Finland,Etelä-Pohjanmaa,Maksamaa,,FI,L6 district
+Finland,Etelä-Pohjanmaa,Mustasaari,,FI,L6 district
+Finland,Etelä-Pohjanmaa,Nurmo,,FI,L6 district
+Finland,Etelä-Pohjanmaa,Närpiö,,FI,L6 district
+Finland,Etelä-Pohjanmaa,Oravainen,,FI,L6 district
+Finland,Etelä-Pohjanmaa,Peräseinäjoki,,FI,L6 district
+Finland,Etelä-Pohjanmaa,Seinäjoki,,FI,L6 district
+Finland,Etelä-Pohjanmaa,Teuva,,FI,L6 district
+Finland,Etelä-Pohjanmaa,Töysä,,FI,L6 district
+Finland,Etelä-Pohjanmaa,Vaasa,,FI,L6 district
+Finland,Etelä-Pohjanmaa,Vähäkyrö,,FI,L6 district
+Finland,Etelä-Pohjanmaa,Vöyri,,FI,L6 district
+Finland,Etelä-Pohjanmaa,Ylihärmä,,FI,L6 district
+Finland,Etelä-Pohjanmaa,Ylistaro,,FI,L6 district
+Finland,Etelä-Savo,,ES (Sa),FI,L5 province
+Finland,Etelä-Savo,Enonkoski,,FI,L6 district
+Finland,Etelä-Savo,Hirvensalmi,,FI,L6 district
+Finland,Etelä-Savo,Imatra,,FI,L6 district
+Finland,Etelä-Savo,Joutsa,,FI,L6 district
+Finland,Etelä-Savo,Joutseno,,FI,L6 district
+Finland,Etelä-Savo,Juva,,FI,L6 district
+Finland,Etelä-Savo,Kangasniemi,,FI,L6 district
+Finland,Etelä-Savo,Kerimäki,,FI,L6 district
+Finland,Etelä-Savo,Kouvola,,FI,L6 district
+Finland,Etelä-Savo,Lappeenranta,,FI,L6 district
+Finland,Etelä-Savo,Leivonmäki,,FI,L6 district
+Finland,Etelä-Savo,Lemi,,FI,L6 district
+Finland,Etelä-Savo,Luumäki,,FI,L6 district
+Finland,Etelä-Savo,Mikkeli,,FI,L6 district
+Finland,Etelä-Savo,Mäntyharju,,FI,L6 district
+Finland,Etelä-Savo,Pertunmaa,,FI,L6 district
+Finland,Etelä-Savo,Punkaharju,,FI,L6 district
+Finland,Etelä-Savo,Puumala,,FI,L6 district
+Finland,Etelä-Savo,Rantasalmi,,FI,L6 district
+Finland,Etelä-Savo,Rautjärvi,,FI,L6 district
+Finland,Etelä-Savo,Ristiina,,FI,L6 district
+Finland,Etelä-Savo,Ruokolahti,,FI,L6 district
+Finland,Etelä-Savo,Savitaipale,,FI,L6 district
+Finland,Etelä-Savo,Savonlinna,,FI,L6 district
+Finland,Etelä-Savo,Sulkava,,FI,L6 district
+Finland,Etelä-Savo,Suomenniemi,,FI,L6 district
+Finland,Etelä-Savo,Taipalsaari,,FI,L6 district
+Finland,Etelä-Savo,Valkeala,,FI,L6 district
+Finland,Inarin Lappi,,InL (LI),FI,L5 province
+Finland,Inarin Lappi,Inari,,FI,L6 district
+Finland,Inarin Lappi,Utsjoki,,FI,L6 district
+Finland,Kainuu,,Kn (Ok),FI,L5 province
+Finland,Kainuu,Hyrynsalmi,,FI,L6 district
+Finland,Kainuu,Kajaani,,FI,L6 district
+Finland,Kainuu,Kuhmo,,FI,L6 district
+Finland,Kainuu,Paltamo,,FI,L6 district
+Finland,Kainuu,Puolanka,,FI,L6 district
+Finland,Kainuu,Ristijärvi,,FI,L6 district
+Finland,Kainuu,Sotkamo,,FI,L6 district
+Finland,Kainuu,Suomussalmi,,FI,L6 district
+Finland,Kainuu,Vaala,,FI,L6 district
+Finland,Kainuu,Vuolijoki,,FI,L6 district
+Finland,Keski-Pohjanmaa,,KP (Om),FI,L5 province
+Finland,Keski-Pohjanmaa,Alahärmä,,FI,L6 district
+Finland,Keski-Pohjanmaa,Alajärvi,,FI,L6 district
+Finland,Keski-Pohjanmaa,Alavieska,,FI,L6 district
+Finland,Keski-Pohjanmaa,Evijärvi,,FI,L6 district
+Finland,Keski-Pohjanmaa,Haapajärvi,,FI,L6 district
+Finland,Keski-Pohjanmaa,Haapavesi,,FI,L6 district
+Finland,Keski-Pohjanmaa,Halsua,,FI,L6 district
+Finland,Keski-Pohjanmaa,Himanka,,FI,L6 district
+Finland,Keski-Pohjanmaa,Kalajoki,,FI,L6 district
+Finland,Keski-Pohjanmaa,Kannus,,FI,L6 district
+Finland,Keski-Pohjanmaa,Kauhava,,FI,L6 district
+Finland,Keski-Pohjanmaa,Kaustinen,,FI,L6 district
+Finland,Keski-Pohjanmaa,Kestilä,,FI,L6 district
+Finland,Keski-Pohjanmaa,Kokkola,,FI,L6 district
+Finland,Keski-Pohjanmaa,Kortesjärvi,,FI,L6 district
+Finland,Keski-Pohjanmaa,Kruunupyy,,FI,L6 district
+Finland,Keski-Pohjanmaa,Kälviä,,FI,L6 district
+Finland,Keski-Pohjanmaa,Kärsämäki,,FI,L6 district
+Finland,Keski-Pohjanmaa,Lappajärvi,,FI,L6 district
+Finland,Keski-Pohjanmaa,Lehtimäki,,FI,L6 district
+Finland,Keski-Pohjanmaa,Lestijärvi,,FI,L6 district
+Finland,Keski-Pohjanmaa,Lohtaja,,FI,L6 district
+Finland,Keski-Pohjanmaa,Luoto,,FI,L6 district
+Finland,Keski-Pohjanmaa,Merijärvi,,FI,L6 district
+Finland,Keski-Pohjanmaa,Nivala,,FI,L6 district
+Finland,Keski-Pohjanmaa,Oulainen,,FI,L6 district
+Finland,Keski-Pohjanmaa,Pedersöre,,FI,L6 district
+Finland,Keski-Pohjanmaa,Perho,,FI,L6 district
+Finland,Keski-Pohjanmaa,Pietarsaari,,FI,L6 district
+Finland,Keski-Pohjanmaa,Piippola,,FI,L6 district
+Finland,Keski-Pohjanmaa,Pulkkila,,FI,L6 district
+Finland,Keski-Pohjanmaa,Pyhäjoki,,FI,L6 district
+Finland,Keski-Pohjanmaa,Pyhäjärvi,,FI,L6 district
+Finland,Keski-Pohjanmaa,Pyhäntä,,FI,L6 district
+Finland,Keski-Pohjanmaa,Raahe,,FI,L6 district
+Finland,Keski-Pohjanmaa,Rantsila,,FI,L6 district
+Finland,Keski-Pohjanmaa,Reisjärvi,,FI,L6 district
+Finland,Keski-Pohjanmaa,Ruukki,,FI,L6 district
+Finland,Keski-Pohjanmaa,Sievi,,FI,L6 district
+Finland,Keski-Pohjanmaa,Siikajoki,,FI,L6 district
+Finland,Keski-Pohjanmaa,Soini,,FI,L6 district
+Finland,Keski-Pohjanmaa,Toholampi,,FI,L6 district
+Finland,Keski-Pohjanmaa,Ullava,,FI,L6 district
+Finland,Keski-Pohjanmaa,Uusikaarlepyy,,FI,L6 district
+Finland,Keski-Pohjanmaa,Veteli,,FI,L6 district
+Finland,Keski-Pohjanmaa,Vihanti,,FI,L6 district
+Finland,Keski-Pohjanmaa,Vimpeli,,FI,L6 district
+Finland,Keski-Pohjanmaa,Ylivieska,,FI,L6 district
+Finland,Kittilän Lappi,,KiL (Lkk),FI,L5 province
+Finland,Kittilän Lappi,Kittilä,,FI,L6 district
+Finland,Kittilän Lappi,Kolari,,FI,L6 district
+Finland,Kittilän Lappi,Muonio,,FI,L6 district
+Finland,Kittilän Lappi,Äkäslompolo,,FI,L6 district
+Finland,Koillismaa,,Ks (Ks),FI,L5 province
+Finland,Koillismaa,Kuusamo,,FI,L6 district
+Finland,Koillismaa,Posio,,FI,L6 district
+Finland,Koillismaa,Salla,,FI,L6 district
+Finland,Koillismaa,Taivalkoski,,FI,L6 district
+Finland,Laatokan Karjala,,LK (Ll),FI,L5 province
+Finland,Laatokan Karjala,Parikkala,,FI,L6 district
+Finland,Laatokan Karjala,Saari,,FI,L6 district
+Finland,Laatokan Karjala,Uukuniemi,,FI,L6 district
+Finland,Oulun Pohjanmaa,,OP (Obo),FI,L5 province
+Finland,Oulun Pohjanmaa,Hailuoto,,FI,L6 district
+Finland,Oulun Pohjanmaa,Haukipudas,,FI,L6 district
+Finland,Oulun Pohjanmaa,Ii,,FI,L6 district
+Finland,Oulun Pohjanmaa,Kempele,,FI,L6 district
+Finland,Oulun Pohjanmaa,Kiiminki,,FI,L6 district
+Finland,Oulun Pohjanmaa,Kuivaniemi,,FI,L6 district
+Finland,Oulun Pohjanmaa,Liminka,,FI,L6 district
+Finland,Oulun Pohjanmaa,Lumijoki,,FI,L6 district
+Finland,Oulun Pohjanmaa,Muhos,,FI,L6 district
+Finland,Oulun Pohjanmaa,Oulu,,FI,L6 district
+Finland,Oulun Pohjanmaa,Oulunsalo,,FI,L6 district
+Finland,Oulun Pohjanmaa,Pudasjärvi,,FI,L6 district
+Finland,Oulun Pohjanmaa,Tyrnävä,,FI,L6 district
+Finland,Oulun Pohjanmaa,Utajärvi,,FI,L6 district
+Finland,Oulun Pohjanmaa,Yli-Ii,,FI,L6 district
+Finland,Oulun Pohjanmaa,Ylikiiminki,,FI,L6 district
+Finland,Perä-Pohjanmaa,,PeP (Obu),FI,L5 province
+Finland,Perä-Pohjanmaa,Kemi,,FI,L6 district
+Finland,Perä-Pohjanmaa,Kemijärvi,,FI,L6 district
+Finland,Perä-Pohjanmaa,Keminmaa,,FI,L6 district
+Finland,Perä-Pohjanmaa,Pello,,FI,L6 district
+Finland,Perä-Pohjanmaa,Ranua,,FI,L6 district
+Finland,Perä-Pohjanmaa,Rovaniemen mlk,,FI,L6 district
+Finland,Perä-Pohjanmaa,Rovaniemi,,FI,L6 district
+Finland,Perä-Pohjanmaa,Simo,,FI,L6 district
+Finland,Perä-Pohjanmaa,Tervola,,FI,L6 district
+Finland,Perä-Pohjanmaa,Tornio,,FI,L6 district
+Finland,Perä-Pohjanmaa,Ylitornio,,FI,L6 district
+Finland,Pohjois-Häme,,PH (Tb),FI,L5 province
+Finland,Pohjois-Häme,Hankasalmi,,FI,L6 district
+Finland,Pohjois-Häme,Jyväskylä,,FI,L6 district
+Finland,Pohjois-Häme,Jyväskylän mlk,,FI,L6 district
+Finland,Pohjois-Häme,Kannonkoski,,FI,L6 district
+Finland,Pohjois-Häme,Karstula,,FI,L6 district
+Finland,Pohjois-Häme,Keitele,,FI,L6 district
+Finland,Pohjois-Häme,Keuruu,,FI,L6 district
+Finland,Pohjois-Häme,Kinnula,,FI,L6 district
+Finland,Pohjois-Häme,Kivijärvi,,FI,L6 district
+Finland,Pohjois-Häme,Konnevesi,,FI,L6 district
+Finland,Pohjois-Häme,Kyyjärvi,,FI,L6 district
+Finland,Pohjois-Häme,Laukaa,,FI,L6 district
+Finland,Pohjois-Häme,Multia,,FI,L6 district
+Finland,Pohjois-Häme,Petäjävesi,,FI,L6 district
+Finland,Pohjois-Häme,Pihtipudas,,FI,L6 district
+Finland,Pohjois-Häme,Pylkönmäki,,FI,L6 district
+Finland,Pohjois-Häme,Rautalampi,,FI,L6 district
+Finland,Pohjois-Häme,Saarijärvi,,FI,L6 district
+Finland,Pohjois-Häme,Sumiainen,,FI,L6 district
+Finland,Pohjois-Häme,Suolahti,,FI,L6 district
+Finland,Pohjois-Häme,Toivakka,,FI,L6 district
+Finland,Pohjois-Häme,Uurainen,,FI,L6 district
+Finland,Pohjois-Häme,Vesanto,,FI,L6 district
+Finland,Pohjois-Häme,Viitasaari,,FI,L6 district
+Finland,Pohjois-Häme,Virrat,,FI,L6 district
+Finland,Pohjois-Häme,Ähtäri,,FI,L6 district
+Finland,Pohjois-Häme,Äänekoski,,FI,L6 district
+Finland,Pohjois-Karjala,,PK (Kb),FI,L5 province
+Finland,Pohjois-Karjala,Eno,,FI,L6 district
+Finland,Pohjois-Karjala,Ilomantsi,,FI,L6 district
+Finland,Pohjois-Karjala,Joensuu,,FI,L6 district
+Finland,Pohjois-Karjala,Juuka,,FI,L6 district
+Finland,Pohjois-Karjala,Kaavi,,FI,L6 district
+Finland,Pohjois-Karjala,Kesälahti,,FI,L6 district
+Finland,Pohjois-Karjala,Kiihtelysvaara,,FI,L6 district
+Finland,Pohjois-Karjala,Kitee,,FI,L6 district
+Finland,Pohjois-Karjala,Kontiolahti,,FI,L6 district
+Finland,Pohjois-Karjala,Lieksa,,FI,L6 district
+Finland,Pohjois-Karjala,Liperi,,FI,L6 district
+Finland,Pohjois-Karjala,Nurmes,,FI,L6 district
+Finland,Pohjois-Karjala,Outokumpu,,FI,L6 district
+Finland,Pohjois-Karjala,Polvijärvi,,FI,L6 district
+Finland,Pohjois-Karjala,Pyhäselkä,,FI,L6 district
+Finland,Pohjois-Karjala,Rautavaara,,FI,L6 district
+Finland,Pohjois-Karjala,Rääkkylä,,FI,L6 district
+Finland,Pohjois-Karjala,Tohmajärvi,,FI,L6 district
+Finland,Pohjois-Karjala,Tuupovaara,,FI,L6 district
+Finland,Pohjois-Karjala,Valtimo,,FI,L6 district
+Finland,Pohjois-Karjala,Värtsilä,,FI,L6 district
+Finland,Pohjois-Savo,,PS (Sb),FI,L5 province
+Finland,Pohjois-Savo,Haukivuori,,FI,L6 district
+Finland,Pohjois-Savo,Heinävesi,,FI,L6 district
+Finland,Pohjois-Savo,Iisalmi,,FI,L6 district
+Finland,Pohjois-Savo,Joroinen,,FI,L6 district
+Finland,Pohjois-Savo,Juankoski,,FI,L6 district
+Finland,Pohjois-Savo,Kangaslampi,,FI,L6 district
+Finland,Pohjois-Savo,Karttula,,FI,L6 district
+Finland,Pohjois-Savo,Kiuruvesi,,FI,L6 district
+Finland,Pohjois-Savo,Kuopio,,FI,L6 district
+Finland,Pohjois-Savo,Lapinlahti,,FI,L6 district
+Finland,Pohjois-Savo,Leppävirta,,FI,L6 district
+Finland,Pohjois-Savo,Maaninka,,FI,L6 district
+Finland,Pohjois-Savo,Nilsiä,,FI,L6 district
+Finland,Pohjois-Savo,Pieksämäki,,FI,L6 district
+Finland,Pohjois-Savo,Pieksänmaa,,FI,L6 district
+Finland,Pohjois-Savo,Pielavesi,,FI,L6 district
+Finland,Pohjois-Savo,Savonranta,,FI,L6 district
+Finland,Pohjois-Savo,Siilinjärvi,,FI,L6 district
+Finland,Pohjois-Savo,Sonkajärvi,,FI,L6 district
+Finland,Pohjois-Savo,Suonenjoki,,FI,L6 district
+Finland,Pohjois-Savo,Tervo,,FI,L6 district
+Finland,Pohjois-Savo,Tuusniemi,,FI,L6 district
+Finland,Pohjois-Savo,Varkaus,,FI,L6 district
+Finland,Pohjois-Savo,Varpaisjärvi,,FI,L6 district
+Finland,Pohjois-Savo,Vehmersalmi,,FI,L6 district
+Finland,Pohjois-Savo,Vieremä,,FI,L6 district
+Finland,Satakunta,,St,FI,L5 province
+Finland,Satakunta,Alastaro,,FI,L6 district
+Finland,Satakunta,Eura,,FI,L6 district
+Finland,Satakunta,Eurajoki,,FI,L6 district
+Finland,Satakunta,Harjavalta,,FI,L6 district
+Finland,Satakunta,Honkajoki,,FI,L6 district
+Finland,Satakunta,Huittinen,,FI,L6 district
+Finland,Satakunta,Hämeenkyrö,,FI,L6 district
+Finland,Satakunta,Ikaalinen,,FI,L6 district
+Finland,Satakunta,Jämijärvi,,FI,L6 district
+Finland,Satakunta,Kankaanpää,,FI,L6 district
+Finland,Satakunta,Karvia,,FI,L6 district
+Finland,Satakunta,Kihniö,,FI,L6 district
+Finland,Satakunta,Kiikoinen,,FI,L6 district
+Finland,Satakunta,Kiukainen,,FI,L6 district
+Finland,Satakunta,Kokemäki,,FI,L6 district
+Finland,Satakunta,Kullaa,,FI,L6 district
+Finland,Satakunta,Köyliö,,FI,L6 district
+Finland,Satakunta,Lappi,,FI,L6 district
+Finland,Satakunta,Lavia,,FI,L6 district
+Finland,Satakunta,Loimaan kaupunki,,FI,L6 district
+Finland,Satakunta,Loimaan kunta,,FI,L6 district
+Finland,Satakunta,Luvia,,FI,L6 district
+Finland,Satakunta,Mellilä,,FI,L6 district
+Finland,Satakunta,Merikarvia,,FI,L6 district
+Finland,Satakunta,Mouhijärvi,,FI,L6 district
+Finland,Satakunta,Nakkila,,FI,L6 district
+Finland,Satakunta,Noormarkku,,FI,L6 district
+Finland,Satakunta,Oripää,,FI,L6 district
+Finland,Satakunta,Parkano,,FI,L6 district
+Finland,Satakunta,Pomarkku,,FI,L6 district
+Finland,Satakunta,Pori,,FI,L6 district
+Finland,Satakunta,Punkalaidun,,FI,L6 district
+Finland,Satakunta,Rauma,,FI,L6 district
+Finland,Satakunta,Siikainen,,FI,L6 district
+Finland,Satakunta,Suodenniemi,,FI,L6 district
+Finland,Satakunta,Säkylä,,FI,L6 district
+Finland,Satakunta,Ulvila,,FI,L6 district
+Finland,Satakunta,Vammala,,FI,L6 district
+Finland,Satakunta,Vampula,,FI,L6 district
+Finland,Satakunta,Viljakkala,,FI,L6 district
+Finland,Satakunta,Yläne,,FI,L6 district
+Finland,Satakunta,Äetsä,,FI,L6 district
+Finland,Sompion Lappi,,SoL (Lks),FI,L5 province
+Finland,Sompion Lappi,Pelkosenniemi,,FI,L6 district
+Finland,Sompion Lappi,Savukoski,,FI,L6 district
+Finland,Sompion Lappi,Sodankylä,,FI,L6 district
+Finland,Uusimaa,,U (N),FI,L5 province
+Finland,Uusimaa,Anjalankoski,,FI,L6 district
+Finland,Uusimaa,Artjärvi,,FI,L6 district
+Finland,Uusimaa,Askola,,FI,L6 district
+Finland,Uusimaa,Elimäki,,FI,L6 district
+Finland,Uusimaa,Espoo,,FI,L6 district
+Finland,Uusimaa,Hanko,,FI,L6 district
+Finland,Uusimaa,Helsinki,,FI,L6 district
+Finland,Uusimaa,Hyvinkää,,FI,L6 district
+Finland,Uusimaa,Inkoo,,FI,L6 district
+Finland,Uusimaa,Järvenpää,,FI,L6 district
+Finland,Uusimaa,Kauniainen,,FI,L6 district
+Finland,Uusimaa,Kerava,,FI,L6 district
+Finland,Uusimaa,Kirkkonummi,,FI,L6 district
+Finland,Uusimaa,Lapinjärvi,,FI,L6 district
+Finland,Uusimaa,Liljendal,,FI,L6 district
+Finland,Uusimaa,Loviisa,,FI,L6 district
+Finland,Uusimaa,Myrskylä,,FI,L6 district
+Finland,Uusimaa,Mäntsälä,,FI,L6 district
+Finland,Uusimaa,Nurmijärvi,,FI,L6 district
+Finland,Uusimaa,Orimattila,,FI,L6 district
+Finland,Uusimaa,Pernaja,,FI,L6 district
+Finland,Uusimaa,Pornainen,,FI,L6 district
+Finland,Uusimaa,Porvoo,,FI,L6 district
+Finland,Uusimaa,Pukkila,,FI,L6 district
+Finland,Uusimaa,Pyhtää,,FI,L6 district
+Finland,Uusimaa,Ruotsinpyhtää,,FI,L6 district
+Finland,Uusimaa,Sipoo,,FI,L6 district
+Finland,Uusimaa,Siuntio,,FI,L6 district
+Finland,Uusimaa,Tammisaari,,FI,L6 district
+Finland,Uusimaa,Tuusula,,FI,L6 district
+Finland,Uusimaa,Vantaa,,FI,L6 district
+Finland,Varsinais-Suomi,,V (Ab),FI,L5 province
+Finland,Varsinais-Suomi,Askainen,,FI,L6 district
+Finland,Varsinais-Suomi,Aura,,FI,L6 district
+Finland,Varsinais-Suomi,Dragsfjärd,,FI,L6 district
+Finland,Varsinais-Suomi,Halikko,,FI,L6 district
+Finland,Varsinais-Suomi,Houtskari,,FI,L6 district
+Finland,Varsinais-Suomi,Iniö,,FI,L6 district
+Finland,Varsinais-Suomi,Kaarina,,FI,L6 district
+Finland,Varsinais-Suomi,Karinainen,,FI,L6 district
+Finland,Varsinais-Suomi,Karjaa,,FI,L6 district
+Finland,Varsinais-Suomi,Karjalohja,,FI,L6 district
+Finland,Varsinais-Suomi,Karkkila,,FI,L6 district
+Finland,Varsinais-Suomi,Kemiö,,FI,L6 district
+Finland,Varsinais-Suomi,Kiikala,,FI,L6 district
+Finland,Varsinais-Suomi,Kisko,,FI,L6 district
+Finland,Varsinais-Suomi,Kodisjoki,,FI,L6 district
+Finland,Varsinais-Suomi,Korppoo,,FI,L6 district
+Finland,Varsinais-Suomi,Koski Tl,,FI,L6 district
+Finland,Varsinais-Suomi,Kustavi,,FI,L6 district
+Finland,Varsinais-Suomi,Kuusjoki,,FI,L6 district
+Finland,Varsinais-Suomi,Laitila,,FI,L6 district
+Finland,Varsinais-Suomi,Lemu,,FI,L6 district
+Finland,Varsinais-Suomi,Lieto,,FI,L6 district
+Finland,Varsinais-Suomi,Lohja,,FI,L6 district
+Finland,Varsinais-Suomi,Marttila,,FI,L6 district
+Finland,Varsinais-Suomi,Masku,,FI,L6 district
+Finland,Varsinais-Suomi,Merimasku,,FI,L6 district
+Finland,Varsinais-Suomi,Mietoinen,,FI,L6 district
+Finland,Varsinais-Suomi,Muurla,,FI,L6 district
+Finland,Varsinais-Suomi,Mynämäki,,FI,L6 district
+Finland,Varsinais-Suomi,Naantali,,FI,L6 district
+Finland,Varsinais-Suomi,Nauvo,,FI,L6 district
+Finland,Varsinais-Suomi,Nousiainen,,FI,L6 district
+Finland,Varsinais-Suomi,Nummi-Pusula,,FI,L6 district
+Finland,Varsinais-Suomi,Paimio,,FI,L6 district
+Finland,Varsinais-Suomi,Parainen,,FI,L6 district
+Finland,Varsinais-Suomi,Perniö,,FI,L6 district
+Finland,Varsinais-Suomi,Pertteli,,FI,L6 district
+Finland,Varsinais-Suomi,Piikkiö,,FI,L6 district
+Finland,Varsinais-Suomi,Pohja,,FI,L6 district
+Finland,Varsinais-Suomi,Pyhäranta,,FI,L6 district
+Finland,Varsinais-Suomi,Pöytyä,,FI,L6 district
+Finland,Varsinais-Suomi,Raisio,,FI,L6 district
+Finland,Varsinais-Suomi,Rusko,,FI,L6 district
+Finland,Varsinais-Suomi,Rymättylä,,FI,L6 district
+Finland,Varsinais-Suomi,Salo,,FI,L6 district
+Finland,Varsinais-Suomi,Sammatti,,FI,L6 district
+Finland,Varsinais-Suomi,Sauvo,,FI,L6 district
+Finland,Varsinais-Suomi,Suomusjärvi,,FI,L6 district
+Finland,Varsinais-Suomi,Särkisalo,,FI,L6 district
+Finland,Varsinais-Suomi,Taivassalo,,FI,L6 district
+Finland,Varsinais-Suomi,Tarvasjoki,,FI,L6 district
+Finland,Varsinais-Suomi,Turku,,FI,L6 district
+Finland,Varsinais-Suomi,Uusikaupunki,,FI,L6 district
+Finland,Varsinais-Suomi,Vahto,,FI,L6 district
+Finland,Varsinais-Suomi,Vehmaa,,FI,L6 district
+Finland,Varsinais-Suomi,Velkua,,FI,L6 district
+Finland,Varsinais-Suomi,Vihti,,FI,L6 district
+Finland,Varsinais-Suomi,Västanfjärd,,FI,L6 district
+Finland,Åland (Ahvenanmaa),,A (Al),AX,L5 province
+Finland,Åland (Ahvenanmaa),Brändö,,AX,L6 district
+Finland,Åland (Ahvenanmaa),Eckerö,,AX,L6 district
+Finland,Åland (Ahvenanmaa),Finström,,AX,L6 district
+Finland,Åland (Ahvenanmaa),Föglö,,AX,L6 district
+Finland,Åland (Ahvenanmaa),Geta,,AX,L6 district
+Finland,Åland (Ahvenanmaa),Hammarland,,AX,L6 district
+Finland,Åland (Ahvenanmaa),Jomala,,AX,L6 district
+Finland,Åland (Ahvenanmaa),Kumlinge,,AX,L6 district
+Finland,Åland (Ahvenanmaa),Kökar,,AX,L6 district
+Finland,Åland (Ahvenanmaa),Lemland,,AX,L6 district
+Finland,Åland (Ahvenanmaa),Lumparland,,AX,L6 district
+Finland,Åland (Ahvenanmaa),Mariehamn,,AX,L6 district
+Finland,Åland (Ahvenanmaa),Saltvik,,AX,L6 district
+Finland,Åland (Ahvenanmaa),Sottunga,,AX,L6 district
+Finland,Åland (Ahvenanmaa),Sund,,AX,L6 district
+Finland,Åland (Ahvenanmaa),Vårdö,,AX,L6 district

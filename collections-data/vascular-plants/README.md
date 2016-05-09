@@ -73,6 +73,48 @@ TDWG_geo2.csv
 * Category
 
 
+geography_denmark.csv
+--------------------
+Geography for Denmark. Modified from source dataset originally compiled by Håkan Wittzell in Lund, Sweden.
+
+* L4 country
+* L5 province
+* L6 district
+* Abbreviation
+* ISOcode
+* Category
+
+
+geography_finland.csv
+--------------------
+Geography for Finland. Modified from source dataset originally compiled by Håkan Wittzell in Lund, Sweden.
+
+* L4 country
+* L5 province
+* L6 district
+* Abbreviation
+* ISOcode
+* Category
+
+
+geography_sweden.csv
+--------------------
+Geography for Sweden. Modified from source dataset originally compiled by Håkan Wittzell in Lund, Sweden.
+
+* L4 country
+* L5 province
+* L6 district
+* Abbreviation
+* Notes
+* ISOcode
+* Swedish county
+* Swedish municipality
+* Decimal latitude
+* Decimal longitude
+* Notes
+* Category
+
+
 typestatusdesignations.csv
 --------------------------
 

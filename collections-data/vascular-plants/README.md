@@ -37,9 +37,22 @@ specimens.csv
 * InternalRemarks
 
 
-identifications.csv
-------------------
+typestatusidenifications.csv
+----------------------------
+* IdentifiedTypifiedNameVerbatim
+* IdentifiedTypeStatusVerbatim
+* IdentifiedTypeStatusReferencesVerbatim
+* IdentifiedByVerbatim
+* IdentifiedYear
+* IdentifiedMonth
+* IdentifiedDay
+* IdentificationRemarksVerbatim
+* CatalogNumber
+* Remarks
 
+
+determinations
+--------------
 * IdentifiedAsVerbatim
 * IdentifiedByVerbatim
 * IdentifiedYear
@@ -47,12 +60,13 @@ identifications.csv
 * IdentifiedDay
 * IdentifiedDateVerbatim
 * IdentifiedAsInterpretedName
+* IdentificationRemarksVerbatim
 * SequentialNumber
 * IsUncertain
 * IsCurrent
 * IsOriginal
-* IdentificationRemarks
 * CatalogNumber
+* Remarks
 
 
 TDWG_geo2.csv
@@ -130,11 +144,11 @@ Geography for Sweden. Modified from source dataset originally compiled by Håkan
 typestatusdesignations.csv
 --------------------------
 
-* Basionym
+* TypifiedName
 * TypeStatus
 * IsTypeFragment
 * IsCurrent
-* TypeStatusReferenceVerbatim
+* TypeStatusReference
 * TypeStatusRemarks
 * CatalogNumber
 

@@ -11,10 +11,10 @@ specimens.csv
 * CatalogNumber
 * CatalogedDate
 * CatalogedBy
-* AccessionNumber
 * Subcollection
 * PreparationType
 * NormalLocation
+* FiledAs
 * MountedWith
 * CollectorsVerbatim
 * CollectorsNumber
@@ -33,38 +33,27 @@ specimens.csv
 * MaximumElevationOriginalValue
 * ElevationOriginalUnit
 * ElevationVerbatim
+* UnspecifiedTextVerbatim
+* FullGeography
 * PublicRemarks
 * InternalRemarks
 
 
-typestatusidenifications.csv
+idenifications.csv
 ----------------------------
-* IdentifiedTypifiedNameVerbatim
-* IdentifiedTypeStatusVerbatim
-* IdentifiedTypeStatusReferencesVerbatim
-* IdentifiedByVerbatim
-* IdentifiedYear
-* IdentifiedMonth
-* IdentifiedDay
-* IdentificationRemarksVerbatim
-* CatalogNumber
-* Remarks
-
-
-determinations
---------------
 * IdentifiedAsVerbatim
+* TypeStatusReferencesVerbatim
 * IdentifiedByVerbatim
 * IdentifiedYear
 * IdentifiedMonth
 * IdentifiedDay
 * IdentifiedDateVerbatim
-* IdentifiedAsInterpretedName
 * IdentificationRemarksVerbatim
+* InterpretedTaxonName
 * SequentialNumber
 * IsUncertain
-* IsCurrent
-* IsOriginal
+* IsCurrentTaxonName
+* IsOriginalIdentification
 * CatalogNumber
 * Remarks
 
@@ -147,20 +136,15 @@ typestatusdesignations.csv
 * TypifiedName
 * TypeStatus
 * IsTypeFragment
-* IsCurrent
+* IsCurrentTypeStatus
 * TypeStatusReference
 * TypeStatusRemarks
 * CatalogNumber
 
 
-accessions.csv
---------------
-* AccessionNumber
-
-
 Value lists
 -----------
 * preptypes.csv
-* typestatus.csv
+* typestatuscategories.csv
 * establishmentmeans.csv
 

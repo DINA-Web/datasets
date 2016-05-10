@@ -1,5 +1,6 @@
-Basionym,TypeStatus,IsTypeFragment,IsCurrent,TypeStatusReferenceVerbatim,TypeStatusRemarks,CatalogNumber
-Anthospermum ferrugineum Eckl. & Zeyh.,isotype,no,yes,Enum. Pl. Afric. Austral.: 366 (1836),,DUMMY-1
+TypifiedName,TypeStatus,IsTypeFragment,IsCurrentTypeStatus,TypeStatusReference,TypeStatusRemarks,CatalogNumber
+Anthospermum ferrugineum Eckl. & Zeyh.,isotype,no,yes,Enum. Pl. Afric. Austral. 366 (1836),,DUMMY-1
 Anthospermum lanceolatum var. Latifolium Sond.,syntype,no,yes,Fl. Cap. (Harvey) 3: 30 (1865),,DUMMY-1
 Heliotropium coromandelianum var. obovatum DC.,isotype,no,yes,Prodr. 9: 547 (1845),,DUMMY-2
 Heliotropium niloticum A. DC.,syntype,no,yes,Prodr. 9: 547 (1845),,DUMMY-2
+Taraxacum cacuminatum G.E.Haglund,holotype,no,yes,,,DUMMY-3

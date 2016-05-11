@@ -1,0 +1,5 @@
+# LibreOffice temporary files
+.~lock.*
+
+# Apple OSX files
+.DS_Store

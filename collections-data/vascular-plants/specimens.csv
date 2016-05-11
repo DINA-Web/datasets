@@ -1,51 +1,12 @@
-CatalogNumber,CatalogedDate,CatalogedBy,Subcollection,PreparationType,NormalLocation,FiledAs,MountedWith,CollectorsVerbatim,CollectorsNumber,CollectingStartYear,CollectingStartMonth,CollectingStartDay,CollectingEndYear,CollectingEndMonth,CollectingEndDay,CollectingDateVerbatim,LocalityVerbatim,DescriptionInFieldVerbatim,HabitatVerbatim,EstablishmentMeans,MinimumElevationOriginalValue,MaximumElevationOriginalValue,ElevationOriginalUnit,ElevationVerbatim,UnspecifiedTextVerbatim,FullGeography,PublicRemarks,InternalRemarks
-DUMMY-1,,,Type herbarium,dried on sheet,Room 123,Anthospermum ferrugineum Eckl. & Zeyh.;,,Ecklon & Zeyher,2309,,,,,,,[Not on sheet],"Cape, Van Stadensriviersberge, prope Grahamstown, et ad flumen Makasansrivier prope montem Chumiberg","[C]aule subherbarceo ramosissimo hinc inde puberulo, ramis in apice puberulo-scabridis, foliis oppositis oblongo- v. ovato-lanceolatis acutis rigidis glabris subfalcatis patentibus reflexisve, floribus axillaribus verticillatis, fructibus oblongis per lentem albo-puberulis. {/} Planta sesquipedalis. Caulis saepe in speciminibus quibusdam simplex glaberrimus splendens. Rami inferiores patenti-erecti, superiores erecto-subadpressi. Folia unciam longa, 3-5 lin. lata, in axillis minor. Stipulae profunde bifidae.",,,,,,,,Africa|Southern Africa|Cape Provinces|Eastern Cape Provinces,,Data virtually the same as for specimen S-G-518 in S
-DUMMY-2,,,Type herbarium,dried on sheet,Room 123,Heliotropium coromandelianum var. obovatum DC.,,Kotschy,333,1840,3,9,,,,,Kotschyi iter Nubicum. In provincia Sennar ad Nilum tam album quam caeruleum prope Chartum,,,,,,,,,Africa|Northeast Tropical Africa|Sudan|Sudan,,Data virtually the same as for specimen S-G-3134 in S
-DUMMY-3,,,Type herbarium,dried on sheet,Room 234,Taraxacum cacuminatum G.E.Haglund,,Edv. Broddeson,s.n.,1934,5,21,,,,,"Närke. Hackvad, Sköttorp, 300 m norr om landsvägen",,torr äng,native,,,,,,Europe|Northern Europe|Sweden|Närke|Hackvad,,Data virtually the same as for specimen S05-7785 in S
-DUMMY-4,2010-01-28,,Nordic herbarium,dried on sheet,Room 345,Polygala vulgaris L.,,Eric Ericsson,,1916,6,20,,,,20/6 1916,"Närke: Kräcklinge sn., Väsby.",,,native,,,,,Ex. Herb. Edv. Broddeson // Närkes Flora reg. nr. 17012,Europe|Northern Europe|Sweden|Närke|Kräcklinge,,S10-5565
-DUMMY-5,2011-07-21,,Nordic herbarium,dried on sheet,Room 345,Carex spicata Huds.,,Edv. Broddeson,,1933,7,14,,,,,"Närke: Kräcklinge sn, Kräcklinge, omedelbart N om prästgårdens trädgård.",,,native,,,,,,Europe|Northern Europe|Sweden|Närke|Kräcklinge,,Data virtually the same as for specimen S-A1074-762 in S
-DUMMY-6,2015-02-16,,Nordic herbarium,dried on sheet,Room 345,Hieracium oistophyllum Pugsley,,Edv. Broddeson,,1929,7,18,,,,,Närke. Kräklinge: 250 m SO om Skogalund,,fuktig barrskog med al,native,,,,,"Närke. Kräklinge: 250 m SO om Skogalund, fuktig barrskog med al 18/7 1929 leg. Edv. Broddeson",Europe|Northern Europe|Sweden|Närke|Kräcklinge,,Data virtually the same as for specimen S-HS-52924 in S
-DUMMY-7,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DUMMY-8,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DUMMY-9,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DUMMY-10,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DUMMY-11,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DUMMY-12,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DUMMY-13,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DUMMY-14,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DUMMY-15,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DUMMY-16,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DUMMY-17,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DUMMY-18,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DUMMY-19,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DUMMY-20,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DUMMY-21,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DUMMY-22,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DUMMY-23,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DUMMY-24,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DUMMY-25,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DUMMY-26,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DUMMY-27,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DUMMY-28,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DUMMY-29,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DUMMY-30,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DUMMY-31,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DUMMY-32,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DUMMY-33,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DUMMY-34,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DUMMY-35,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DUMMY-36,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DUMMY-37,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DUMMY-38,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DUMMY-39,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DUMMY-40,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DUMMY-41,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DUMMY-42,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DUMMY-43,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DUMMY-44,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DUMMY-45,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DUMMY-46,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DUMMY-47,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DUMMY-48,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DUMMY-49,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DUMMY-50,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CatalogNumber,CatalogedDate,CatalogedBy,Subcollection,PreparationType,NormalLocation,FiledAs,MountedWith,CollectorsVerbatim,CollectorsInformationMissing,CollectorsNumber,CollectorsNumberMissing,CollectingDateVerbatim,CollectingStartYear,CollectingStartMonth,CollectingStartDay,CollectingEndYear,CollectingEndMonth,CollectingEndDay,CollectingDateInformationMissing,LocalityVerbatim,LocalityInformationMissing,DescriptionInFieldVerbatim,HabitatVerbatim,EstablishmentMeans,MinimumElevationOriginalValue,MaximumElevationOriginalValue,ElevationOriginalUnit,ElevationVerbatim,UnspecifiedTextVerbatim,FullGeography,PublicRemarks,InternalRemarks
+DUMMY-1,,,Type herbarium,dried on sheet,Room 123,Anthospermum ferrugineum Eckl. & Zeyh.,,Ecklon & Zeyher,,2309,,,,,,,,,yes,"Cape, Van Stadensriviersberge, prope Grahamstown, et ad flumen Makasansrivier prope montem Chumiberg",,"[C]aule subherbarceo ramosissimo hinc inde puberulo, ramis in apice puberulo-scabridis, foliis oppositis oblongo- v. ovato-lanceolatis acutis rigidis glabris subfalcatis patentibus reflexisve, floribus axillaribus verticillatis, fructibus oblongis per lentem albo-puberulis. {/} Planta sesquipedalis. Caulis saepe in speciminibus quibusdam simplex glaberrimus splendens. Rami inferiores patenti-erecti, superiores erecto-subadpressi. Folia unciam longa, 3-5 lin. lata, in axillis minor. Stipulae profunde bifidae.",,,,,,,,Africa|Southern Africa|Cape Provinces|Eastern Cape Provinces,,Data virtually the same as for specimen S-G-518 in S
+DUMMY-2,,,Type herbarium,dried on sheet,Room 123,Heliotropium coromandelianum var. obovatum DC.,,Kotschy,,333,,,1840,3,9,1840,3,9,,Kotschyi iter Nubicum. In provincia Sennar ad Nilum tam album quam caeruleum prope Chartum,,,,,,,,,,Africa|Northeast Tropical Africa|Sudan|Sudan,,Data virtually the same as for specimen S-G-3134 in S
+DUMMY-3,,,Type herbarium,dried on sheet,Room 234,Taraxacum cacuminatum G. E. Haglund,,Edv. Broddeson,,,yes,,1934,5,21,1934,5,21,,"Närke. Hackvad, Sköttorp, 300 m norr om landsvägen",,,torr äng,native,,,,,,Europe|Northern Europe|Sweden|Närke|Hackvad,,Data virtually the same as for specimen S05-7785 in S
+DUMMY-4,2010-01-28,,Nordic herbarium,dried on sheet,Room 345,Polygala vulgaris L.,,Eric Ericsson,,,,20/6 1916,1916,6,20,1916,6,20,,"Närke: Kräcklinge sn., Väsby.",,,,native,,,,,Ex. Herb. Edv. Broddeson // Närkes Flora reg. nr. 17012,Europe|Northern Europe|Sweden|Närke|Kräcklinge,,S10-5565
+DUMMY-5,2011-07-21,,Nordic herbarium,dried on sheet,Room 345,Carex spicata Huds.,,Edv. Broddeson,,,,,1933,7,14,1933,7,14,,"Närke: Kräcklinge sn, Kräcklinge, omedelbart N om prästgårdens trädgård.",,,,native,,,,,,Europe|Northern Europe|Sweden|Närke|Kräcklinge,,Data virtually the same as for specimen S-A1074-762 in S
+DUMMY-6,2015-02-16,,Nordic herbarium,dried on sheet,Room 345,Hieracium oistophyllum Pugsley,,Edv. Broddeson,,,,,1929,7,18,1929,7,18,,Närke. Kräklinge: 250 m SO om Skogalund,,,fuktig barrskog med al,native,,,,,"Närke. Kräklinge: 250 m SO om Skogalund, fuktig barrskog med al 18/7 1929 leg. Edv. Broddeson",Europe|Northern Europe|Sweden|Närke|Kräcklinge,,Data virtually the same as for specimen S-HS-52924 in S
+DUMMY-7,2009-06-06,,Nordic herbarium,dried on sheet,,Isoëtes lacustris L.,,B. Thyselius,,,,,1884,7,,1884,7,,,Södml: Nyköpings skärgård.,,,,,,,,,Nyköpings Botaniska Bytes-Förening. Södml: Nyköpings skärgård. Juli 84. B. Thyselius. 20 p // Enl andra ark: Kan vara från flera håll i Nyköpingstrakten/HEW,,,Data virtually the same as for specimen S-LK-1259 in S
+DUMMY-8,2009-06-06,,Nordic herbarium,dried on sheet,Room 345,Isoëtes echinospora Durieu,DUMMY-7,B. Thyselius,,,,,1884,7,,1884,7,,,Södml: Nyköpings skärgård.,,,,,,,,,Nyköpings Botaniska Bytes-Förening. Södml: Nyköpings skärgård. Juli 84. B. Thyselius. 20 p // Enl andra ark: Kan vara från flera håll i Nyköpingstrakten/HEW,Europe|Northern Europe|Sweden|Södermanland|Nyköping,,Data virtually the same as for specimen S-LK-1260 in S
+DUMMY-9,,,General herbarium,dried on sheet,Room 456,Ephedra distachya L. subsp. helvetica (C. A. Mey.) Asch. & Graebn.,,Seringe,,,yes,,,,,,,,yes,L. Vallais,,,,,,,,,,,Locality unknown.,Data virtually the same as for specimen S-C-332 in S
+DUMMY-10,2011-12-05,,Pollen collection,microscopic slide: pollen,Room 567,Rhipsalis capilliformis F. A. C. Weber,,Dusén,,11421,,,1911,3,25,1911,3,25,,Brazil: Pananá,,,,,,,,,,Southern America|Brazil|Brazil South|Paraná,,"Dåligt prep. Röd- och blåmarkerad ""frimärksetikett"" Illustration i tusch i mapp.; Data virtually the same as for specimen S-PLE-E5191 in S"
+DUMMY-11,,,Pollen collection,microscopic slide: pollen,Room 567,Fridericia parviflora (Mart. ex DC.) L. G. Lohmann,,Glaziou,,14116,,,1882,,,1882,,,yes,Brazil,,,,,,,,,,Southern America|Brazil,Collecting date from voucher in herb. K.,Data virtually the same as for specimen S-PL-3432 in S

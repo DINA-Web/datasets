@@ -1,27 +1,39 @@
-IdentifiedAsVerbatim,TypeStatusReferencesVerbatim,IdentifiedByVerbatim,IdentifiedYear,IdentifiedMonth,IdentifiedDay,IdentifiedDateVerbatim,IdentificationRemarksVerbatim,InterpretedTaxonName,SequentialNumber,IsUncertain,IsCurrentTaxonName,IsOriginalIdentification,CatalogNumber,Remarks
-Anthospermum ferrugineum,,[not on sheet],,,,,,Anthospermum ferrugineum Eckl. & Zeyh.,1,,no,,DUMMY-1,Printed label with protologue
-iso-TYPE of Anthospermum ferrugineum E. & Z.,,C. PUFF,1983,4,30,,,Anthospermum ferrugineum Eckl. & Zeyh.,2,,no,,DUMMY-1,
-SYNTYPE of A. lanceolatum Thunb. var latifolium SOND.,,C. PUFF,1983,4,30,,,Anthospermum lanceolatum var. latifolium Sond.,3,,no,,DUMMY-1,
-Anthospermum herbaceum L.f.,,C. PUFF,1983,4,19,,,Anthospermum herbaceum L.f.,4,,yes,,DUMMY-1,
-ISOTYPUS,,[not on sheet],,,,,,,5,,no,,DUMMY-1,Red label
-Heliotropium ovalifolium Forsk.,,[not on sheet],,,,,,Heliotropium ovalifolium Forssk.,1,,no,,DUMMY-2,
-Heliotropium coromendalianum Retz. var. ovalifolum Forsk.,,[not on sheet],,,,,,Heliotropium coromendalianum var. ovalifolium Forssk.,2,,no,,DUMMY-2,
-ISOTYPUS // Heliotropium coromandelianum var. obovatum DC.,Prodr. 9: 541. 1845,H. Förther,1994,11,,,,Heliotropium coromandelianum var. obovatum DC.,3,,no,,DUMMY-2,Attached red label with type status
-SYNTYPUS // Heliotropium niloticum A. DC.,Prodr. 9: 541. 1845,H. Förther,1994,11,,,,Heliotropium niloticum A. DC.,4,,no,,DUMMY-2,Attached red label with type status
-Heliotropium ovalifolium Forssk.,,H. Förther,1994,11,,,,Heliotropium ovalifolium Forssk.,5,,yes,,DUMMY-2,
-Taraxacum cacuminatum m. n. sp.,,,,,,,,Taraxacum cacuminatum G. E. Haglund,1,,yes,yes,DUMMY-3,
-HOLOTYPUS,,,,,,,,,2,,no,no,DUMMY-3,Red label
-TYPUS!,,,,,,,,,3,,no,no,DUMMY-3,Red label
-Polygala vulgaris L.,,,,,,,,Polygala vulgaris L.,1,,no,yes,DUMMY-4,
-Polygala vulgaris L.,,L. Löfgren,1993,,,,,Polygala vulgaris L.,2,,yes,no,DUMMY-4,
-Carex contigua,,,,,,,,Carex contigua Hoppe,1,,no,yes,DUMMY-5,
-Carex spicata Huds.,,,,,,,,Carex spicata Huds.,2,,yes,no,DUMMY-5,
-Hieracium sagittatum Lindeb.,,,,,,,,Hieracium sagittatum (Lindeb.) Dahlst.,1,,yes,yes,DUMMY-6,
-Isoëtes lacustris,,,,,,,,Isoëtes lacustris L.,1,,no,yes,DUMMY-7,
-I. lacustris,,Hans-Erik Wanntorp,1997,,,,för Sörmlandsfloran,Isoëtes lacustris L.,2,,yes,no,DUMMY-7,
-Isoëtes lacustris,,,,,,,,Isoëtes lacustris L.,1,,no,yes,DUMMY-8,
-Isöetes echinospora,,Hans-Erik Wanntorp,1997,,,,för Sörmlandsfloran,Isoëtes echinospora Durieu,2,,yes,no,DUMMY-8,
-Ephedra distachya L.,,,,,,,,Ephedra distachya L.,1,,no,yes,DUMMY-9,
-Ephedra helvetica C. A. Mey.,,R. Florin,1927,,,,,Ephedra helvetica C. A. Mey.,2,,yes,no,DUMMY-9,
-Rhipsalis capilliformis,,,,,,,,Rhipsalis capilliformis F. A. C. Weber,1,,yes,yes,DUMMY-10,
-Arrabidaea parviflora var. glaziovii Bureau & K. Schum.,,,,,,,,Arrabidaea parviflora var. glaziovii Bureau & K. Schum.,1,,yes,yes,DUMMY-11,
+,CatalogNumber,IdentifiedAsVerbatim,TypeStatusReferencesVerbatim,IdentifiedByVerbatim,IdentifiedYear,IdentifiedMonth,IdentifiedDay,IdentifiedDateVerbatim,IdentificationRemarksVerbatim,InterpretedTaxonName,SequentialNumber,IsUncertain,IsCurrentTaxonName,IsOriginalIdentification,Remarks
+,DUMMY-1,Anthospermum ferrugineum,,[not on sheet],,,,,,Anthospermum ferrugineum Eckl. & Zeyh.,1,,no,,Printed label with protologue
+,DUMMY-1,iso-TYPE of Anthospermum ferrugineum E. & Z.,,C. PUFF,1983,4,30,,,Anthospermum ferrugineum Eckl. & Zeyh.,2,,no,,
+,DUMMY-1,SYNTYPE of A. lanceolatum Thunb. var latifolium SOND.,,C. PUFF,1983,4,30,,,Anthospermum lanceolatum var. latifolium Sond.,3,,no,,
+,DUMMY-1,Anthospermum herbaceum L.f.,,C. PUFF,1983,4,19,,,Anthospermum herbaceum L.f.,4,,yes,,
+,DUMMY-1,ISOTYPUS,,[not on sheet],,,,,,,5,,no,,Red label
+,DUMMY-2,Heliotropium ovalifolium Forsk.,,[not on sheet],,,,,,Heliotropium ovalifolium Forssk.,1,,no,,
+,DUMMY-2,Heliotropium coromendalianum Retz. var. ovalifolum Forsk.,,[not on sheet],,,,,,Heliotropium coromendalianum var. ovalifolium Forssk.,2,,no,,
+,DUMMY-2,ISOTYPUS // Heliotropium coromandelianum var. obovatum DC.,Prodr. 9: 541. 1845,H. Förther,1994,11,,,,Heliotropium coromandelianum var. obovatum DC.,3,,no,,Attached red label with type status
+,DUMMY-2,SYNTYPUS // Heliotropium niloticum A. DC.,Prodr. 9: 541. 1845,H. Förther,1994,11,,,,Heliotropium niloticum A. DC.,4,,no,,Attached red label with type status
+,DUMMY-2,Heliotropium ovalifolium Forssk.,,H. Förther,1994,11,,,,Heliotropium ovalifolium Forssk.,5,,yes,,
+,DUMMY-3,Taraxacum cacuminatum m. n. sp.,,,,,,,,Taraxacum cacuminatum G. E. Haglund,1,,yes,yes,
+,DUMMY-3,HOLOTYPUS,,,,,,,,,2,,no,no,Red label
+,DUMMY-3,TYPUS!,,,,,,,,,3,,no,no,Red label
+,DUMMY-4,Polygala vulgaris L.,,,,,,,,Polygala vulgaris L.,1,,no,yes,
+,DUMMY-4,Polygala vulgaris L.,,L. Löfgren,1993,,,,,Polygala vulgaris L.,2,,yes,no,
+,DUMMY-5,Carex contigua,,,,,,,,Carex contigua Hoppe,1,,no,yes,
+,DUMMY-5,Carex spicata Huds.,,,,,,,,Carex spicata Huds.,2,,yes,no,
+,DUMMY-6,Hieracium sagittatum Lindeb.,,,,,,,,Hieracium sagittatum (Lindeb.) Dahlst.,1,,yes,yes,
+,DUMMY-7,Isoëtes lacustris,,,,,,,,Isoëtes lacustris L.,1,,no,yes,
+,DUMMY-7,I. lacustris,,Hans-Erik Wanntorp,1997,,,,för Sörmlandsfloran,Isoëtes lacustris L.,2,,yes,no,
+,DUMMY-8,Isoëtes lacustris,,,,,,,,Isoëtes lacustris L.,1,,no,yes,
+,DUMMY-8,Isöetes echinospora,,Hans-Erik Wanntorp,1997,,,,för Sörmlandsfloran,Isoëtes echinospora Durieu,2,,yes,no,
+,DUMMY-9,Ephedra distachya L.,,,,,,,,Ephedra distachya L.,1,,no,yes,
+,DUMMY-9,Ephedra helvetica C. A. Mey.,,R. Florin,1927,,,,,Ephedra helvetica C. A. Mey.,2,,yes,no,
+,DUMMY-10,Rhipsalis capilliformis,,,,,,,,Rhipsalis capilliformis F. A. C. Weber,1,,yes,yes,
+,DUMMY-11,Arrabidaea parviflora var. glaziovii Bureau & K. Schum.,,,,,,,,Arrabidaea parviflora var. glaziovii Bureau & K. Schum.,1,,yes,yes,
+S-R-7697,DUMMY-12,Eugenia n. sp.,,"Ekman, E. L. [scripsit]",,,,,,Eugenia,1,,no,yes,
+S-R-7697,DUMMY-12,Eugenia lindahlii Urb. et Ekm. (typus),,,,,,,,Eugenia lindahlii Urb. & Ekman,2,,yes,no,
+S03-1435,DUMMY-13,Helipterum humboldtianum (Gaudich.) DC.,,,,,,,,Helipterum humboldtianum (Gaudich.) DC.,1,,yes,yes,
+S-GH-1408,DUMMY-15,Lemna,,,,,,,,Lemna,1,,yes,no,
+S05-8419,DUMMY-16,Salsola,,,,,,,,Salsola,0,,,,
+S06-4203,DUMMY-17,Sarcanthus asperrimus Ands.,,,,,,,,Sarcanthus asperrimus Ands.,1,,no,yes,
+S06-4203,DUMMY-17,Heliotropium anderssonii Robinson,,I.M. Johnston,1929,,,,,Heliotropium anderssonii Robinson,2,,no,,
+S06-4203,DUMMY-17,H. asperrimum  Anderss. (1861) not R. Br. (1810),,I.M. Johnston,1929,,,,,H. asperrimum  Anderss. (1861) not R. Br. (1810),3,,no,,
+S06-4203,DUMMY-17,Sarcanthus asperrimus Andersson ,,H. Förther,1994,,,,,Sarcanthus asperrimus Andersson ,4,,no,,
+S06-4203,DUMMY-17, [≡ Heliotropium asperrimum Andersson],,H. Förther,1994,,,,, [≡ Heliotropium asperrimum Andersson],5,,no,,
+S06-4203,DUMMY-17, ≡ Heliotropium anderssonii B. L. Rob.,,H. Förther,1994,,,,, ≡ Heliotropium anderssonii B. L. Rob.,6,,yes,,
+S-ACBD-5168,DUMMY-19,Holcus lanatus,,,,,,,,Holcus lanatus L.,1,,yes,yes,

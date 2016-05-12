@@ -17,9 +17,9 @@ specimens.csv
 * FiledAs
 * MountedWith
 * CollectorsVerbatim
-* CollectorsInformationMissing
+* CollectorsInformationIsMissing
 * CollectorsNumber
-* CollectorsNumberMissing
+* CollectorsNumberIsMissing
 * CollectingDateVerbatim
 * CollectingStartYear
 * CollectingStartMonth
@@ -27,9 +27,9 @@ specimens.csv
 * CollectingEndYear
 * CollectingEndMonth
 * CollectingEndDay
-* CollectingDateInformationMissing
+* CollectingDateInformationIsMissing
 * LocalityVerbatim
-* LocalityInformationMissing
+* LocalityInformationIsMissing
 * DescriptionInFieldVerbatim
 * HabitatVerbatim
 * EstablishmentMeans
@@ -45,6 +45,7 @@ specimens.csv
 
 idenifications.csv
 ----------------------------
+* CatalogNumber
 * IdentifiedAsVerbatim
 * TypeStatusReferencesVerbatim
 * IdentifiedByVerbatim
@@ -58,7 +59,6 @@ idenifications.csv
 * IsUncertain
 * IsCurrentTaxonName
 * IsOriginalIdentification
-* CatalogNumber
 * Remarks
 
 
@@ -137,13 +137,13 @@ Geography for Sweden. Modified from source dataset originally compiled by Håkan
 typestatusdesignations.csv
 --------------------------
 
+* CatalogNumber
 * TypifiedName
 * TypeStatus
 * IsTypeFragment
 * IsCurrentTypeStatus
 * TypeStatusReference
 * TypeStatusRemarks
-* CatalogNumber
 
 
 Value lists

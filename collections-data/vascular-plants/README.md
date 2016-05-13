@@ -56,8 +56,8 @@ idenifications.csv
 * IdentificationRemarksVerbatim
 * InterpretedTaxonName
 * SequentialNumber
-* IsUncertain
-* IsCurrentTaxonName
+* ExpressedUncertainty
+* IsCurrent
 * IsOriginalIdentification
 * Remarks
 
@@ -143,6 +143,7 @@ typestatusdesignations.csv
 * IsTypeFragment
 * IsCurrentTypeStatus
 * TypeStatusReference
+* SequentialNumber
 * TypeStatusRemarks
 
 

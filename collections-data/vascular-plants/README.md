@@ -47,6 +47,7 @@ idenifications.csv
 ----------------------------
 * CatalogNumber
 * IdentifiedAsVerbatim
+* TypeStatusVerbatim
 * TypeStatusReferencesVerbatim
 * IdentifiedByVerbatim
 * IdentifiedYear

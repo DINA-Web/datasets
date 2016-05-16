@@ -43,7 +43,7 @@ specimens.csv
 * InternalRemarks
 
 
-idenifications.csv
+identifications.csv
 ----------------------------
 * CatalogNumber
 * IdentifiedAsVerbatim

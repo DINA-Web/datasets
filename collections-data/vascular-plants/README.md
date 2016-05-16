@@ -63,6 +63,19 @@ identifications.csv
 * Remarks
 
 
+taxonnames.csv
+--------------
+* Division
+* Order
+* Family
+* Genus
+* SpeciesEpithet
+* InfraspecificEpithet
+* Author
+* FullNameWithAuthor
+* Category
+
+
 TDWG_geo2.csv
 -------------
 

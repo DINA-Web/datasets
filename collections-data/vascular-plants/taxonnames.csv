@@ -1,0 +1,181 @@
+Division,Order,Family,Genus,SpeciesEpithet,InfraspecificEpithet,Author,FullNameWithAuthor,Category
+Gnetophyta,,,,,,,Gnetophyta,Division
+Gnetophyta,Gnetales,,,,,,Gnetales,Order
+Gnetophyta,Gnetales,Ephedraceae,,,,,Ephedraceae,Family
+Gnetophyta,Gnetales,Ephedraceae,Ephedra,,,,Ephedra,Genus
+Gnetophyta,Gnetales,Ephedraceae,Ephedra,distachya,,L.,Ephedra distachya L.,SpecificEpithet
+Gnetophyta,Gnetales,Ephedraceae,Ephedra,distachya,subsp. helvetica,(C. A. Mey.) Asch. & Graebn.,Ephedra distachya subsp. helvetica (C. A. Mey.) Asch. & Graebn.,InfraspecificEpithet
+Lycophyta,,,,,,,Lycophyta,Division
+Lycophyta,Isoëtales,,,,,,Isoëtales,Order
+Lycophyta,Isoëtales,Isoëtaceae,,,,,Isoëtaceae,Family
+Lycophyta,Isoëtales,Isoëtaceae,Isoëtes,,,,Isoëtes,Genus
+Lycophyta,Isoëtales,Isoëtaceae,Isoëtes,echinospora,,Durieu,Isoëtes echinospora Durieu,SpecificEpithet
+Lycophyta,Isoëtales,Isoëtaceae,Isoëtes,lacustris,,L.,Isoëtes lacustris L.,SpecificEpithet
+Lycophyta,Lycopodiales,,,,,,Lycopodiales,Order
+Lycophyta,Lycopodiales,Lycopodiaceae,,,,,Lycopodiaceae,Family
+Lycophyta,Lycopodiales,Lycopodiaceae,Huperzia,,,,Huperzia,Genus
+Lycophyta,Lycopodiales,Lycopodiaceae,Huperzia,selago,,(L.) Bernh. ex Schrank & Mart.,Huperzia selago (L.) Bernh. ex Schrank & Mart.,SpecificEpithet
+Lycophyta,Lycopodiales,Lycopodiaceae,Huperzia,selago,subsp. arctica,(Grossh.) Á. Löve & D. Löve,Huperzia selago subsp. arctica (Grossh.) Á. Löve & D. Löve,InfraspecificEpithet
+Lycophyta,Lycopodiales,Lycopodiaceae,Huperzia,selago,subsp. selago,(L.) Bernh. ex Schrank & Mart.,Huperzia selago (L.) Bernh. ex Schrank & Mart. subsp. selago.,InfraspecificEpithet
+Magnoliophyta,,,,,,,Magnoliophyta,Division
+Magnoliophyta,Alismatales,,,,,,Alismatales,Order
+Magnoliophyta,Alismatales,Alismataceae,,,,,Alismataceae,Family
+Magnoliophyta,Alismatales,Alismataceae,Baldellia,,,,Baldellia,Genus
+Magnoliophyta,Alismatales,Alismataceae,Baldellia,ranunculoides,,(L.) Parl.,Baldellia ranunculoides (L.) Parl.,SpecificEpithet
+Magnoliophyta,Alismatales,Lemnaceae,,,,,Lemnaceae,Family
+Magnoliophyta,Alismatales,Lemnaceae,Lemna,,,L.,Lemna L.,Genus
+Magnoliophyta,Apiales,,,,,,Apiales,Order
+Magnoliophyta,Apiales,Apiaceae,,,,,Apiaceae,Family
+Magnoliophyta,Apiales,Apiaceae,Oenanthe,,,,Oenanthe,Genus
+Magnoliophyta,Apiales,Apiaceae,Oenanthe,fistulosa,,L.,Oenanthe fistulosa L.,SpecificEpithet
+Magnoliophyta,Asparagales,,,,,,Asparagales,Order
+Magnoliophyta,Asparagales,Orchidaceae,,,,,Orchidaceae,Family
+Magnoliophyta,Asparagales,Orchidaceae,Eulophia,,,,Eulophia,Genus
+Magnoliophyta,Asparagales,Orchidaceae,Eulophia,penduliflora,,Kraenzl.,Eulophia penduliflora Kraenzl.,SpecificEpithet
+Magnoliophyta,Asterales,,,,,,Asterales,Order
+Magnoliophyta,Asterales,Asteraceae,,,,,Asteraceae,Family
+Magnoliophyta,Asterales,Asteraceae,Baccharis,,,,Baccharis,Genus
+Magnoliophyta,Asterales,Asteraceae,Baccharis,linearifolia,,(Lam.) Pers.,Baccharis linearifolia (Lam.) Pers.,SpecificEpithet
+Magnoliophyta,Asterales,Asteraceae,Gnaphalium,,,,Gnaphalium,Genus
+Magnoliophyta,Asterales,Asteraceae,Gnaphalium,norwegicum,,Gunnerus,Gnaphalium norvegicum Gunnerus,SpecificEpithet
+Magnoliophyta,Asterales,Asteraceae,Helichrysum,,,,Helichrysum,Genus
+Magnoliophyta,Asterales,Asteraceae,Helichrysum,gariepinum,,DC.,Helichrysum gariepinum DC.,SpecificEpithet
+Magnoliophyta,Asterales,Asteraceae,Hieracium,,,,Hieracium,Genus
+Magnoliophyta,Asterales,Asteraceae,Hieracium,albinotum,,Dahlst. ex Johanss.,Hieracium albinotum Dahlst. ex Johanss.,SpecificEpithet
+Magnoliophyta,Asterales,Asteraceae,Hieracium,oistophyllum,,Pugsly.,Hieracium oistophyllum Pugsley,SpecificEpithet
+Magnoliophyta,Asterales,Asteraceae,Hieracium,sinuosifrons,,(Dahlst.) Dahlst.,Hieracium sinuosifrons (Dahlst.) Dahlst.,SpecificEpithet
+Magnoliophyta,Asterales,Asteraceae,Hieracium,subulatidens,,(Dahlst.) Johanss.,Hieracium subulatidens (Dahlst.) Johanss.,SpecificEpithet
+Magnoliophyta,Asterales,Asteraceae,Rhodanthe,,,,Rhodanthe,Genus
+Magnoliophyta,Asterales,Asteraceae,Rhodanthe,humboldtiana,,(Gaudich.) Paul G. Wilson,Rhodanthe humboldtiana (Gaudich.) Paul G. Wilson,SpecificEpithet
+Magnoliophyta,Asterales,Asteraceae,Taraxacum,,,,Taraxacum,Genus
+Magnoliophyta,Asterales,Asteraceae,Taraxacum,cacuminatum,,G. E. Haglund,Taraxacum cacuminatum G. E. Haglund,SpecificEpithet
+Magnoliophyta,Asterales,Asteraceae,Taraxacum,florstroemii,,Markl.,Taraxacum florstroemii Markl.,SpecificEpithet
+Magnoliophyta,Asterales,Asteraceae,Taraxacum,langeanum,,Dahlst.,Taraxacum langeanum Dahlst.,SpecificEpithet
+Magnoliophyta,Asterales,Asteraceae,Taraxacum,megalosipteron,,Rail.,Taraxacum megalosipteron Rail.,SpecificEpithet
+Magnoliophyta,Asterales,Asteraceae,Taraxacum,oxylobium,,Brenner,Taraxacum oxylobium Brenner,SpecificEpithet
+Magnoliophyta,Boraginales,,,,,,Boraginales,Order
+Magnoliophyta,Boraginales,Boraginaceae,,,,,Boraginaceae,Family
+Magnoliophyta,Boraginales,Boraginaceae,Heliotropium,,,,Heliotropium,Genus
+Magnoliophyta,Boraginales,Boraginaceae,Heliotropium,anderssonii,,B. L. Rob.,Heliotropium anderssonii B. L. Rob.,SpecificEpithet
+Magnoliophyta,Boraginales,Boraginaceae,Heliotropium,ovalifolium,,Forssk.,Heliotropium ovalifolium Forssk.,SpecificEpithet
+Magnoliophyta,Brassicales,,,,,,Brassicales,Order
+Magnoliophyta,Brassicales,Brassicaceae,,,,,Brassicaceae,Family
+Magnoliophyta,Brassicales,Brassicaceae,Lepidium,,,,Lepidium,Genus
+Magnoliophyta,Brassicales,Brassicaceae,Lepidium,campestre,,(L.) R. Br.,Lepidium campestre (L.) R. Br.,SpecificEpithet
+Magnoliophyta,Brassicales,Brassicaceae,Sisymbrium,,,,Sisymbrium,Genus
+Magnoliophyta,Brassicales,Brassicaceae,Sisymbrium,officinale,,(L.) Scop.,Sisymbrium officinale (L.) Scop.,SpecificEpithet
+Magnoliophyta,Brassicales,Brassicaceae,Sisymbrium,officinale,var. leiocarpum,DC.,Sisymbrium officinale var. lepidocarpum DC.,InfraspecificEpithet
+Magnoliophyta,Brassicales,Brassicaceae,Sisymbrium,officinale,var. officinale,(L.) Scop.,Sisymbrium officinale  (L.) Scop. var. officinale,InfraspecificEpithet
+Magnoliophyta,Caryophyllales,,,,,,Caryophyllales,Order
+Magnoliophyta,Caryophyllales,Cactaceae,,,,,Cactaceae,Family
+Magnoliophyta,Caryophyllales,Cactaceae,Rhipsalis,,,,Rhipsalis,Genus
+Magnoliophyta,Caryophyllales,Cactaceae,Rhipsalis,capilliformis,,F. A. C. Weber,Rhipsalis capilliformis F. A. C. Weber,SpecificEpithet
+Magnoliophyta,Caryophyllales,Caryophyllaceae,,,,,Caryophyllaceae,Family
+Magnoliophyta,Caryophyllales,Caryophyllaceae,Silene,,,,Silene,Genus
+Magnoliophyta,Caryophyllales,Caryophyllaceae,Silene,gallica,,L.,Silene gallica L.,SpecificEpithet
+Magnoliophyta,Caryophyllales,Chenopodiaceae,,,,,Chenopodiaceae,Family
+Magnoliophyta,Caryophyllales,Chenopodiaceae,Salsola,,,L.,Salsola L. ,Genus
+Magnoliophyta,Caryophyllales,Polygonaceae,,,,,Polygonaceae,Family
+Magnoliophyta,Caryophyllales,Polygonaceae,Bistorta,,,,Bistorta,Genus
+Magnoliophyta,Caryophyllales,Polygonaceae,Bistorta,officinalis,,Delarbre,Bistorta officinalis Delarbre,SpecificEpithet
+Magnoliophyta,Caryophyllales,Polygonaceae,Bistorta,officinalis,,Delarbre,Bistorta officinalis Delarbre,SpecificEpithet
+Magnoliophyta,Ericales,,,,,,Ericales,Order
+Magnoliophyta,Ericales,Ericaceae,,,,,Ericaceae,Family
+Magnoliophyta,Ericales,Ericaceae,Vaccinium,,,,Vaccinium,Genus
+Magnoliophyta,Ericales,Ericaceae,Vaccinium,oxycoccus,,L.,Vaccinium oxycoccos L.,SpecificEpithet
+Magnoliophyta,Ericales,Ericaceae,Vaccinium,reticulatum,,Sm.,Vaccinium reticulatum Sm.,SpecificEpithet
+Magnoliophyta,Fabales,,,,,,Fabales,Order
+Magnoliophyta,Fabales,Polygalaceae,,,,,Polygalaceae,Family
+Magnoliophyta,Fabales,Polygalaceae,Polygala,,,,Polygala,Genus
+Magnoliophyta,Fabales,Polygalaceae,Polygala,amarella,,Crantz,Polygala amarella Crantz,SpecificEpithet
+Magnoliophyta,Fabales,Polygalaceae,Polygala,vulgaris,,L.,Polygala vulgaris L.,SpecificEpithet
+Magnoliophyta,Fabales,Polygalaceae,Polygala,vulgaris,subsp. collina,(Rchb.) Borbás,Polygala vulgaris subsp. collina (Rchb.) Borbás,InfraspecificEpithet
+Magnoliophyta,Fabales,Polygalaceae,Polygala,vulgaris,subsp. vulgaris,L.,Polygala vulgaris L. subsp. vulgaris,InfraspecificEpithet
+Magnoliophyta,Fagales,,,,,,Fagales,Order
+Magnoliophyta,Fagales,Fagaceae,,,,,Fagaceae,Family
+Magnoliophyta,Fagales,Fagaceae,Quercus,,,,Quercus,Genus
+Magnoliophyta,Fagales,Fagaceae,Quercus,gambelii,,Nutt.,Quercus gambelii Nutt.,SpecificEpithet
+Magnoliophyta,Gentianales,,,,,,Gentianales,Order
+Magnoliophyta,Gentianales,Apocynaceae,,,,,Apocynaceae,Family
+Magnoliophyta,Gentianales,Apocynaceae,Philibertia,,,Kunth,Philibertia Kunth,Genus
+Magnoliophyta,Gentianales,Gentianaceae,,,,,Gentianaceae,Family
+Magnoliophyta,Gentianales,Gentianaceae,Gentianella,,,,Gentianella,Genus
+Magnoliophyta,Gentianales,Gentianaceae,Gentianella,campestris,,(L.) Börner,Gentianella campestris (L.) Börner,SpecificEpithet
+Magnoliophyta,Gentianales,Gentianaceae,Gentianella,campestris,var. campestris,(L.) Parl.,Gentianella campestris L. Parl. var. campestris,InfraspecificEpithet
+Magnoliophyta,Gentianales,Gentianaceae,Gentianella,campestris,var. islandica,(Murb.) Harry Sm.,Gentianella campestris var. islandica (Murb.) Harry Sm.,InfraspecificEpithet
+Magnoliophyta,Gentianales,Gentianaceae,Gentianella,campestris,var. suecica,(Froel.) Dostál,Gentianella campestris var. suesica (Froel.) Dostál,InfraspecificEpithet
+Magnoliophyta,Gentianales,Rubiaceae,,,,,Rubiaceae,Family
+Magnoliophyta,Gentianales,Rubiaceae,Anthospermum,,,,Anthospermum,Genus
+Magnoliophyta,Gentianales,Rubiaceae,Anthospermum,herbaceum,,L. f.,Anthospermum herbaceum L. f.,SpecificEpithet
+Magnoliophyta,Gentianales,Rubiaceae,Psychotria,,,,Psychotria,Genus
+Magnoliophyta,Gentianales,Rubiaceae,Psychotria,pubescens,,Sw.,Psychotria pubescens Sw.,SpecificEpithet
+Magnoliophyta,Lamiales,,,,,,Lamiales,Order
+Magnoliophyta,Lamiales,Bignoniaceae,,,,,Bignoniaceae,Family
+Magnoliophyta,Lamiales,Bignoniaceae,Fridericia,,,,Fridericia,Genus
+Magnoliophyta,Lamiales,Bignoniaceae,Fridericia,parciflora,,(Mart. ex DC.) L. G. Lohmann,Fridericia parviflora (Mart. ex DC.) L. G. Lohmann,SpecificEpithet
+Magnoliophyta,Lamiales,Plantaginaceae,,,,,Plantaginaceae,Family
+Magnoliophyta,Lamiales,Plantaginaceae,Callitriche,,,,Callitriche,Genus
+Magnoliophyta,Lamiales,Plantaginaceae,Callitriche,palustris,,L.,Callitriche palustris L.,SpecificEpithet
+Magnoliophyta,Lamiales,Plantaginaceae,Plantago,,,,Plantago,Genus
+Magnoliophyta,Lamiales,Plantaginaceae,Plantago,coronopus,,L.,Plantago coronopus L.,SpecificEpithet
+Magnoliophyta,Lamiales,Plantaginaceae,Plantago,coronopus,subsp. cupanii,(Guss.) Nyman,Plantago coronopus subsp. cupani (Guss.) Nyman,InfraspecificEpithet
+Magnoliophyta,Lamiales,Plantaginaceae,Plantago,coronopus,subsp. weldenii,(Rchb.) Arcang.,Plantago coronopus subsp. weldenii (Rchb.) Arcang.,InfraspecificEpithet
+Magnoliophyta,Malpighiales,,,,,,Malpighiales,Order
+Magnoliophyta,Malpighiales,Euphorbiaceae,,,,,Euphorbiaceae,Family
+Magnoliophyta,Malpighiales,Euphorbiaceae,Argomuellera,,,,Argomuellera,Genus
+Magnoliophyta,Malpighiales,Euphorbiaceae,Argomuellera,macrophylla,,Pax,Argomuellera macrophylla Pax,SpecificEpithet
+Magnoliophyta,Malpighiales,Linaceae,,,,,Linaceae,Family
+Magnoliophyta,Malpighiales,Linaceae,Linum,,,,Linum,Genus
+Magnoliophyta,Malpighiales,Linaceae,Linum,catharticum,,L.,Linum catharticum L.,SpecificEpithet
+Magnoliophyta,Myrtales,,,,,,Myrtales,Order
+Magnoliophyta,Myrtales,Myrtaceae,,,,,Myrtaceae,Family
+Magnoliophyta,Myrtales,Myrtaceae,Eugenia,,,,Eugenia,Genus
+Magnoliophyta,Myrtales,Myrtaceae,Eugenia,lindahlii,,Urb. & Ekman,Eugenia lindahlii Urb. & Ekman,SpecificEpithet
+Magnoliophyta,Poales,,,,,,Poales,Order
+Magnoliophyta,Poales,Cyperaceae,,,,,Cyperaceae,Family
+Magnoliophyta,Poales,Cyperaceae,Carex,,,,Carex,Genus
+Magnoliophyta,Poales,Cyperaceae,Carex,distans,,L.,Carex distans L.,SpecificEpithet
+Magnoliophyta,Poales,Cyperaceae,Carex,spicata,,Huds.,Carex spicata Huds.,SpecificEpithet
+Magnoliophyta,Poales,Cyperaceae,Trichophorum,,,,Trichophorum,Genus
+Magnoliophyta,Poales,Cyperaceae,Trichophorum,alpinum,,(L.) Pers.,Trichophorum alpinum (L.) Pers.,SpecificEpithet
+Magnoliophyta,Poales,Poaceae,,,,,Poaceae,Family
+Magnoliophyta,Poales,Poaceae,Agrostis,,,,Agrostis,Genus
+Magnoliophyta,Poales,Poaceae,Agrostis,exarata,,Trin.,Agrostis exarata Trin.,SpecificEpithet
+Magnoliophyta,Poales,Poaceae,Holcus,,,,Holcus,Genus
+Magnoliophyta,Poales,Poaceae,Holcus,lanatus,,L.,Holcus lanatus L.,SpecificEpithet
+Magnoliophyta,Poales,Poaceae,Lolium,,,,Lolium,Genus
+Magnoliophyta,Poales,Poaceae,Lolium,remotum,,Schrank,Lolium remotum Schrank,SpecificEpithet
+Magnoliophyta,Poales,Poaceae,Poa,,,,Poa,Genus
+Magnoliophyta,Poales,Poaceae,Poa,bulbosa,,L.,Poa bulbosa L.,SpecificEpithet
+Magnoliophyta,Poales,Sparganiaceae,,,,,Sparganiaceae,Family
+Magnoliophyta,Poales,Sparganiaceae,Sparganium,,,,Sparganium,Genus
+Magnoliophyta,Poales,Sparganiaceae,Sparganium,emersum,,Rehmann,Sparganium emersum Rehmann,SpecificEpithet
+Magnoliophyta,Rosales,,,,,,Rosales,Order
+Magnoliophyta,Rosales,Rosaceae,,,,,Rosaceae,Family
+Magnoliophyta,Rosales,Rosaceae,Amelanchier,,,,Amelanchier,Genus
+Magnoliophyta,Rosales,Rosaceae,Amelanchier,confusa,,Hyl.,Amelanchier confusa Hyl.,SpecificEpithet
+Magnoliophyta,Rosales,Rosaceae,Spiraea,,,,Spiraea,Genus
+Magnoliophyta,Rosales,Rosaceae,Spiraea,chamaedryfolia,,L.,Spiraea chamaedryfolia L.,SpecificEpithet
+Magnoliophyta,Sapindales,,,,,,Sapindales,Order
+Magnoliophyta,Sapindales,Simaroubaceae,,,,,Simaroubaceae,Family
+Magnoliophyta,Sapindales,Simaroubaceae,Picramnia,,,,Picramnia,Genus
+Magnoliophyta,Sapindales,Simaroubaceae,Picramnia,dictyoneura,,(Urb.) Urb. & Ekman,Picramnia dictyoneura (Urb.) Urb. & Ekman,SpecificEpithet
+Magnoliophyta,Zingiberales,,,,,,Zingiberales,Order
+Magnoliophyta,Zingiberales,Marantaceae,,,,,Marantaceae,Family
+Magnoliophyta,Zingiberales,Marantaceae,Maranta,,,,Maranta,Genus
+Magnoliophyta,Zingiberales,Marantaceae,Maranta,pulchra,,S. Vieira & V. C. Souza,Maranta pulchra S. Vieira & V. C. Souza,SpecificEpithet
+Monilophyta,,,,,,,Monilophyta,Division
+Monilophyta,Equisetales,,,,,,Equisetales,Order
+Monilophyta,Equisetales,Equisetaceae,,,,,Equisetaceae,Family
+Monilophyta,Equisetales,Equisetaceae,Equisetum,,,,Equisetum,Genus
+Monilophyta,Equisetales,Equisetaceae,Equisetum,hyemale,,L.,Equisetum hyemale L.,SpecificEpithet
+Monilophyta,Equisetales,Equisetaceae,Equisetum,hyemale,subsp. affine,(Engelm.) Calder & Roy L. Taylor,Equisetum hyemale (Engelm.) Calder & Roy L. Taylor,InfraspecificEpithet
+Monilophyta,Equisetales,Equisetaceae,Equisetum,hyemale,subsp. affine x myriochaetum,,Equisetum hyemale subsp. affine x myriochaetum,InfraspecificEpithet
+Monilophyta,Polypodiales,,,,,,Polypodiales,Order
+Monilophyta,Polypodiales,Aspleniaceae,,,,,Aspleniaceae,Family
+Monilophyta,Polypodiales,Aspleniaceae,Asplenium,,,,Asplenium,Genus
+Monilophyta,Polypodiales,Aspleniaceae,Asplenium,ruta-muraria,,L.,Asplenium ruta-muraria L.,SpecificEpithet
+Monilophyta,Polypodiales,Thelypteridaceae,,,,,Thelypteridaceae,Family
+Monilophyta,Polypodiales,Thelypteridaceae,Thelypteris,,,,Thelypteris,Genus
+Monilophyta,Polypodiales,Thelypteridaceae,Thelypteris,palustris,,(A. Gray) Schott,Thelypteris palustris (A. Gray) Schott,SpecificEpithet
+Monilophyta,Polypodiales,Thelypteridaceae,Thelypteris,palustris,subsp. pubescens,(G. Lawson) Fraser-Jenk.,Thelypteris palustris subsp. pubescens (G. Lawson) Fraser-Jenk.,InfraspecificEpithet

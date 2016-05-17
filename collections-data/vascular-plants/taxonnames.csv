@@ -16,7 +16,7 @@ Lycophyta,Lycopodiales,Lycopodiaceae,,,,,Lycopodiaceae,Family
 Lycophyta,Lycopodiales,Lycopodiaceae,Huperzia,,,,Huperzia,Genus
 Lycophyta,Lycopodiales,Lycopodiaceae,Huperzia,selago,,(L.) Bernh. ex Schrank & Mart.,Huperzia selago (L.) Bernh. ex Schrank & Mart.,SpecificEpithet
 Lycophyta,Lycopodiales,Lycopodiaceae,Huperzia,selago,subsp. arctica,(Grossh.) Á. Löve & D. Löve,Huperzia selago subsp. arctica (Grossh.) Á. Löve & D. Löve,InfraspecificEpithet
-Lycophyta,Lycopodiales,Lycopodiaceae,Huperzia,selago,subsp. selago,(L.) Bernh. ex Schrank & Mart.,Huperzia selago (L.) Bernh. ex Schrank & Mart. subsp. selago.,InfraspecificEpithet
+Lycophyta,Lycopodiales,Lycopodiaceae,Huperzia,selago,subsp. selago,(L.) Bernh. ex Schrank & Mart.,Huperzia selago (L.) Bernh. ex Schrank & Mart. subsp. selago,InfraspecificEpithet
 Magnoliophyta,,,,,,,Magnoliophyta,Division
 Magnoliophyta,Alismatales,,,,,,Alismatales,Order
 Magnoliophyta,Alismatales,Alismataceae,,,,,Alismataceae,Family
@@ -101,7 +101,7 @@ Magnoliophyta,Gentianales,Apocynaceae,Philibertia,,,Kunth,Philibertia Kunth,Genu
 Magnoliophyta,Gentianales,Gentianaceae,,,,,Gentianaceae,Family
 Magnoliophyta,Gentianales,Gentianaceae,Gentianella,,,,Gentianella,Genus
 Magnoliophyta,Gentianales,Gentianaceae,Gentianella,campestris,,(L.) Börner,Gentianella campestris (L.) Börner,SpecificEpithet
-Magnoliophyta,Gentianales,Gentianaceae,Gentianella,campestris,var. campestris,(L.) Parl.,Gentianella campestris L. Parl. var. campestris,InfraspecificEpithet
+Magnoliophyta,Gentianales,Gentianaceae,Gentianella,campestris,var. campestris,(L.) Parl.,Gentianella campestris (L.) Parl. var. campestris,InfraspecificEpithet
 Magnoliophyta,Gentianales,Gentianaceae,Gentianella,campestris,var. islandica,(Murb.) Harry Sm.,Gentianella campestris var. islandica (Murb.) Harry Sm.,InfraspecificEpithet
 Magnoliophyta,Gentianales,Gentianaceae,Gentianella,campestris,var. suecica,(Froel.) Dostál,Gentianella campestris var. suesica (Froel.) Dostál,InfraspecificEpithet
 Magnoliophyta,Gentianales,Rubiaceae,,,,,Rubiaceae,Family

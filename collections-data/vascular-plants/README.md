@@ -91,7 +91,7 @@ typestatusdesignations.csv
 
 Value lists
 -----------
-* preptypes.csv
+* preparationtypes.csv
 * typestatuscategories.csv
 * establishmentmeans.csv
 

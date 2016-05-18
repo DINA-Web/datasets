@@ -76,7 +76,7 @@ Geography for Sweden. Modified from source dataset originally compiled by Håkan
 * Category
 
 
-storage.csv
------------
+storagenames.csv
+----------------
 * Building
 * Room

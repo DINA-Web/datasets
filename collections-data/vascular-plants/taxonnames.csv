@@ -1,4 +1,4 @@
-Division,Order,Family,Genus,SpeciesEpithet,InfraspecificEpithet,Author,FullNameWithAuthor,Category
+Division,Order,Family,Genus,SpecificEpithet,InfraspecificEpithet,Author,FullNameWithAuthor,Category
 Gnetophyta,,,,,,,Gnetophyta,Division
 Gnetophyta,Gnetales,,,,,,Gnetales,Order
 Gnetophyta,Gnetales,Ephedraceae,,,,,Ephedraceae,Family

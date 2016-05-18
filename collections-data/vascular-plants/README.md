@@ -69,7 +69,7 @@ taxonnames.csv
 * Order
 * Family
 * Genus
-* SpeciesEpithet
+* SpecificEpithet
 * InfraspecificEpithet
 * Author
 * FullNameWithAuthor

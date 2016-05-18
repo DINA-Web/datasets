@@ -74,3 +74,9 @@ Geography for Sweden. Modified from source dataset originally compiled by Håkan
 * Decimal longitude
 * Notes
 * Category
+
+
+storage.csv
+-----------
+* Building
+* Room

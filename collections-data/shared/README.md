@@ -4,7 +4,7 @@ Shared data
 This directory contains data which we might want to use in more than one collection.
 
 
-TDWG_geo2.csv
+tdwg-geo2.csv
 -------------
 
 *From:* R. K. Brummitt with assistance from F. Pando, S. Hollis, N. A. Brummitt and others. Plant Taxonomic Database Standards No. 2.ed. 2. World Geographical Scheme for Recording Plant Distributions, ed. 2.  2001.
@@ -22,7 +22,7 @@ TDWG_geo2.csv
 * Category
 
 
-geography_denmark.csv
+geography-denmark.csv
 --------------------
 Geography for Denmark. Modified from source dataset originally compiled by Håkan Wittzell in Lund, Sweden.
 
@@ -34,7 +34,7 @@ Geography for Denmark. Modified from source dataset originally compiled by Håka
 * Category
 
 
-geography_finland.csv
+geography-finland.csv
 --------------------
 Geography for Finland. Modified from source dataset originally compiled by Håkan Wittzell in Lund, Sweden.
 
@@ -46,7 +46,7 @@ Geography for Finland. Modified from source dataset originally compiled by Håka
 * Category
 
 
-geography_norway.csv
+geography-norway.csv
 --------------------
 Geography for Norway. Modified from source dataset originally compiled by Håkan Wittzell in Lund, Sweden.
 
@@ -58,7 +58,7 @@ Geography for Norway. Modified from source dataset originally compiled by Håkan
 * Category
 
 
-geography_sweden.csv
+geography-sweden.csv
 --------------------
 Geography for Sweden. Modified from source dataset originally compiled by Håkan Wittzell in Lund, Sweden.
 
@@ -76,7 +76,7 @@ Geography for Sweden. Modified from source dataset originally compiled by Håkan
 * Category
 
 
-storagenames.csv
+storage-names.csv
 ----------------
 * Building
 * Room

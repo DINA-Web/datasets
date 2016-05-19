@@ -63,7 +63,7 @@ identifications.csv
 * Remarks
 
 
-taxonnames.csv
+taxon-names.csv
 --------------
 * Division
 * Order
@@ -76,7 +76,7 @@ taxonnames.csv
 * Category
 
 
-typestatusdesignations.csv
+type-status-designations.csv
 --------------------------
 
 * CatalogNumber
@@ -91,7 +91,7 @@ typestatusdesignations.csv
 
 Value lists
 -----------
-* preparationtypes.csv
-* typestatuscategories.csv
-* establishmentmeans.csv
+* preparation-types.csv
+* type-status-categories.csv
+* establishment-means.csv
 

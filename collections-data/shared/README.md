@@ -80,3 +80,11 @@ storage-names.csv
 ----------------
 * Building
 * Room
+
+
+agent-names.csv
+--------------------
+* FirstName
+* LastName
+* FullName
+

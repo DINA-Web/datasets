@@ -15,16 +15,10 @@ taxonnames.csv
 * FullNameWithAuthor
 * Category
 
-Value lists
------------
-* cause-of-death.csv
-* collecting-death-relation.csv
-* collecting-type.csv
-* disposition.csv
-* lifestage.csv
-* preparation-medium.csv
-* preptype.csv
-* sex.csv
-* typestatuscategory.csv 
+value-lists.csv
+---------------
+* ValueListName
+* Value
+* Remarks
 
 

@@ -5,6 +5,12 @@ This directory contains fake data for a collection of vascular plant specimens.
 
 The following files are included:
 
+
+definitions.csv
+---------------
+Currently used terms and definitions.
+
+
 specimens.csv
 -------------
 

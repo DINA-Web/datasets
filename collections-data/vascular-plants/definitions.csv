@@ -1,2 +1,2 @@
 FileName,TermName,Definition,Comment
-specimens.csv,CatalogNumber,A unique identifier for the record within the collection.
+specimens.csv,CatalogNumber,A unique identifier for the record within the collection.,

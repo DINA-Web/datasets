@@ -23,7 +23,7 @@ identifications.csv
 * ExpressedUncertainty
 * IsCurrent
 * IsOriginalIdentification
-* Remarks
+* InternalRemarks
 
 
 preparations.csv
@@ -49,7 +49,7 @@ specimens.csv
 * Subcollection
 * Collectors
 * CollectorsInformationIsMissing
-* ExpeditionVerbatim
+* Expedition
 * CollectingDateVerbatim
 * CollectingStartYear
 * CollectingStartMonth

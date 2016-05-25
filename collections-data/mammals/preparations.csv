@@ -1,0 +1,108 @@
+CatalogNumber,PreparationNumber,PreparedDate,PreparedBy,PreparationType,PreparationConservation,NormalLocation,FiledAs,InventoryStatus,InventoryDate,InternalRemarks
+DUMMY-1,DUMMY-1a,,,unspecified parts,ethanol 70%,building A|room 1,Grampus griseus G. Cuvier 1812,in collection,,
+DUMMY-2,DUMMY-2a,,,unspecified parts,ethanol 70%,building A|room 1,Phocoena phocoena,in collection,,Foetus
+DUMMY-3,DUMMY-3a,,,skin - complete (study skin),dry,building A|room 2,Canis lupus Linnaeus 1758,in collection,,
+DUMMY-3,DUMMY-3b,,,skeleton - skull,dry,building A|room 3,Canis lupus Linnaeus 1758,in collection,,
+DUMMY-4,DUMMY-4a,,,"skeleton - partial, with skull",dry,building A|room 3,Lynx lynx Linnaeus 1758,in collection,,
+DUMMY-4,DUMMY-4b,,,tissue sample,ethanol 95%,building B|room 1,Lynx lynx Linnaeus 1758,in collection,, 
+DUMMY-5,DUMMY-5a,,,skeleton - skull,dry,building A|room 3,Panthera tigris Linnaeus 1758,in collection,,
+DUMMY-5,DUMMY-5b,,,skin - complete (study skin),dry,building A|room 2,Panthera tigris Linnaeus 1758,in collection,,
+DUMMY-6,DUMMY-6a,,,skeleton - skull,dry,building A|room 3,Mus musculus Linnaeus 1758,in collection,,
+DUMMY-6,DUMMY-6b,1941-05-06,Anders Sparrman,skin - complete (study skin),dry,building A|room 2,Mus musculus Linnaeus 1758,in collection,,
+DUMMY-7,DUMMY-7a,,,skin - unspecified,dry,building A|room 2,Ursus arctos isabellinus Horsfield 1826,unknown,,Skin missing
+DUMMY-7,DUMMY-7b,,,skeleton - complete (disarticulated),dry,building A|room 3,Ursus arctos isabellinus Horsfield 1826,in collection,,
+DUMMY-8,DUMMY-8a,,,"skeleton - partial, with skull",dry,building A|room 3,Callithrix Erxleben 1777,in collection,,
+DUMMY-8,DUMMY-8b,,,tissue sample,ethanol 95%,building B|room 1,Callithrix Erxleben 1777,in collection,, 
+DUMMY-9,DUMMY-9a,,,skeleton - skull,dry,building A|room 3,Epomophorus wahlbergi Sundevall 1846,in collection,,
+DUMMY-9,DUMMY-9b,1986-10-17,Pehr Kalm,skin - unspecified,dry,building A|room 2,Epomophorus wahlbergi Sundevall 1846,unknown,,Skin missing
+DUMMY-10,DUMMY-10a,,,skeleton - complete (disarticulated),dry,building A|room 3,Lynx lynx Linnaeus 1758,in collection,,
+DUMMY-10,DUMMY-10b,,,skin - complete,frozen,building A|room 2,Lynx lynx Linnaeus 1758,in collection,,? Märkt MSN 
+DUMMY-11,DUMMY-11a,,,skin - unspecified,dry,building A|room 2,Meles meles Linnaeus 1758,not found,,"Skin missing, but should be here"
+DUMMY-11,DUMMY-11b,,,skeleton - skull,dry,building A|room 3,Meles meles Linnaeus 1758,in collection,,
+DUMMY-12,DUMMY-12a,,,skeleton - complete (disarticulated),dry,building A|room 3,Odocoileus virginianus Zimmermann 1780,in collection,,
+DUMMY-13,DUMMY-13a,,,skin - unspecified,dry,building A|room 2,Rousettus amplexicaudatus E. Geoffroy 1810,unknown,,Skin missing
+DUMMY-13,DUMMY-13b,,,skeleton - skull,dry,building A|room 3,Rousettus amplexicaudatus E. Geoffroy 1810,in collection,,
+DUMMY-14,DUMMY-14a,,,skeleton - antler/horn,dry,building A|room 3,Alces alces Linnaeus 1758,in collection,,
+DUMMY-15,DUMMY-15a,,,skin - complete (study skin),dry,building A|room 2,Mazama rufina Pucheran 1851,in collection,,
+DUMMY-15,DUMMY-15b,,,skeleton - unspecified,dry,building A|room 3,Mazama rufina Pucheran 1851,not found,,Skeleton not found but should exist according to notes
+DUMMY-16,DUMMY-16a,,,"skeleton - partial, with skull",dry,building A|room 3,Dinomys branickii Peters 1873,in collection,,
+DUMMY-16,DUMMY-16b,1984-10-31,Johan Peter Falck,skin - complete (mounted),dry,building A|room 2,Dinomys branickii Peters 1873,in collection,,
+DUMMY-17,DUMMY-17a,,,skin - complete (study skin),dry,building A|room 2,Sorex araneus Linnaeus 1758,in collection,,
+DUMMY-17,DUMMY-17b,,,"skeleton - partial, with skull",dry,building A|room 3,Sorex araneus Linnaeus 1758,in collection,,
+DUMMY-18,DUMMY-18a,,,skeleton - complete (disarticulated),dry,building A|room 3,Lynx lynx Linnaeus 1758,in collection,,
+DUMMY-19,DUMMY-19a,,,skeleton - skull,dry,building A|room 3,Mustela Linnaeus 1758,in collection,,
+DUMMY-20,DUMMY-20a,,,"skeleton - partial, with skull",dry,building A|room 3,Neovison vison Schreber 1777,in collection,,
+DUMMY-20,DUMMY-20b,,,skin - unspecified,dry,building A|room 2,Neovison vison Schreber 1777,not found,,"Skin missing, but should be here"
+DUMMY-21,DUMMY-21a,,,skin - complete (study skin),dry,building A|room 2,Leopardus wiedii Schinz 1821,in collection,,
+DUMMY-22,DUMMY-22a,,,skeleton - antler/horn,dry,building A|room 3,Rangifer tarandus Linnaeus 1758,in collection,,
+DUMMY-23,DUMMY-23a,,,skeleton - skull,dry,building A|room 3,Ursus arctos Linnaeus 1758,in collection,,
+DUMMY-23,DUMMY-23a,,,skin - unspecified,dry,building A|room 2,Ursus arctos Linnaeus 1758,not found,,"Skin missing, but should be here"
+DUMMY-24,DUMMY-24a,,,skeleton - complete (disarticulated),dry,building A|room 3,Elephas maximus Linnaeus 1758,in collection,,
+DUMMY-25,DUMMY-25a,1992-11-20,Pehr Osbeck,skin - unspecified,dry,building A|room 2,Ovis ammon Linnaeus 1758,unknown,,Skin missing
+DUMMY-25,DUMMY-25b,,,skeleton - skull,dry,building A|room 3,Ovis ammon Linnaeus 1758,in collection,,
+DUMMY-26,DUMMY-26a,1990-03-05,Carl Peter Thunberg,skin - unspecified,dry,building A|room 2,Ovis ammon Linnaeus 1758,unknown,,Skin missing
+DUMMY-26,DUMMY-26b,,,skeleton - skull,dry,building A|room 3,Ovis ammon Linnaeus 1758,in collection,,
+DUMMY-27,DUMMY-27a,,,skin - unspecified,dry,building A|room 2,Mormopterus planiceps Peters 1866,in collection,,Skin missing
+DUMMY-27,DUMMY-27b,,,skeleton - skull,dry,building A|room 3,Mormopterus planiceps Peters 1866,in collection,,
+DUMMY-28,DUMMY-28a,,,skeleton - complete,ethanol 70%,building A|room 1,Myotis adversus Horsfield 1824,in collection,,
+DUMMY-29,DUMMY-29a,1995-02-14,Pehr Osbeck,skin - complete (study skin),dry,building A|room 2,Sicista betulina Pallas 1779,in collection,,
+DUMMY-29,DUMMY-29b,,,"skeleton - partial, with skull",dry,building A|room 3,Sicista betulina Pallas 1779,in collection,,
+DUMMY-29,DUMMY-29c,,,tissue sample,EDTA,building B|room 1,Sicista betulina Pallas 1779,in collection,, 
+DUMMY-29,DUMMY-29d,,,tissue sample,ethanol 95%,building B|room 1,Sicista betulina Pallas 1779,in collection,,Funkade ej vid barcoding 
+DUMMY-30,DUMMY-30a,1994-10-11,Pehr Osbeck,skin - unspecified,dry,building A|room 2,Rattus rattus Linnaeus 1758,not found,,"Skin missing, but should be here"
+DUMMY-30,DUMMY-30b,,,skeleton - skull,dry,building A|room 3,Rattus rattus Linnaeus 1758,in collection,,
+DUMMY-31,DUMMY-31a,1990-04-14,Pehr Löfling,skin - unspecified,dry,building A|room 2,Ursus arctos Linnaeus 1758,unknown,,Skin missing
+DUMMY-31,DUMMY-31b,,,skeleton - complete (disarticulated),dry,building A|room 3,Ursus arctos Linnaeus 1758,in collection,,
+DUMMY-32,DUMMY-32a,,,skeleton - complete (disarticulated),dry,building A|room 3,Ursus arctos Linnaeus 1758,in collection,,
+DUMMY-33,DUMMY-33a,,,skin - complete (study skin),dry,building A|room 2,Ursus arctos Linnaeus 1758,in collection,,
+DUMMY-33,DUMMY-33b,,,skeleton - complete (disarticulated),dry,building A|room 3,Ursus arctos Linnaeus 1758,in collection,,
+DUMMY-34,DUMMY-34a,,,skin - complete (study skin),dry,building A|room 2,Ursus arctos Linnaeus 1758,in collection,,
+DUMMY-34,DUMMY-34b,,,skeleton - complete (disarticulated),dry,building A|room 3,Ursus arctos Linnaeus 1758,in collection,,
+DUMMY-35,DUMMY-35a,,,skeleton - complete (disarticulated),dry,building A|room 3,Ursus arctos Linnaeus 1758,in collection,,
+DUMMY-36,DUMMY-36a,1994-02-02,Pehr Osbeck,skin - complete (study skin),dry,building A|room 2,Canis lupus Linnaeus 1758,in collection,,
+DUMMY-36,DUMMY-36b,,,skeleton - complete (disarticulated),dry,building A|room 3,Canis lupus Linnaeus 1758,in collection,,
+DUMMY-36,DUMMY-36c,,,tissue sample,ethanol 95%,building B|room 1,Canis lupus Linnaeus 1758,in collection,, 2 rör
+DUMMY-37,DUMMY-37a,1987-04-03,Pehr Osbeck,skin - complete (study skin),dry,building A|room 2,Ursus arctos Linnaeus 1758,in collection,,
+DUMMY-37,DUMMY-37b,,,skeleton - complete (disarticulated),dry,building A|room 3,Ursus arctos Linnaeus 1758,,,
+DUMMY-38,DUMMY-38a,,,"skeleton - partial, with skull",dry,building A|room 3,Lynx lynx Linnaeus 1758,,,
+DUMMY-38,DUMMY-38b,,,tissue sample,ethanol 95%,building B|room 1,Lynx lynx Linnaeus 1758,in collection,, 2 tubes
+DUMMY-39,DUMMY-39a,,,"skeleton - partial, with skull",dry,building A|room 3,Capreolus capreolus Linnaeus 1758,,,
+DUMMY-39,DUMMY-39b,,,tissue sample,EDTA,building B|room 1,Capreolus capreolus Linnaeus 1758,in collection,,blod o lever 
+DUMMY-40,DUMMY-40a,,,skin - complete (study skin),dry,building A|room 2,Dasypus kappleri Krauss 1862,in collection,,
+DUMMY-40,DUMMY-40b,,,skeleton - skull,dry,building A|room 3,Dasypus kappleri Krauss 1862,,,
+DUMMY-41,DUMMY-41a,2003-08-22,Carl Peter Thunberg,skin - complete (study skin),dry,building A|room 2,Isothrix bistriata Wagner 1845,in collection,,
+DUMMY-41,DUMMY-41b,,,skeleton - skull,dry,building A|room 3,Isothrix bistriata Wagner 1845,,,
+DUMMY-42,DUMMY-42a,,,"skeleton - partial, with skull",dry,building A|room 3,Lynx lynx Linnaeus 1758,,,
+DUMMY-42,DUMMY-42b,,,tissue sample,ethanol 95%,building B|room 1,Lynx lynx Linnaeus 1758,in collection,, 
+DUMMY-43,DUMMY-43a,,,skeleton - skull,dry,building A|room 3,Martes martes Linnaeus 1758,,,
+DUMMY-44,DUMMY-44a,,,skeleton - skull,dry,building A|room 2,Martes martes Linnaeus 1758,,,
+DUMMY-45,DUMMY-45a,1985-11-29,Peter Forsskål,skin - complete (study skin),dry,building A|room 3,Mus musculus Linnaeus 1758,in collection,,
+DUMMY-45,DUMMY-45b,,,skeleton - skull,dry,building A|room 3,Mus musculus Linnaeus 1758,,,
+DUMMY-46,DUMMY-46a,,,skin - complete (study skin),dry,building A|room 2,Potamochoerus porcus Linnaeus 1758,in collection,,
+DUMMY-46,DUMMY-46b,,,skeleton - bones from several individuals,dry,building A|room 3,Potamochoerus porcus Linnaeus 1758,,,
+DUMMY-47,DUMMY-47a,,,skin - complete (study skin),dry,building A|room 2,Presbytis frontata Müller 1838,in collection,,
+DUMMY-47,DUMMY-47b,,,"skeleton - partial, with skull",dry,building A|room 3,Presbytis frontata Müller 1838,,,
+DUMMY-48,DUMMY-48a,,,skeleton - complete,ethanol 70%,building A|room 1,Thylacinus cynocephalus Harris 1808,,,
+DUMMY-48,DUMMY-48b,,,tissue sample,ethanol 95%,building B|room 1,Thylacinus cynocephalus Harris 1808,in collection,,FRÅN FORMALIN FIXERAD 
+DUMMY-49,DUMMY-49a,,,skeleton - complete,ethanol 70%,building A|room 1,Heliosciurus Trouessart 1880,,,
+DUMMY-50,DUMMY-50a,,,skeleton - complete (disarticulated),dry,building A|room 3,Sorex araneus Linnaeus 1758,,,
+DUMMY-50,DUMMY-50b,1994-11-24,Carl Peter Thunberg,skin - unspecified,dry,building A|room 2,Sorex araneus Linnaeus 1758,unknown,,Skin missing
+DUMMY-51,DUMMY-51a,1992-01-30,Pehr Löfling,skin - complete (study skin),dry,building A|room 2,Bos taurus Linnaeus 1758,in collection,,
+DUMMY-51,DUMMY-51b,,,skeleton - complete (articulated),dry,building A|room 3,Bos taurus Linnaeus 1758,,,
+DUMMY-52,DUMMY-52a,2000-01-03,Pehr Osbeck,skin - complete (study skin),dry,building A|room 2,Panthera leo Linnaeus 1758,in collection,,
+DUMMY-52,DUMMY-52b,2000-01-03,Pehr Osbeck,"skeleton - partial, with skull",dry,building A|room 3,Panthera leo Linnaeus 1758,,,
+DUMMY-53,DUMMY-53a,,,skeleton - complete (disarticulated),dry,building A|room 3,Lynx lynx Linnaeus 1758,,,
+DUMMY-54,DUMMY-54a,,,skin - unspecified,dry,building A|room 2,Erinaceus europaeus Linnaeus 1758,unknown,,Skin missing
+DUMMY-54,DUMMY-54b,,,"skeleton - partial, with skull",dry,building A|room 3,Erinaceus europaeus Linnaeus 1758,,,
+DUMMY-55,DUMMY-55a,,,skin - complete (study skin),dry,building A|room 2,Uncia uncia Schreber 1775,in collection,,
+DUMMY-55,DUMMY-55b,,,"skeleton - partial, no skull",dry,building A|room 3,Uncia uncia Schreber 1775,,,
+DUMMY-56,DUMMY-56a,1996-03-29,Pehr Löfling,skin - complete (study skin),dry,building A|room 2,Sorex araneus Linnaeus 1758,in collection,,
+DUMMY-56,DUMMY-56b,,,skeleton - skull,dry,building A|room 3,Sorex araneus Linnaeus 1758,,,
+DUMMY-57,DUMMY-57a,,,skin - unspecified,dry,building A|room 2,Panthera leo Linnaeus 1758,in collection,,"Skin missing, but should be here"
+DUMMY-57,DUMMY-57b,,,skeleton - skull,dry,building A|room 3,Panthera leo Linnaeus 1758,,,
+DUMMY-58,DUMMY-58a,,,skin - complete (study skin),dry,building A|room 2,Lophocebus albigena Gray 1850,in collection,,
+DUMMY-58,DUMMY-58b,,,"skeleton - partial, with skull",dry,building A|room 3,Lophocebus albigena Gray 1850,,,
+DUMMY-59,DUMMY-59a,1984-11-03,Pehr Osbeck,skin - complete (study skin),dry,building A|room 2,Sorex araneus Linnaeus 1758,in collection,,
+DUMMY-59,DUMMY-59b,,,skeleton - skull,dry,building A|room 3,Sorex araneus Linnaeus 1758,,,
+DUMMY-60,DUMMY-60a,1996-04-29,Pehr Löfling,skeleton - complete (disarticulated),dry,building A|room 3,Uncia uncia Schreber 1775,,,
+DUMMY-60,DUMMY-60b,,,skin - complete,frozen,building A|room 2,Uncia uncia Schreber 1775,in collection,,Kjellgrens 

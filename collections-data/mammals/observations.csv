@@ -1,0 +1,177 @@
+CatalogNumber,ObservedDate,ObservedBy,ObservationType,Observation,ObservationStandardized,ObservationUnit,ObservationMethod
+DUMMY-1,,Anders Sparrman,sex,,male,,unspecified
+DUMMY-1,,Anders Sparrman,age stage,,embryo,,unspecified
+DUMMY-2,,Peter Jonas Bergius,sex,,unknown,,unspecified
+DUMMY-2,,Peter Jonas Bergius,age stage,,embryo,,unspecified
+DUMMY-3,,Johan Peter Falck,age stage,,adult,,sectioned teeth
+DUMMY-3,,Johan Peter Falck,absolute age,3 e 4,,,sectioned teeth
+DUMMY-4,,Carl Peter Thunberg,sex,,female,,unspecified
+DUMMY-4,,Carl Peter Thunberg,age stage,,adult,,sectioned teeth
+DUMMY-4,,Carl Peter Thunberg,absolute age,3,3,year,sectioned teeth
+DUMMY-5,,Pehr Löfling,sex,,unknown,,
+DUMMY-5,,Pehr Löfling,age stage,,adult,,other
+DUMMY-6,,Daniel Solander,sex,,indeterminate,,unspecified
+DUMMY-6,,Daniel Solander,age stage,,adult,,unspecified
+DUMMY-7,,Pehr Osbeck,sex,,unknown,,unspecified
+DUMMY-8,,Peter Jonas Bergius,sex,,male,,unspecified
+DUMMY-8,,Peter Jonas Bergius,age stage,,juvenile,,other
+DUMMY-8,,Peter Jonas Bergius,absolute age,0,0,year,other
+DUMMY-9,,Pehr Osbeck,sex,,female,,unspecified
+DUMMY-9,,Pehr Osbeck,age stage,,adult,,unspecified
+DUMMY-10,,Johan Peter Falck,sex,,male,,unspecified
+DUMMY-10,,Johan Peter Falck,age stage,,juvenile,,unspecified
+DUMMY-10,,Johan Peter Falck,complete length,975,975,mm,unspecified
+DUMMY-10,,Johan Peter Falck,ear length,84,84,mm,unspecified
+DUMMY-10,,Johan Peter Falck,hind foot length,235,235,mm,unspecified
+DUMMY-10,,Johan Peter Falck,tail anus length,190,190,mm,unspecified
+DUMMY-11,,Pehr Kalm,sex,,unknown,,unspecified
+DUMMY-11,,Pehr Kalm,age stage,,adult,,unspecified
+DUMMY-12,,Daniel Solander,sex,,male,,unspecified
+DUMMY-12,,Daniel Solander,age stage,,adult,,other
+DUMMY-12,,Daniel Solander,absolute age,5,5,year,other
+DUMMY-13,,Pehr Osbeck,sex,,unknown,,unspecified
+DUMMY-13,,Pehr Osbeck,age stage,,adult,,unspecified
+DUMMY-14,,Daniel Solander,sex,,hermaphrodite,,unspecified
+DUMMY-14,,Daniel Solander,age stage,,adult,,unspecified
+DUMMY-15,,Pehr Osbeck,sex,,unknown,,unspecified
+DUMMY-15,,Pehr Osbeck,age stage,,embryo,,unspecified
+DUMMY-16,,Daniel Rolander,sex,,female,,unspecified
+DUMMY-17,,Pehr Löfling,sex,,male,,unspecified
+DUMMY-17,,Pehr Löfling,age stage,,juvenile,,unspecified
+DUMMY-17,,Pehr Löfling,hind foot length,12,12,mm,unspecified
+DUMMY-17,,Pehr Löfling,complete body weight,8,8,mm,unspecified
+DUMMY-18,,Daniel Solander,sex,,female,,unspecified
+DUMMY-19,,Pehr Osbeck,sex,,unknown,,unspecified
+DUMMY-19,,Pehr Osbeck,age stage,,adult,,unspecified
+DUMMY-20,,Daniel Solander,sex,,unknown,,unspecified
+DUMMY-20,,Daniel Solander,age stage,,adult,,unspecified
+DUMMY-21,,Anders Sparrman,sex,,unknown,,unspecified
+DUMMY-22,,Pehr Kalm,sex,,castrated,,unspecified
+DUMMY-22,,Pehr Kalm,absolute age,8,8,year,unspecified
+DUMMY-23,,Pehr Löfling,sex,,male,,unspecified
+DUMMY-23,,Pehr Löfling,age stage,,juvenile,,unspecified
+DUMMY-24,,Daniel Rolander,sex,,female,,unspecified
+DUMMY-24,,Daniel Rolander,age stage,,adult,,known age
+DUMMY-24,,Daniel Rolander,absolute age,ca 18,,,known age
+DUMMY-25,,Daniel Solander,sex,,male,,unspecified
+DUMMY-25,,Daniel Solander,age stage,,adult,,unspecified
+DUMMY-26,,Peter Jonas Bergius,sex,,unknown,,unspecified
+DUMMY-26,,Peter Jonas Bergius,age stage,,adult,,unspecified
+DUMMY-27,,Daniel Solander,sex,,unknown,,unspecified
+DUMMY-28,,Daniel Solander,sex,,unknown,,unspecified
+DUMMY-29,,Pehr Kalm,sex,,unknown,,unspecified
+DUMMY-29,,Pehr Kalm,complete length,159,159,mm,unspecified
+DUMMY-29,,Pehr Kalm,ear length,12,12,mm,unspecified
+DUMMY-29,,Pehr Kalm,hind foot length,15,15,mm,unspecified
+DUMMY-29,,Pehr Kalm,tail anus length,96,96,mm,unspecified
+DUMMY-29,,Pehr Kalm,complete body weight,"7,6","7,6",mm,unspecified
+DUMMY-3,,Johan Peter Falck,sex,,male,,unspecified
+DUMMY-30,,Pehr Kalm,sex,,male,,unspecified
+DUMMY-30,,Pehr Kalm,age stage,,adult,,unspecified
+DUMMY-31,,Pehr Löfling,sex,,male,,unspecified
+DUMMY-31,,Pehr Löfling,absolute age,3,3,year,sectioned teeth
+DUMMY-31,,Pehr Löfling,complete length,1600,1600,mm,unspecified
+DUMMY-31,,Pehr Löfling,ear length,135,135,mm,unspecified
+DUMMY-31,,Pehr Löfling,hind foot length,200,200,mm,unspecified
+DUMMY-31,,Pehr Löfling,complete body weight,143000,143000,mm,unspecified
+DUMMY-32,,Daniel Rolander,sex,,female,,unspecified
+DUMMY-32,,Daniel Rolander,age stage,,juvenile,,known age
+DUMMY-32,,Daniel Rolander,absolute age,1,1,year,known age
+DUMMY-32,,Daniel Rolander,complete body weight,31000,31000,mm,unspecified
+DUMMY-33,,Carl Peter Thunberg,sex,,male,,unspecified
+DUMMY-33,,Carl Peter Thunberg,age stage,,juvenile,,unspecified
+DUMMY-33,,Carl Peter Thunberg,absolute age,1,1,year,unspecified
+DUMMY-33,,Carl Peter Thunberg,complete length,1590,1590,mm,unspecified
+DUMMY-33,,Carl Peter Thunberg,hind foot length,210,210,mm,unspecified
+DUMMY-33,,Carl Peter Thunberg,tail anus length,75,75,mm,unspecified
+DUMMY-33,,Carl Peter Thunberg,complete body weight,103000,103000,mm,unspecified
+DUMMY-34,,Pehr Kalm,sex,,female,,unspecified
+DUMMY-34,,Pehr Kalm,age stage,,adult,,unspecified
+DUMMY-34,,Pehr Kalm,absolute age,12,12,month,unspecified
+DUMMY-35,,Daniel Rolander,sex,,female,,unspecified
+DUMMY-35,,Daniel Rolander,absolute age,1,1,year,unspecified
+DUMMY-35,,Daniel Rolander,ear length,135,135,mm,unspecified
+DUMMY-36,,Daniel Rolander,sex,,female,,unspecified
+DUMMY-36,,Daniel Rolander,complete length,"157,5","157,5",mm,unspecified
+DUMMY-36,,Daniel Rolander,ear length,"12,1","12,1",mm,unspecified
+DUMMY-36,,Daniel Rolander,hind foot length,"24,5","24,5",mm,unspecified
+DUMMY-36,,Daniel Rolander,tail anus length,44,44,mm,unspecified
+DUMMY-36,,Daniel Rolander,tail pelvis length,"42,5","42,5",mm,unspecified
+DUMMY-36,,Daniel Rolander,complete body weight,"38,5","38,5",mm,unspecified
+DUMMY-37,,Carl Peter Thunberg,sex,,female,,unspecified
+DUMMY-37,,Carl Peter Thunberg,complete length,1450,1450,mm,unspecified
+DUMMY-37,,Carl Peter Thunberg,ear length,120,120,mm,unspecified
+DUMMY-37,,Carl Peter Thunberg,hind foot length,190,190,mm,unspecified
+DUMMY-37,,Carl Peter Thunberg,tail anus length,45,45,mm,unspecified
+DUMMY-37,,Carl Peter Thunberg,complete body weight,112000,112000,mm,unspecified
+DUMMY-38,,Carl Peter Thunberg,sex,,male,,unspecified
+DUMMY-38,,Carl Peter Thunberg,complete length,1210,1210,mm,unspecified
+DUMMY-38,,Carl Peter Thunberg,ear length,100,100,mm,unspecified
+DUMMY-38,,Carl Peter Thunberg,hind foot length,260,260,mm,unspecified
+DUMMY-38,,Carl Peter Thunberg,tail anus length,230,230,mm,unspecified
+DUMMY-38,,Carl Peter Thunberg,tail pelvis length,216,216,mm,unspecified
+DUMMY-39,,Pehr Kalm,sex,,male,,unspecified
+DUMMY-39,,Pehr Kalm,age stage,,juvenile,,unspecified
+DUMMY-40,,Daniel Solander,sex,,female,,unspecified
+DUMMY-41,,Peter Jonas Bergius,sex,,male,,unspecified
+DUMMY-42,,Pehr Löfling,sex,,female,,unspecified
+DUMMY-42,,Pehr Löfling,age stage,,adult,,sectioned teeth
+DUMMY-42,,Pehr Löfling,absolute age,11,11,month,sectioned teeth
+DUMMY-43,,Daniel Solander,sex,,female,,
+DUMMY-43,,Daniel Solander,absolute age,1,1,year,sectioned teeth
+DUMMY-43,,Daniel Solander,skinned weight,865,865,g,
+DUMMY-44,,Peter Jonas Bergius,sex,,female,,
+DUMMY-44,,Peter Jonas Bergius,absolute age,5,5,year,sectioned teeth
+DUMMY-44,,Peter Jonas Bergius,skinned weight,886,886,g,unspecified
+DUMMY-45,,Anders Sparrman,sex,,unknown,,unspecified
+DUMMY-45,,Anders Sparrman,body length,67,67,mm,unspecified
+DUMMY-45,,Anders Sparrman,ear length,"22,4","22,4",mm,unspecified
+DUMMY-45,,Anders Sparrman,hind foot length,17,17,mm,unspecified
+DUMMY-45,,Anders Sparrman,tail anus length,67,67,mm,unspecified
+DUMMY-46,,Carl Peter Thunberg,sex,,female,,unspecified
+DUMMY-46,,Carl Peter Thunberg,age stage,,adult,,unspecified
+DUMMY-47,,Daniel Solander,sex,,female,,unspecified
+DUMMY-47,,Daniel Solander,age stage,,adult,,unspecified
+DUMMY-47,,Daniel Solander,complete length,"0,502","0,502",mm,unspecified
+DUMMY-47,,Daniel Solander,hind foot length,149,149,mm,unspecified
+DUMMY-47,,Daniel Solander,tail pelvis length,491,491,mm,unspecified
+DUMMY-48,,Pehr Löfling,sex,,female,,unspecified
+DUMMY-48,,Pehr Löfling,age stage,,adult,,unspecified
+DUMMY-50,,Pehr Kalm,sex,,unknown,,unspecified
+DUMMY-50,,Pehr Kalm,complete length,105,105,mm,unspecified
+DUMMY-50,,Pehr Kalm,hind foot length,12,12,mm,unspecified
+DUMMY-50,,Pehr Kalm,tail anus length,42,42,mm,unspecified
+DUMMY-50,,Pehr Kalm,complete body weight,"5,4","5,4",mm,unspecified
+DUMMY-51,,Carl Peter Thunberg,sex,,unknown,,unspecified
+DUMMY-51,,Carl Peter Thunberg,age stage,,embryo,,unspecified
+DUMMY-52,,Peter Jonas Bergius,sex,,female,,unspecified
+DUMMY-52,,Peter Jonas Bergius,age stage,,adult,,unspecified
+DUMMY-53,,Pehr Kalm,sex,,male,,unspecified
+DUMMY-53,,Pehr Kalm,skinned weight,20000,20000,g,unspecified
+DUMMY-54,,Johan Peter Falck,sex,,male,,unspecified
+DUMMY-54,,Johan Peter Falck,age stage,,juvenile,,unspecified
+DUMMY-54,,Johan Peter Falck,complete length,152,152,mm,unspecified
+DUMMY-54,,Johan Peter Falck,body length,141,141,mm,unspecified
+DUMMY-54,,Johan Peter Falck,ear length,21,21,mm,unspecified
+DUMMY-54,,Johan Peter Falck,hind foot length,34,34,mm,unspecified
+DUMMY-54,,Johan Peter Falck,complete body weight,195,195,mm,unspecified
+DUMMY-55,,Johan Peter Falck,sex,,male,,unspecified
+DUMMY-55,,Johan Peter Falck,age stage,,adult,,unspecified
+DUMMY-55,,Johan Peter Falck,absolute age,ca 4 år,,,unspecified
+DUMMY-56,,Peter Jonas Bergius,sex,,female,,unspecified
+DUMMY-56,,Peter Jonas Bergius,complete length,"116,5","116,5",mm,unspecified
+DUMMY-56,,Peter Jonas Bergius,complete body weight,7,7,mm,unspecified
+DUMMY-57,,Johan Peter Falck,sex,,female,,unspecified
+DUMMY-57,,Johan Peter Falck,age stage,,adult,,unspecified
+DUMMY-58,,Carl Peter Thunberg,sex,,male,,unspecified
+DUMMY-58,,Carl Peter Thunberg,age stage,,adult,,unspecified
+DUMMY-59,,Peter Jonas Bergius,sex,,male?,,unspecified
+DUMMY-59,,Peter Jonas Bergius,age stage,,adult,,unspecified
+DUMMY-59,,Peter Jonas Bergius,complete length,107,107,mm,unspecified
+DUMMY-59,,Peter Jonas Bergius,body length,65,65,mm,unspecified
+DUMMY-59,,Peter Jonas Bergius,hind foot length,13,13,mm,unspecified
+DUMMY-59,,Peter Jonas Bergius,complete body weight,9,9,mm,unspecified
+DUMMY-60,,Pehr Kalm,sex,,male,,unspecified
+DUMMY-60,,Pehr Kalm,age stage,,juvenile,,known age
+DUMMY-60,,Pehr Kalm,absolute age,"0,75","0,75",year,known age
+DUMMY-60,,Pehr Kalm,complete body weight,30500,30500,mm,unspecified

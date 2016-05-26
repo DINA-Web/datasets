@@ -26,6 +26,18 @@ identifications.csv
 * InternalRemarks
 
 
+observations.csv
+----------------
+* CatalogNumber
+* ObservedDate
+* ObservedBy
+* ObservationType
+* Observation
+* ObservationStandardized
+* ObservationUnit
+* ObservationMethod
+
+
 preparations.csv
 ----------------
 * CatalogNumber

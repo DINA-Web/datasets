@@ -103,6 +103,7 @@ value-lists.csv
 ---------------
 * ValueListName
 * Value
+* IsRecommended
 * Remarks
 
 

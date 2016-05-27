@@ -72,6 +72,7 @@ Sex,transitional,yes,
 Sex,indeterminate,yes,
 Sex,castrate,yes,
 Sex,unknown,yes,
+TypeStatusCategory,cotype,no,
 TypeStatusCategory,holotype,yes,"Unique specimen, fixed by original designation or indication"
 TypeStatusCategory,lectotype,yes,"Unique specimen, fixed by designation of a syntype to be the  lectotype"
 TypeStatusCategory,neotype,yes,"Unique specimen, fixed by designation of a specimen to be the neotype"

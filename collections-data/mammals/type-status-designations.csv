@@ -1,0 +1,6 @@
+CatalogNumber,TypifiedName,TypeStatus,IsTypeFragment,IsCurrentTypeStatus,TypeStatusReference,SequentialNumber,TypeStatusRemarks
+DUMMY-9,Epomophorus wahlbergi Sundevall 1846,paratype,no,yes,,1,
+DUMMY-27,Nyctinomus petersi Leche 1884,syntype,no,yes,,1,
+DUMMY-28,Myotis taiwanensis Ärnbäck 1908,syntype,no,yes,,1,
+DUMMY-30,Heliotropium niloticum A. DC.,type,no,yes,,1,
+DUMMY-46,Potamochoerus porcus Linnaeus 1758,cotype,no,yes,,1,

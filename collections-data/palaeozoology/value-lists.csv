@@ -1,0 +1,10 @@
+ValueListName,Value,IsRecommended,Remarks
+TypeStatusCategory,Epitype,yes,
+TypeStatusCategory,Holotype,yes,
+TypeStatusCategory,Isosyntype,yes,
+TypeStatusCategory,Isotype,yes,
+TypeStatusCategory,Lectotype,yes,
+TypeStatusCategory,Neotype,yes,
+TypeStatusCategory,Paratype,yes,
+TypeStatusCategory,Syntype,yes,
+TypeStatusCategory,Original,yes,

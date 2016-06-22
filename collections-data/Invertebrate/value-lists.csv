@@ -54,3 +54,23 @@ TypeStatusCategory,lectotype,yes,
 TypeStatusCategory,paralectotype,yes,
 TypeStatusCategory,neotype,yes,
 TypeStatusCategory,type,yes,
+Sex,female,yes,Fish example data
+Sex,male,yes,Fish example data
+Sex,mixed sample,yes,Fish example data
+Sex,intersex,yes,Fish example data
+Sex,not sexed,yes,Fish example data
+Sex,unknown,yes,Fish example data
+LifeStage,adolescent,yes,Fish example data
+LifeStage,adult,yes,Fish example data
+LifeStage,ammocoetes,yes,Fish example data
+LifeStage,egg,yes,Fish example data
+LifeStage,embryo,yes,Fish example data
+LifeStage,juvenile,yes,Fish example data
+LifeStage,larva,yes,Fish example data
+LifeStage,leptocephalus,yes,Fish example data
+LifeStage,N/A,yes,Fish example data
+LifeStage,nest,yes,Fish example data
+LifeStage,undetermined,yes,Fish example data
+LifeStage,unknown,yes,Fish example data
+LifeStage,young,yes,Fish example data
+LifeStage,young to adult,yes,Fish example data
